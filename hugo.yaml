@@ -1,0 +1,112 @@
+baseURL: https://shrewsburyrobotics.org/
+languageCode: en-us
+title: Shrewsbury Robotics
+theme: ["beautifulhugo"]
+
+
+disableKinds: ["taxonomy", "RSS", "sitemap"]
+
+params:
+  bigimg:
+  - src: "wheelPodThroughTheYears.jpg"
+  author:
+    website: "https://www.shrewsburyrobotics.org"
+    github: orgs/team467
+    twitter: https://twitter.com/frc467
+    facebook: https://www.facebook.com/shrewsburyrobotics
+    instagram: https://www.instagram.com/shrewsburyrobotics467/
+    email: info@shrewsburyrobotics.org
+
+menus:
+  main:
+  - name: Programs
+    weight: 10
+
+  - name: FIRST Lego League
+    pageRef: /programs/fll
+    weight: 10
+    parent: Programs
+  - name: Summer Program
+    pageRef: /programs/summer
+    weight: 20
+    parent: Programs
+
+
+  - name: FIRST Robotics Competition
+    weight: 20
+  - name: About FIRST Robotics Competition
+    pageRef: /programs/frc/about-frc
+    parent: FIRST Robotics Competition
+    weight: 10
+  - name: 2019 Destination Deep Space
+    pageRef: /programs/frc/2019-destination-deep-space
+    parent: FIRST Robotics Competition
+    weight: 20
+  - name: 2018 Power Up
+    pageRef: /programs/frc/2018-power-up
+    parent: FIRST Robotics Competition
+    weight: 30
+  - name: 2017 Steamworks
+    pageRef: /programs/frc/2017-steamworks
+    parent: FIRST Robotics Competition
+    weight: 40
+  - name: 2016 Stronghold
+    pageRef: /programs/frc/2016-stronghold
+    parent: FIRST Robotics Competition
+    weight: 50
+  - name: 2015 Recycle Rush
+    pageRef: /programs/frc/2015-recycle-rush
+    parent: FIRST Robotics Competition
+    weight: 60
+  - name: 2014 Arial Assist
+    pageRef: /programs/frc/2014-arial-assist
+    parent: FIRST Robotics Competition
+    weight: 70
+  - name: 2013 Ultimate Ascent
+    pageRef: /programs/frc/2013-ultimate-ascent
+    parent: FIRST Robotics Competition
+    weight: 80
+  - name: 2012 Rebound Rumble
+    pageRef: /programs/frc/2012-rebound-rumble
+    parent: FIRST Robotics Competition
+    weight: 90
+
+  - name: Resources
+    pageRef: /resources
+    weight: 30
+  - name: Calendar
+    pageRef: /resources/calendar
+    parent: Resources
+    weight: 10
+  - name: Team Meals
+    pageRef: /resources/team-meals
+    parent: Resources
+    weight: 20
+
+  - name: Events / Outreach
+    pageRef: /events
+    weight: 40
+  - name: Winter Market
+    pageRef: /events/winter-market
+    parent: Events / Outreach
+    weight: 10
+  - name: Annual Pie Bake
+    pageRef: /events/annual-pie-bake
+    parent: Events / Outreach
+    weight: 20
+  - name: G.I.R.L.S Workshop
+    pageRef: /events/girls-workshop
+    parent: Events / Outreach
+    weight: 30
+  - name: Mindstorm Mayhem
+    pageRef: /events/mindstorm-mayhem
+    parent: Events / Outreach
+    weight: 40
+  - name: Spirit of Shrewsbury
+    pageRef: /events/spirit-of-shrewsbury
+    parent: Events / Outreach
+    weight: 50
+
+  - name: Sponsors
+    pageRef: /sponsors
+    weight: 50
