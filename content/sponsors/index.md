@@ -30,4 +30,4 @@ build:
 |---|
 
 
-If you are interested in sponsoring our team, please see our current [sponsorship brochure](Sponsorship-Brochure2022.pdf) go to print, select “more settings,” select “print double sided” and select “flip on long edge.”
+If you are interested in sponsoring our team, please see our current [sponsorship brochure](Sponsorship-Brochure2022.pdf)
