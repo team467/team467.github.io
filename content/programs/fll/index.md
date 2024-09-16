@@ -1,8 +1,6 @@
 ---
 date: '2011-07-19T14:17:51-04:00'
 title: Start Your Own FIRST Lego League (FLL) Team!
-build:
-  list: never
 ---
 
 

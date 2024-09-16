@@ -1,8 +1,6 @@
 ---
 date: '2016-11-04T09:40:46-04:00'
 title: Annual Pie Bake
-build:
-  list: never
 ---
 
 For over a decade, Team 467 has been building, baking, and selling fresh apple pies as one of the team’s primary student-run fundraisers.

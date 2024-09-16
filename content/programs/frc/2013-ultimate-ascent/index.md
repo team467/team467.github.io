@@ -1,8 +1,6 @@
 ---
 date: '2013-01-13T15:32:51-05:00'
 title: Ultimate Ascent 2013
-build:
-  list: never
 ---
 
 ![UltimateAscent](UltimateAscent.jpg "Ultimate Ascent")

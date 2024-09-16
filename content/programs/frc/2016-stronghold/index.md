@@ -1,8 +1,6 @@
 ---
 date: '2016-10-23T15:25:53-04:00'
 title: 2016 Stronghold
-build:
-  list: never
 ---
 
 ![first-stronghold-logo-color](first-stronghold-logo-color.jpg)

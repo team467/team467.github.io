@@ -1,8 +1,6 @@
 ---
 date: '2011-07-19T14:17:04-04:00'
 title: MindStorm Mayhem
-build:
-  list: never
 ---
 
 ![Mindstorm Mayhem Logo](mm_logo2.jpg)

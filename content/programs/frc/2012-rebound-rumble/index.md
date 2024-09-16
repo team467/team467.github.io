@@ -1,8 +1,6 @@
 ---
 date: '2012-04-03T15:31:29-04:00'
 title: Rebound Rumble 2012
-build:
-  list: never
 ---
 
 

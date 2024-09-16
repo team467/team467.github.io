@@ -1,8 +1,6 @@
 ---
 date: '2019-01-31T11:36:11-05:00'
 title: 2019 Destination Deep Space
-build:
-  list: never
 ---
 
 ![](FIRST-DestDeepSpace-logo_full-color-sponsor.png)

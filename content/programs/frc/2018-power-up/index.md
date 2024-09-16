@@ -1,8 +1,6 @@
 ---
 date: '2017-09-25T14:19:00-04:00'
 title: 2018 Power Up
-build:
-  list: never
 ---
 
 ![Power Up](FIRST-FRC18-PowerUp-OneLine.jpg)

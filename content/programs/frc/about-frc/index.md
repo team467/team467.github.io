@@ -1,8 +1,6 @@
 ---
 date: '2011-07-19T14:16:39-04:00'
 title: First Robotics Competition Team 467 - The Shrewsbury Colonials
-build:
-  list: never
 ---
 
 {{< columns >}}

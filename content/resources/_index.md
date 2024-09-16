@@ -1,0 +1,6 @@
+---
+cascade:
+- build:
+    list: never
+---
+

@@ -1,8 +1,6 @@
 ---
 date: '2015-06-22T14:49:14-04:00'
 title: 2014 Aerial Assist
-build:
-  list: never
 ---
 
 ![AerialAssist_RGB-THUMB](AerialAssist_RGB-THUMB.png)

@@ -1,8 +1,6 @@
 ---
 date: '2011-07-19T14:18:10-04:00'
 title: Summer Program
-build:
-  list: never
 ---
 
 # Shrewsbury Robotics Summer Program

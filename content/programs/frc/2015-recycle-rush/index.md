@@ -1,8 +1,6 @@
 ---
 date: '2015-06-22T15:05:05-04:00'
 title: 2015 Recycle Rush
-build:
-  list: never
 ---
 
 ![RecycleRush-thumb](RecycleRush-thumb.jpg)

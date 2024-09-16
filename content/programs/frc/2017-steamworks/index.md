@@ -1,8 +1,6 @@
 ---
 date: '2017-09-25T14:17:21-04:00'
 title: 2017 Steamworks
-build:
-  list: never
 ---
 
 ![first-stronghold-logo-color](first-steamworks-transparent-logo.png)

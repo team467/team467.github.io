@@ -1,8 +1,6 @@
 ---
 date: '2018-01-27T14:04:05-05:00'
 title: G.I.R.L.S Workshop
-build:
-  list: never
 ---
 
 

@@ -1,8 +1,6 @@
 ---
 date: '2015-06-22T15:14:05-04:00'
 title: Calendar
-build:
-  list: never
 ---
 
 The team maintains a shared calendar that you can subscribe to in order to stay up to date with events. This calendar is regularly updated by the team mentors.
