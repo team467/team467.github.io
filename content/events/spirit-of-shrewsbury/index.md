@@ -5,7 +5,7 @@ build:
   list: never
 ---
 
-Every year as the leaves change color, Team 467 attends the Annual [Spirit of Shrewsbury](http://www.spiritofshrewsbury.org/index.html) (S.O.S.) Fall Festival. This festival allows members of the Shrewsbury community to enjoy and learn about many of the town’s schools, clubs and organization. Our team has attended and participated since our founding, allowing the community to experience what we are all about and spread the message of [FIRST](http://www.firstinspires.org/robotics/frc) and [STEM](https://en.wikipedia.org/wiki/Science,_Technology,_Engineering,_and_Mathematics).
+Every year as the leaves change color, Team 467 attends the Annual [Spirit of Shrewsbury](http://www.spiritofshrewsbury.org/) (S.O.S.) Fall Festival. This festival allows members of the Shrewsbury community to enjoy and learn about many of the town’s schools, clubs and organization. Our team has attended and participated since our founding, allowing the community to experience what we are all about and spread the message of [FIRST](http://www.firstinspires.org/robotics/frc) and [STEM](https://en.wikipedia.org/wiki/Science,_Technology,_Engineering,_and_Mathematics).
 
 ![Team Flag in Parade](2012-09-30-Flag.jpg)
 
