@@ -21,7 +21,6 @@ menus:
   main:
   - name: Programs
     weight: 10
-
   - name: FIRST Lego League
     pageRef: /programs/fll
     weight: 10
@@ -72,7 +71,6 @@ menus:
     weight: 90
 
   - name: Resources
-    pageRef: /resources
     weight: 30
   - name: Calendar
     pageRef: /resources/calendar
@@ -84,7 +82,6 @@ menus:
     weight: 20
 
   - name: Events / Outreach
-    pageRef: /events
     weight: 40
   - name: Winter Market
     pageRef: /events/winter-market
