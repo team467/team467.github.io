@@ -80,30 +80,31 @@ menus:
     pageRef: /resources/team-meals
     parent: Resources
     weight: 20
+  - name: Sponsors
+    pageRef: /resources/sponsors
+    parent: Resources
+    weight: 30
 
-  - name: Events / Outreach
+  - name: Events
     weight: 40
   - name: Winter Market
     pageRef: /events/winter-market
-    parent: Events / Outreach
+    parent: Events
     weight: 10
   - name: Annual Pie Bake
     pageRef: /events/annual-pie-bake
-    parent: Events / Outreach
+    parent: Events
     weight: 20
   - name: G.I.R.L.S Workshop
     pageRef: /events/girls-workshop
-    parent: Events / Outreach
+    parent: Events
     weight: 30
   - name: Mindstorm Mayhem
     pageRef: /events/mindstorm-mayhem
-    parent: Events / Outreach
+    parent: Events
     weight: 40
   - name: Spirit of Shrewsbury
     pageRef: /events/spirit-of-shrewsbury
-    parent: Events / Outreach
+    parent: Events
     weight: 50
 
-  - name: Sponsors
-    pageRef: /sponsors
-    weight: 50

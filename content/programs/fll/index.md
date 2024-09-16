@@ -1,8 +1,8 @@
 ---
 date: '2011-07-19T14:17:51-04:00'
-title: Start Your Own FIRST Lego League (FLL) Team!
+title: FIRST Lego League (FLL)
+subtitle: Start Your Own Team!
 ---
-
 
 **Shrewsbury Robotics will not be running an FLL Program this fall, but we are happy to assist interested parents in starting an FLL team of their own.**
 

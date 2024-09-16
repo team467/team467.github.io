@@ -1,12 +1,8 @@
 ---
 date: '2014-12-03T20:39:34-05:00'
 title: Sponsors
-build:
-  list: never
+subtitle: THANK YOU TO OUR 2022-2023 SPONSORS
 ---
-
-# THANK YOU TO OUR 2022-2023 SPONSORS
-
 
 #### SHREWSBURY ROBOTICS *PLATINUM* SPONSORS:
 
