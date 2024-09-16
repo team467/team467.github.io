@@ -8,7 +8,9 @@ mainSections: ["posts"]
 
 params:
   bigimg:
-  - src: "wheelPodThroughTheYears.jpg"
+  - src: "images/wheelPodThroughTheYears.jpg"
+  - src: "images/2023-Team-Photo.jpg"
+
   author:
     website: "https://www.shrewsburyrobotics.org"
     github: orgs/team467
