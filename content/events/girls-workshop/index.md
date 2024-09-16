@@ -3,7 +3,6 @@ date: '2018-01-27T14:04:05-05:00'
 title: G.I.R.L.S Workshop
 ---
 
-
 ![G.I.R.L.S workshop](2019_GirlsDay.png)
 
 **The G.I.R.L.S.** (***Girls Innovating and Recognizing Leadership in STEM***) Workshop is an exciting and interactive event for girls in grades 6-9th. The event will be held at Shrewsbury High School, 64 Holden Street, Shrewsbury, MA 01545 on Saturday April 20th, 2019, 10 am -1pm.

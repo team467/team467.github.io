@@ -30,7 +30,6 @@ menus:
     weight: 20
     parent: Programs
 
-
   - name: FIRST Robotics Competition
     weight: 20
   - name: About FIRST Robotics Competition
