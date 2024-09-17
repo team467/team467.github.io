@@ -49,7 +49,7 @@ For example, here is Team 467 competing in the semi final at our first 2024 seas
 
 A key element of competing in FIRST Robotics is the concept of [Gracious Professionalism](https://www.firstinspires.org/node/20891) first coined by one of the founders of FIRST; Dr. Woody Flowers.
 
-**FRC Team 467: Colonials** embraces Gracious Professionalism and looks to apply it to all aspects of our team and community.
+**FRC Team 467: Colonials** embraces Gracious Professionalism and applies it to all aspects of our team and community.
 
 ---
 
