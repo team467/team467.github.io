@@ -3,7 +3,7 @@ date: '2012-01-14T18:25:05-05:00'
 title: Team Meals
 ---
 
-Shrewsbury Colonials eat together as a team during the longer work days of the build season. Most weeks we have meals on **Friday Dinner, Saturday Lunch and Saturday Dinner**, however during vacation and at the end of the build season, meals on other days will also be added.
+Colonials eat together as a team during the longer work days of the build season. Most weeks we have meals on **Friday Dinner, Saturday Lunch and Saturday Dinner**, however during vacation and at the end of the build season, meals on other days will also be added.
 
 **Providing one team meal is a requisite for travel with the team.**
 

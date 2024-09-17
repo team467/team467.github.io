@@ -40,15 +40,15 @@ menus:
     pageRef: /programs/frc/about-frc
     parent: FIRST Robotics Competition
     weight: 10
-  - name: 2024 Crescendo
+  - name: "2024: Crescendo"
     pageRef: /programs/frc/2024-crescendo
     parent: FIRST Robotics Competition
     weight: 20
-  - name: 2023 Charged Up
+  - name: "2023: Charged Up"
     pageRef: /programs/frc/2023-charged-up
     parent: FIRST Robotics Competition
     weight: 30
-  - name: 2022 Rapid React
+  - name: "2022: Rapid React"
     pageRef: /programs/frc/2022-rapid-react
     parent: FIRST Robotics Competition
     weight: 40
