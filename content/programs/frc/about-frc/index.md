@@ -23,7 +23,7 @@ This program is open to any High School student who attends Shrewsbury High Scho
 
 The team is led by student leaders, industry engineers, parents, and community members. An engineering committee consisting of mentors and engineering sub-team student leaders direct the creation of the robot throughout the build season which starts in early January.
 
-After the robot is complete, the team competes in at least two district competitions; these usually occur in late February, through March. If eligible, we also compete in the District and National Championship Competitions.
+After the robot is complete, the team competes in at least two district competitions; these usually occur in late February, through March. If eligible, we also compete in the New England District and World Championship Competitions.
 
 Throughout the year, the team also actively works to support the [mission of FIRST](https://www.firstinspires.org/about) through outreach and participation in many team  and community events.
 
@@ -47,7 +47,7 @@ For example, here is Team 467 competing in the semi final at our first 2024 seas
 
 ### Gracious Professionalism
 
-A key element of competing in FIRST Robotics is the concept of [Gracious Professionalism](https://www.firstinspires.org/node/20891) first coined by one of the founders of FIRST; Dr. Woody Flowers.
+A key element of competing in FIRST Robotics is the concept of [Gracious Professionalism](https://www.firstinspires.org/node/20891) first coined by one of the founders of FIRST; Dr. Woodie Flowers.
 
 **FRC Team 467: Colonials** embraces Gracious Professionalism and applies it to all aspects of our team and community.
 
