@@ -1,4 +1,2 @@
 ## Under Construction
-This is a placeholder website, based on the latest content from www.shrewsburyrobotics.org.
-
-It is very out of date and needs to be updated before using as the main source of information.
+Please bear with us while we bring our website up to date
