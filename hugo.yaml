@@ -40,38 +40,18 @@ menus:
     pageRef: /programs/frc/about-frc
     parent: FIRST Robotics Competition
     weight: 10
-  - name: 2019 Destination Deep Space
-    pageRef: /programs/frc/2019-destination-deep-space
+  - name: 2024 Crescendo
+    pageRef: /programs/frc/2024-crescendo
     parent: FIRST Robotics Competition
     weight: 20
-  - name: 2018 Power Up
-    pageRef: /programs/frc/2018-power-up
+  - name: 2023 Charged Up
+    pageRef: /programs/frc/2023-charged-up
     parent: FIRST Robotics Competition
     weight: 30
-  - name: 2017 Steamworks
-    pageRef: /programs/frc/2017-steamworks
+  - name: 2022 Rapid React
+    pageRef: /programs/frc/2022-rapid-react
     parent: FIRST Robotics Competition
     weight: 40
-  - name: 2016 Stronghold
-    pageRef: /programs/frc/2016-stronghold
-    parent: FIRST Robotics Competition
-    weight: 50
-  - name: 2015 Recycle Rush
-    pageRef: /programs/frc/2015-recycle-rush
-    parent: FIRST Robotics Competition
-    weight: 60
-  - name: 2014 Arial Assist
-    pageRef: /programs/frc/2014-arial-assist
-    parent: FIRST Robotics Competition
-    weight: 70
-  - name: 2013 Ultimate Ascent
-    pageRef: /programs/frc/2013-ultimate-ascent
-    parent: FIRST Robotics Competition
-    weight: 80
-  - name: 2012 Rebound Rumble
-    pageRef: /programs/frc/2012-rebound-rumble
-    parent: FIRST Robotics Competition
-    weight: 90
 
   - name: Resources
     weight: 30
