@@ -19,6 +19,8 @@ params:
     instagram: https://www.instagram.com/shrewsburyrobotics467/
     email: info@shrewsburyrobotics.org
 
+  hideauthor: true
+
 menus:
   main:
   - name: Programs
