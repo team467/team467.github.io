@@ -39,13 +39,13 @@ title: '2024: Crescendo'
 
 {{< columns >}}
 
-[![Crescendo Logo](crescendo-frc-logo.svg)](https://en.wikipedia.org/wiki/Crescendo_(FIRST))
-
-{{< column >}}
-
 In [**_Crescendo_**](https://en.wikipedia.org/wiki/Crescendo_(FIRST)), two competing alliances are invited to score notes, amplify their speaker,
 harmonize onstage, and take the spotlight before time runs out. Alliances earn additional rewards for meeting
 specific scoring thresholds and for cooperating with their opponents.
+
+{{< column >}}
+
+[![Crescendo Logo](crescendo-frc-logo.svg)](https://en.wikipedia.org/wiki/Crescendo_(FIRST))
 
 {{< endcolumns >}}
 
