@@ -57,7 +57,7 @@ A key element of competing in FIRST Robotics is the concept of [Gracious Profess
 
 In addition to the fun of participating in FIRST Robotics Competition, students also gain the following:
 
-* Learn real-world mechanical engineering, manufacturing, electronics and programming skills from professional engineers
+* Learn real-world **mechanical engineering**, **manufacturing**, **electronics** and **programming** skills from professional engineers
 * Build and compete with a robot of their own design and manufacture
 * Learn to use modern, complex software and hardware in an integrated system
 * Compete and cooperate with their peers in alliances and tournaments
