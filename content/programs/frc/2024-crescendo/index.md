@@ -1,5 +1,5 @@
 ---
-date: '2024-01-06T12:99:99-05:00'
+date: '2024-01-06T12:00:00-05:00'
 title: '2024: Crescendo'
 ---
 
@@ -58,4 +58,3 @@ specific scoring thresholds and for cooperating with their opponents.
 ### Season Recap Video
 
 [![Season Recap Video](2024-season-recap.png)](2024-season-recap.mp4)
-
