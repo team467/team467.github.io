@@ -1,5 +1,5 @@
 ---
-date: '20234-01-07T12:99:99-05:00'
+date: '2023-01-07T12:99:99-05:00'
 title: '2023: Charged Up'
 ---
 
@@ -41,11 +41,7 @@ title: '2023: Charged Up'
 
 {{< columns >}}
 
-In **_CHARGED UP_**, two competing alliances are invited to process game pieces to
-bring energy to their community. Each alliance brings energy to their community by retrieving their game
-pieces from substations and scoring it into the grid. Human players provide the game pieces to the
-robots from the substations. In the final moments of each match, alliance robots race to dock or engage
-with their charge station!
+In **_CHARGED UP_**, two competing alliances are invited to process game pieces to bring energy to their community. Each alliance brings energy to their community by retrieving their game pieces from substations and scoring it into the grid. Human players provide the game pieces to the robots from the substations. In the final moments of each match, alliance robots race to dock or engage with their charge station!
 
 {{< column >}}
 
