@@ -6,6 +6,7 @@ theme: ["beautifulhugo"]
 disableKinds: ["taxonomy", "RSS", "sitemap"]
 
 params:
+  selfHosted: true
   mainSections: ["posts"]
   bigimg:
   - src: "images/wheelPodThroughTheYears.jpg"
