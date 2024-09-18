@@ -31,7 +31,7 @@ Throughout the year, the team also actively works to support the [mission of FIR
 
 ### Experience a FIRST Robotics Competition
 
-The best way to experience FIRST Robotics is to attend a [local competition](https://frc-events.firstinspires.org). All events are free and open to the public.
+The best way to experience FIRST Robotics is to attend a [local competition](https://www.nefirst.org/district-events). All events are free and open to the public.
 
 Alternatively, you can gain some understanding by watching many of the matches available on YouTube.
 
