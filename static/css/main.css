@@ -1,9 +1,10 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+/*  color: #404040; */
+  color: #283549;
   position: relative;
   background: #FFF;
   display: flex;
@@ -31,19 +32,22 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+/*  color: #008AFF; */
+    color: #C5B358;
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #C5B358;
+/*  color: #008AFF; */
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #C5B358; 
+/*  color: #0085a1; */
 }
 blockquote {
   color: #808080;
@@ -70,7 +74,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -79,7 +83,7 @@ hr.small {
 }
 
 div.panel-body a.list-group-item {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   font-weight: 800;
   border-radius: 0;
   border: none;
@@ -99,7 +103,8 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #C5B358; 
+/*  background: #0085a1; */
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -136,7 +141,7 @@ img {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -148,14 +153,16 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #283549;
+/*  color: #404040; */
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #C5B358; 
+/*  color: #0085a1; */
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -303,8 +310,8 @@ footer {
 }
 
 footer a {
-  color: #404040;
-
+  color: #283549;
+/*  color: #404040; */
 }
 
 footer .list-inline {
@@ -312,7 +319,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -329,9 +336,9 @@ footer div.disclaimer {
   border-right-width: 10px;
   border-radius: 5px 3px 3px 5px;
   background-color: #fdf5d4;
-  border-left-color: #f1c40f;
-  border-right-color: #f1c40f;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-left-color: #C5B358;
+  border-right-color: #C5B358;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
@@ -365,13 +372,15 @@ footer div.disclaimer {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #283549;
+/*  color: #404040;*/
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #C5B358;
+/*  color: #0085a1; */
 }
 
 .post-preview .post-title {
@@ -397,11 +406,12 @@ footer div.disclaimer {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #404040;
+  color: #283549;
+/*  color: #404040;*/
   text-decoration: none;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -440,7 +450,7 @@ footer div.disclaimer {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -451,7 +461,8 @@ footer div.disclaimer {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #C5B358;
+/*  color: #008AFF; */
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -462,7 +473,8 @@ footer div.disclaimer {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #C5B358;
+/*  color: #008AFF;*/
   background-color: #CCC;
 }
 
@@ -545,7 +557,7 @@ footer div.disclaimer {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -570,7 +582,7 @@ footer div.disclaimer {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -646,7 +658,7 @@ footer div.disclaimer {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -654,7 +666,8 @@ footer div.disclaimer {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #283549;
+/*  color: #404040;*/
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -664,8 +677,10 @@ footer div.disclaimer {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #C5B358;
+/*  background: #0085a1; */
+  border: 1px solid #C5B358;
+/*  border: 1px solid #0085a1;*/
 }
 
 .pager {
@@ -763,7 +778,7 @@ div.splitbox div.right {
 
 /* Delayed Disqus */
 .disqus-comments button {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Play', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -771,7 +786,8 @@ div.splitbox div.right {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #283549;
+/*  color: #404040;*/
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
@@ -781,8 +797,8 @@ div.splitbox div.right {
 .disqus-comments button:hover, 
 .disqus-comments button:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #C5B358;
+  border: 1px solid #C5B358;
 }
 
 /* Related posts */
