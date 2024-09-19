@@ -7,6 +7,8 @@ title: '2022: Rapid React'
 
 ### Robot: GEOFFREY
 
+---
+
 {{< figure src="2022-robot-geoffrey.jpg" >}}
 
 {{< column >}}
