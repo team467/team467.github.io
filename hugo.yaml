@@ -41,6 +41,10 @@ menus:
     pageRef: /programs/frc/about-frc
     parent: FIRST Robotics Competition
     weight: 10
+  - name: "2025: Reefscape"
+    pageRef: /programs/frc/2025-reefscape
+    parent: FIRST Robotics Competition
+    weight: 15
   - name: "2024: Crescendo"
     pageRef: /programs/frc/2024-crescendo
     parent: FIRST Robotics Competition
