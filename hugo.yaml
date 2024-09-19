@@ -53,6 +53,10 @@ menus:
     pageRef: /programs/frc/2022-rapid-react
     parent: FIRST Robotics Competition
     weight: 40
+  - name: "2020: Infinite Recharge"
+    pageRef: /programs/frc/2020-infinite-recharge
+    parent: FIRST Robotics Competition
+    weight: 50
 
   - name: Resources
     weight: 30

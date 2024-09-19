@@ -5,7 +5,7 @@ title: '2023: Charged Up'
 
 {{< columns >}}
 
-### Robot
+### Robot: GRAB CRAB
 
 {{< figure src="2023-robot-grabcrab.jpg" >}}
 

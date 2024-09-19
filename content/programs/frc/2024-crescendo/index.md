@@ -5,7 +5,7 @@ title: '2024: Crescendo'
 
 {{< columns >}}
 
-### Robot
+### Robot: SHUFFLE
 
 {{< figure src="2024-robot-shuffle.jpg" >}}
 
