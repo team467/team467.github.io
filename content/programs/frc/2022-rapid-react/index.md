@@ -29,7 +29,14 @@ title: '2022: Rapid React'
 
 ---
 
-[![2022 Competition Stats](2022-competition-stats.png)](https://www.statbotics.io/team/467)
+{{< statbotics
+    record="18-23-1" year="2022"
+    auto="5.6" teleop="5.4" endgame="5.0" total="16.1"
+    ww-place="1261" ww-outof="3053"
+    us-place="1138" us-outof="2593"
+    ne-place="93"  ne-outof="182"
+    ma-place="32"  ma-outof="69"
+>}}
 
 {{< endcolumns >}}
 

@@ -1,0 +1,53 @@
+/* CSS for statbotics shortcut */
+
+.statbotics p {
+    font-size:12px;
+    margin-top:10px;
+}
+
+.statbotics .blue {
+    background-color:rgb(31, 119, 180);
+}
+
+.statbotics .orange {
+    background-color:rgb(255, 127, 14);
+}
+
+.statbotics .green {
+    background-color:rgb(44, 160, 44);
+}
+
+.statbotics .red {
+    background-color:rgb(214, 39, 40);
+}
+
+.statbotics .box {
+    font-size:10px;
+    color:white;
+    border-radius:3px;
+    padding:5px;
+}
+
+.statbotics .block {
+    background-color:rgb(31, 119, 180);
+    color:white;
+    text-align:center;
+    vertical-align:middle;
+    float:left;
+    border-radius:6px;
+    margin:3px;
+    width:calc(25% - 6px);
+}
+
+.statbotics .block h1 {
+    font-size:18px;
+    padding-top:5px;
+    margin:0;
+}
+
+.statbotics .block p {
+    font-size:10px;
+    line-height:1;
+    padding-bottom:5px;
+    margin:5px;
+}

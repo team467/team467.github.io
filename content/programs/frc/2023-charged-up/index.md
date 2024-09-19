@@ -31,7 +31,14 @@ title: '2023: Charged Up'
 
 ---
 
-[![2023 Competition Stats](2023-competition-stats.png)](https://www.statbotics.io/team/467)
+{{< statbotics
+    record="24-21-1" year="2023"
+    auto="8.3" teleop="25.7" endgame="8.9" total="43.5"
+    ww-place="517" ww-outof="3284"
+    us-place="460" us-outof="2687"
+    ne-place="43"  ne-outof="185"
+    ma-place="15"  ma-outof="66"
+>}}
 
 {{< endcolumns >}}
 

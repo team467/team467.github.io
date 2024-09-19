@@ -1,0 +1,39 @@
+<!--
+    Shortcode specific to Team 467 for easily including statbotics data in markdown.
+    This will render the data in the same style as the statbotics.io web page.
+-->
+<!-- count how many times we've called this shortcode; load the css if it's the first time -->
+{{- if not ($.Page.Scratch.Get "statboticscount") }}<link rel="stylesheet" href="{{ "css/statbotics.css" | absURL}}" />{{ end }}
+{{- $.Page.Scratch.Add "statboticscount" 1 -}}
+
+<h4><a href="https://www.statbotics.io/team/467" target="_blank">statbotics.io Data</a></h4>
+
+<div class=statbotics>
+
+<p>Team 467 (Colonials) had a record of <strong>{{ .Get "record" }}</strong> in {{ .Get "year" }}.</p>
+
+<p>EPA Breakdown:
+<span class="box blue">Auto: <strong>{{ .Get "auto" }}</strong></span>
+<span class="box orange">Teleop: <strong>{{ .Get "teleop" }}</strong></span>
+<span class="box green">Endgame: <strong>{{ .Get "endgame" }}</strong></span>
+<span class="box red">Total: <strong>{{ .Get "total" }}</strong></span>
+
+<p>
+
+<div class="block">
+    <h1>{{ .Get "ww-place" }}</h1>
+    <p>Worldwide<br>out of {{ .Get "ww-outof" }}</p>
+</div>
+<div class="block">
+    <h1>{{ .Get "us-place" }}</h1>
+    <p>USA<br>out of {{ .Get "us-outof" }}</p>
+</div>
+<div class="block">
+  <h1>{{ .Get "ne-place" }}</h1>
+    <p>New England<br>out of {{ .Get "ne-outof" }}</p>
+</div>
+<div class="block">
+    <h1>{{ .Get "ma-place" }}</h1>
+    <p>Massachusetts<br>out of {{ .Get "ma-outof" }}</p>
+</div>
+</div>

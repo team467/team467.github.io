@@ -29,7 +29,14 @@ title: '2024: Crescendo'
 
 ---
 
-[![2024 Competition Stats](2024-competition-stats.png)](https://www.statbotics.io/team/467)
+{{< statbotics
+    record="23-18-2" year="2024"
+    auto="9.4" teleop="13.7" endgame="2.4" total="25.5"
+    ww-place="580" ww-outof="3474"
+    us-place="500" us-outof="2806"
+    ne-place="47"  ne-outof="182"
+    ma-place="17"  ma-outof="69"
+>}}
 
 {{< endcolumns >}}
 
