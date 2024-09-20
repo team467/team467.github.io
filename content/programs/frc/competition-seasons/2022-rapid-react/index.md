@@ -64,7 +64,7 @@ In **_RAPID REACT_**, two competing alliances are invited to process cargo for t
 
 ### Chairman's Award Video
 
-[![Chairman's Award Video](2022-chairmans-video.png)](2022-chairmans-video.mp4)
+{{< video src="2022-chairmans-video" >}}
 
 ### Team Photo
 {{< figure src="2022-team-photo.jpg" >}}
