@@ -45,7 +45,7 @@ In 2022, Team 467 competed with our robot **_GEOFFREY_** at the **_Granite State
 {{< columns >}}
 
 ### [2020: Infinite Recharge](2020-infinite-recharge)
-In 2020, Team 467 competed with our robot at the **_Granite State_** District Qualifiers. The remained of the season was cancelled due to the COVID-19 pandemic.
+In 2020, Team 467 competed with our robot at the **_Granite State_** District Qualifiers. The remainder of the season was cancelled due to the COVID-19 pandemic.
 
 {{< column >}}
 
