@@ -66,4 +66,4 @@ specific scoring thresholds and for cooperating with their opponents.
 
 ### Season Recap Video
 
-{{< video src="2024-season-recap" >}})
+{{< video src="2024-season-recap" >}}
