@@ -21,7 +21,7 @@ title: '2023: Charged Up'
 
 * [Granite State](https://www.thebluealliance.com/event/2023nhgrs)
 * [Western NE](https://www.thebluealliance.com/event/2023mawne)
-  * _Creativity Award sponsored by Rockwell Automation_
+  * _Creativity Award_
 * [District Championship](https://www.thebluealliance.com/event/2023necmp2)
   * _District Championship Finalist_
 
