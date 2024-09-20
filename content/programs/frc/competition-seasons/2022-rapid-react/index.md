@@ -60,3 +60,7 @@ In **_RAPID REACT_**, two competing alliances are invited to process cargo for t
 
 {{< youtube LgniEjI9cCM >}}
 
+---
+
+### Team Photo
+{{< figure src="2022-team-photo.jpg" >}}

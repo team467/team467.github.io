@@ -60,3 +60,8 @@ In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples o
 
 {{< youtube Mew6G_og-PI >}}
 
+
+---
+
+### Team Photo
+{{< figure src="2019-team-photo.jpg" >}}

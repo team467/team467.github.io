@@ -62,3 +62,7 @@ In **_CHARGED UP_**, two competing alliances are invited to process game pieces 
 
 {{< youtube 0zpflsYc4PA >}}
 
+---
+
+### Team Photo
+{{< figure src="2023-team-photo.jpg" >}}
