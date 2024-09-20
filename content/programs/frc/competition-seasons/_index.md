@@ -66,3 +66,16 @@ In 2019, Team 467 competed with our robot at the **_Granite State_** and **_Grea
 
 {{< endcolumns >}}
 
+---
+
+{{< columns >}}
+
+### [2018: Power Up](2018-power-up)
+In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_Southern CT_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Detroit
+
+{{< column >}}
+
+[![2018 Robot](2018-power-up/2018-robot-odyssey-small.jpg)](2018-power-up)
+
+{{< endcolumns >}}
+

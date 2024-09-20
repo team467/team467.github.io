@@ -1,42 +1,64 @@
 ---
-date: '2017-09-25T14:19:00-04:00'
-title: 2018 Power Up
+date: '2018-01-06T10:30:00-05:00'
+title: '2018: Power Up'
 ---
 
-![Power Up](FIRST-FRC18-PowerUp-OneLine.jpg)
+{{< columns >}}
 
-### FIRST ® POWER UP, SM the 2018 FIRST ® Robotics Competition game, finds our teams trapped in an 8bit video game! Teams use power cubes to defeat the boss
+### Robot: ODYSSEY
 
-Watch the official game animation for the 2018 FIRST Robotics Competition game:
+---
+
+{{< figure src="2018-robot-odyssey.jpg" >}}
+
+{{< column >}}
+
+### Competitions
+
+---
+
+#### Regular Season
+
+* [WPI](https://www.thebluealliance.com/event/2018mawor)
+  * _District Chairman's Award_
+* [Southern CT](https://www.thebluealliance.com/event/2018ctsct)
+  * _Creativity Award_
+* [District Championship](https://www.thebluealliance.com/event/2018necmp)
+  * _Regional Chairman's Award_
+* [World Championship](https://www.thebluealliance.com/event/2018cars)
+
+#### Post Season
+
+* [Battlecry](https://www.thebluealliance.com/event/2018bc)
+
+---
+
+{{< statbotics
+    record="23-27-0" year="2018"
+    auto="17.9" teleop="109.1" endgame="22.4" total="145.6"
+    ww-place="852" ww-outof="3617"
+    us-place="738" us-outof="3007"
+    ne-place="65"  ne-outof="208"
+    ma-place="17"  ma-outof="78"
+>}}
+
+{{< endcolumns >}}
+
+---
+
+### The Game
+
+{{< columns >}}
+
+FIRST® POWER UP, includes two alliances of video game characters and their human operators who are trapped in an arcade game. Both alliances are working to defeat the boss in order to escape!
+
+{{< column >}}
+
+[![Power Up Logo](power-up-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Power_Up)
+
+{{< endcolumns >}}
+
+---
 
 {{< youtube HZbdwYiCY74 >}}
 
-**Each three-team alliance has three ways to help defeat the boss:**
-
-1. Owning the scale or their switch. Ownership occurs when the scale or alliance’s switch is tipped in their favor. Robots collect and deliver power cubes to gain ownership.
-2. Playing power ups. Alliances exchange power cubes for power ups. Power ups provide a timed advantage during the match. There are three power ups that can be played: Force, Boost, and Levitate.
-3. Climbing the scale tower. Robots work together to climb the scale tower to face the boss.
-
-![](powerUp.png)
-
-**Autonomous Period:**
-
-Robots operate independently following preprogrammed instructions for the first fifteen seconds of the match.
-
-Alliances score points by:
-
-- Reaching their own autonomous line
-- Gaining ownership of the scale or their switch
-
-**Teleoperated Period:**
-
-Operators take control for the final two minutes and fifteen seconds of the match.
-
-Alliances continue to score points by:
-
-- Gaining ownership of the scale or their switch
-- Delivering power cubes to the alliance’s vault
-- Using power ups for a timed advantage
-- Parking on the scale platform or climbing the scale to face the boss
-
-**The alliance with the highest score at the end of the match defeats the boss and wins.**
