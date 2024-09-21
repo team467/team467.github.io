@@ -64,5 +64,5 @@ FIRST® POWER UP, includes two alliances of video game characters and their huma
 
 ### Chairman's Award Video
 
-{{< video src="2018-chairmans-video" >}}
+{{< youtube fD-_tPSfuYA >}}
 
