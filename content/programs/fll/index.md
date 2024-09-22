@@ -49,9 +49,22 @@ _“[FIRST® LEGO® League](https://www.firstinspires.org/robotics/fll/what-is-f
 ---
 
 ### Role of Team Coaches
-Parents or Guardians volunteering to be the coach for their students team do not need any prior experience. The key requirement is a willingness to support the team and foster enthusiasm in the team members. **Students are expected to learn and do the work themselves**. This is an important part of the program. When students discover information themselves they will remember it better and be more skilled at it next time. In many instances as Coach, you will be learning new skills alongside the students.
 
-We need volunteers for each team as we can only support as many teams as we have coaches! Each team must have 2 official FIRST Lead Coaches but there are plenty of other support activities for other guardians to do. When you sign up your student please make sure you indicate if you are willing to be a Lead Coach.
+Parents or Guardians volunteering to be the coach for their students team do not need any prior experience. The key requirement is a willingness to support the team and foster enthusiasm in the team members.
+
+{{< columns >}}
+
+**Students are expected to learn and do the work themselves**. This is an important part of the program. When students discover information themselves they will remember it better and be more skilled at it next time. In many instances as Coach, you will be learning new skills alongside the students.
+
+We need volunteers for each team as we can only support as many teams as we have coaches!
+
+Each team must have 2 official FIRST Lead Coaches. There are also plenty of other support activities for other guardians to do. When you sign up your student please make sure you indicate if you are willing to be a Lead Coach.
+
+{{< column >}}
+
+![FLL Coach](fll-coach.jpg)
+
+{{< endcolumns >}}
 
 To ensure the safety of our students, all adults working with students in this program should meet the following requirements:
 * Obtain a CORI check through Shrewsbury Public Schools
