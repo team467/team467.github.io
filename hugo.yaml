@@ -24,16 +24,16 @@ params:
 
 menus:
   main:
-  - name: Lego Programs
+  - name: LEGO® Programs
     weight: 10
-  - name: FIRST Lego League
+  - name: FIRST® LEGO® League
     pageRef: /programs/fll
     weight: 10
-    parent: Lego Programs
+    parent: LEGO® Programs
   - name: Summer Program
     pageRef: /programs/summer
     weight: 20
-    parent: Lego Programs
+    parent: LEGO® Programs
 
   - name: FIRST® Robotics Competition
     weight: 20
