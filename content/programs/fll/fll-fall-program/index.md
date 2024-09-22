@@ -1,31 +1,42 @@
 ---
 date: '2024-09-20T18:52:00-05:00'
-title: FIRST® LEGO® League  Challenge
+title: Fall Program
 ---
 
-### About _FIRST_® LEGO® League
+## _FIRST_® LEGO® League Challenge
+
+![FLL Challenge Logo](fll-challenge-logo.png)
+
+**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2024 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
+
+---
+
+## Welcome to the SUBMERGED Season
+
 {{< columns >}}
 
-[_FIRST_® LEGO® _League_](https://www.firstinspires.org/robotics/fll/what-is-first-lego-league) _introduces STEM to children through fun, exciting hands-on learning. Participants gain real-world problem-solving experiences through a guided, global robotics program using_ LEGO _technology, helping today’s students and teachers build a better future together. _FIRST__ LEGO _League’s three divisions inspire youth to experiment and grow their critical thinking, coding, and design skills and showcase what they learned._
+### Explore the Future
+
+In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, FIRST® LEGO® League teams will use creative thinking and LEGO® technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future
 
 {{< column >}}
 
-![FLL Students](fll-students.jpg)
+![SUBMERGED Patch](fll-submerged-patch-logo.png)
 
 {{< endcolumns >}}
 
 ---
 
-### Fall 2024 Program
-**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2024 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
+{{< youtube c2f-Q5GGt2Q >}}
 
-![FLL Challenge Logo](FLL-RGB_Challenge-horiz-full-color.png)
+---
 
-> **Note for returning students & parents:**
->
-> We have made a number of changes to the program for the 2024 season. These changes includes a new start date which now aligns with the  _FIRST_ release date for the program in August.
->
-> We also expect parents/guardians to be the primary team coaches. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
+## Shrewsbury Robotics Program
+### Update for returning Shrewbury Robotics students & parents
+
+We have made a number of changes to the program for the 2024 season. These changes includes a new start date which now aligns with the  _FIRST_ release date for the program in August.
+
+We also expect parents/guardians to be the primary team coaches. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
 
 ---
 
