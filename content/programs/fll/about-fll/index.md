@@ -26,7 +26,7 @@ _FIRST_ LEGO League has three divisions that inspire youth to experiment and gro
 
 
 ### FIRST LEGO League Challenge:
-Friendly competition is at the heart of Challenge, as teams of students ages 9-16* engage in research, problem-solving, coding and engineering – building and programming a LEGO robot that navigates the missions of a robot game. As part of Challenge, teams also participate in a research project to identify and solve a relevant real-world problem.
+Friendly competition is at the heart of Challenge, as teams of students in grades 5-8 engage in research, problem-solving, coding and engineering – building and programming a LEGO robot that navigates the missions of a robot game. As part of Challenge, teams also participate in a research project to identify and solve a relevant real-world problem.
 
 #### Example Challenge from the 2024 competition season - SUBMERGED
 {{< youtube J5u-2q_K3O0 >}}
