@@ -3,10 +3,10 @@ date: '2024-09-20T18:52:00-05:00'
 title: FIRST® LEGO® League  Challenge
 ---
 
-### About FIRST® LEGO® League
+### About _FIRST_® LEGO® League
 {{< columns >}}
 
-_“[FIRST® LEGO® League](https://www.firstinspires.org/robotics/fll/what-is-first-lego-league) introduces STEM to children through fun, exciting hands-on learning. Participants gain real-world problem-solving experiences through a guided, global robotics program using LEGO technology, helping today’s students and teachers build a better future together. FIRST LEGO League’s three divisions inspire youth to experiment and grow their critical thinking, coding, and design skills and showcase what they learned.”_
+[_FIRST_® LEGO® _League_](https://www.firstinspires.org/robotics/fll/what-is-first-lego-league) _introduces STEM to children through fun, exciting hands-on learning. Participants gain real-world problem-solving experiences through a guided, global robotics program using_ LEGO _technology, helping today’s students and teachers build a better future together. _FIRST__ LEGO _League’s three divisions inspire youth to experiment and grow their critical thinking, coding, and design skills and showcase what they learned._
 
 {{< column >}}
 
@@ -16,13 +16,14 @@ _“[FIRST® LEGO® League](https://www.firstinspires.org/robotics/fll/what-is-f
 
 ---
 
-**_Shrewsbury Robotics_** is pleased to be offering the  **FIRST LEGO League Challenge** program in fall of 2024 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
+### Fall 2024 Program
+**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2024 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
 
 ![FLL Challenge Logo](FLL-RGB_Challenge-horiz-full-color.png)
 
 > **Note for returning students & parents:**
 >
-> We have made a number of changes to the program for the 2024 season. These changes includes a new start date which now aligns with the  FIRST® release date for the program in August.
+> We have made a number of changes to the program for the 2024 season. These changes includes a new start date which now aligns with the  _FIRST_ release date for the program in August.
 >
 > We also expect parents/guardians to be the primary team coaches. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
 
@@ -58,7 +59,7 @@ Parents or Guardians volunteering to be the coach for their students team do not
 
 We need volunteers for each team as we can only support as many teams as we have coaches!
 
-Each team must have 2 official FIRST Lead Coaches. There are also plenty of other support activities for other guardians to do. When you sign up your student please make sure you indicate if you are willing to be a Lead Coach.
+Each team must have 2 official _FIRST_ Lead Coaches. There are also plenty of other support activities for other guardians to do. When you sign up your student please make sure you indicate if you are willing to be a Lead Coach.
 
 {{< column >}}
 
@@ -69,13 +70,13 @@ Each team must have 2 official FIRST Lead Coaches. There are also plenty of othe
 To ensure the safety of our students, all adults working with students in this program should meet the following requirements:
 * Obtain a CORI check through Shrewsbury Public Schools
 * Be fingerprint checked through IdentoGo
-* Submit for a Youth Protection Policy check through FIRST.
+* Submit for a Youth Protection Policy check through _FIRST_.
 * Minimum of 2 adults who have met these checks to be present every time the team meets.  These do not have to be the Lead Mentors.
 
 ---
 
 ### Role of Shrewsbury Robotics
-Shrewsbury Robotics has many years experience running FIRST Lego League programs which we are happy to share:
+Shrewsbury Robotics has many years experience running _FIRST_ LEGO League programs which we are happy to share:
 * Providing training and advice to coaches
 * Access to our [**slack**](https://slack.com) FLL channel so you can ask questions and get answers in a timely fashion.
 * Host regular sessions for teams to get advice or help.
