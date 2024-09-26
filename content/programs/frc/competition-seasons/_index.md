@@ -92,3 +92,15 @@ In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_
 
 {{< endcolumns >}}
 
+---
+
+{{< columns >}}
+
+### [2016: FIRST Stronghold](2016-first-stronghold)
+In 2016, Team 467 competed with our robot **_MONGOOSE_** at the **_WPI_** and **_Boston_** District Qualifiers and the **_New England District Championship_**.
+
+{{< column >}}
+
+[![2016 Robot](2016-first-stronghold/2016-robot-mongoose-small.jpg)](2016-first-stronghold)
+
+{{< endcolumns >}}
