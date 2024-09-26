@@ -69,3 +69,7 @@ surrounding and scaling their opponents’ tower itself.
 
 {{< youtube bGIfq8I8Fzk >}}
 
+---
+
+### Team Photo
+{{< figure src="2016-team-photo.jpg" >}}
