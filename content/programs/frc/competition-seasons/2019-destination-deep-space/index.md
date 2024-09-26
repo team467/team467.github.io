@@ -60,6 +60,9 @@ In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples o
 
 {{< youtube Mew6G_og-PI >}}
 
+### Chairman's Award Video
+
+{{< youtube 3GVK6LLmBX0 >}}
 
 ---
 

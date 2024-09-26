@@ -58,6 +58,9 @@ In **INFINITE RECHARGE**, two alliances work to protect FIRST City from approach
 
 {{< youtube gmiYWTmFRVE >}}
 
+### Chairman's Award Video
+
+{{< youtube DxaRKm_28qU >}}
 
 ---
 
