@@ -1,7 +1,7 @@
 ---
 date: '2014-12-03T20:39:34-05:00'
 title: Sponsors
-subtitle: THANK YOU TO OUR 2023-2024 SPONSORS
+subtitle: THANK YOU TO OUR TEAM SPONSORS
 ---
 
 ---
@@ -10,6 +10,7 @@ subtitle: THANK YOU TO OUR 2023-2024 SPONSORS
 
 [![Vangytool](Vangytool.png)](http://www.vangytool.com/)
 [![Versatile Communications logo](Versatile.jpg)](https://www.weareversatile.com/)
+[![MITRE](MITRE-logo_Blue.svg)](https://www.mitre.org)
 
 ---
 
