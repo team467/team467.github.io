@@ -50,10 +50,7 @@ title: '2016: FIRST Stronghold'
 
 {{< columns >}}
 
-FIRST STRONGHOLD is played by two alliances of three teams each. Alliances compete against each other
-to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
-crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
-surrounding and scaling their opponents’ tower itself.
+FIRST STRONGHOLD is played by two alliances of three teams each. Alliances compete against each other to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and surrounding and scaling their opponents’ tower itself.
 
 {{< column >}}
 
