@@ -32,9 +32,9 @@ In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/cha
 ---
 
 ## Shrewsbury Robotics Program
-### Update for returning Shrewbury Robotics students & parents
+### Update for returning Shrewsbury Robotics students & parents
 
-We have made a number of changes to the program for the 2024 season. These changes includes a new start date which now aligns with the  _FIRST_ release date for the program in August.
+We have made a number of changes to the program for the 2024 season. These changes include a new start date which now aligns with the  _FIRST_ release date for the program in August.
 
 We also expect parents/guardians to be the primary team coaches. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
 
@@ -43,12 +43,12 @@ We also expect parents/guardians to be the primary team coaches. Student team me
 ### Program Timeline
 
 * **June** – informational meeting for students and parents interested in signing up. Notifications will be sent out via:
-  * Each school Principals' email to parents
-  * Community Bulletins
+  * Each school Principals' email to parents.
+  * Community Bulletins.
   * Shrewsbury Robotics Facebook page.
 * **June** – Signup.
 * **July** – team formation.
-* **August** - New challenge/competition is released early August (2024 was 8/6)
+* **August** - New challenge/competition is released early August (2024 was 8/6).
 * **August** - Materials can be preordered and will be delivered starting beginning August, but instructions will not be provided until release date. Materials can only be purchased for fully paid up teams, consequently teams need to be formed before start of August to go through payment process and ordering.
 * **August** through **December**
   * Teams meet 2 to 3 times weekly.
@@ -56,7 +56,7 @@ We also expect parents/guardians to be the primary team coaches. Student team me
   * Mock competitions late **October** and early **November**.
 * Late **November** to early **December** – qualifying competition.
 * Mid/late **December** – Massachusetts District Competition.
-* **April** – World Championship
+* **April** – World Championship.
 
 ---
 
@@ -79,8 +79,8 @@ Each team must have 2 official _FIRST_ Lead Coaches. There are also plenty of ot
 {{< endcolumns >}}
 
 To ensure the safety of our students, all adults working with students in this program should meet the following requirements:
-* Obtain a CORI check through Shrewsbury Public Schools
-* Be fingerprint checked through IdentoGo
+* Obtain a CORI check through Shrewsbury Public Schools.
+* Be fingerprint checked through IdentoGo.
 * Submit for a Youth Protection Policy check through _FIRST_.
 * Minimum of 2 adults who have met these checks to be present every time the team meets.  These do not have to be the Lead Mentors.
 
@@ -88,7 +88,7 @@ To ensure the safety of our students, all adults working with students in this p
 
 ### Role of Shrewsbury Robotics
 Shrewsbury Robotics has many years experience running _FIRST_ LEGO League programs which we are happy to share:
-* Providing training and advice to coaches
+* Providing training and advice to coaches.
 * Access to our [**slack**](https://slack.com) FLL channel so you can ask questions and get answers in a timely fashion.
 * Host regular sessions for teams to get advice or help.
 * Run mock **competitions** and **judging** sessions for our teams.
