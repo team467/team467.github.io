@@ -24,7 +24,7 @@ _FIRST_ LEGO League has three divisions that inspire youth to experiment and gro
 * [Summer Program]({{< relref "fll-summer-program" >}})
   * Fun informal summer vacation program based on the previous years challenge.
 
-We also host the largest FLL qualifying event in Massachusetts: [Mindstorm Mayhem]({{< relref "mindstorm-mayhem" >}})
+We also host the largest _FIRST_ LEGO League qualifying event in Massachusetts - [Mindstorm Mayhem]({{< relref "mindstorm-mayhem" >}}).
 
 ### _FIRST_ LEGO League Challenge:
 Friendly competition is at the heart of Challenge, as teams of students in grades 5-8 engage in research, problem-solving, coding and engineering – building and programming a LEGO robot that navigates the missions of a robot game. As part of Challenge, teams also participate in a research project to identify and solve a relevant real-world problem.
