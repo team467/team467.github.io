@@ -68,3 +68,9 @@ for employing teamwork to achieve the objective.
 
 ### Team Photo
 {{< figure src="2014-team-photo.jpg" >}}
+
+---
+
+### Lewiston District Qualifier Match 20
+
+{{< youtube WG0qJR806RY >}}
