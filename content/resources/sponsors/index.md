@@ -6,29 +6,37 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 ---
 
-### SHREWSBURY ROBOTICS *PLATINUM* SPONSORS:
+{{< text-center "### SHREWSBURY ROBOTICS *PLATINUM* SPONSORS" >}}
 {{< columns >}}
+
 [![Shrewsbury High School](shrewsbury-public-schools.png)](https://schools.shrewsburyma.gov/high)
 [![Vangytool](Vangytool.png)](http://www.vangytool.com/)
-## The McBrayer Family
+{{< text-center "## The McBrayer Family" >}}
+
 {{< column >}}
+
 [![Versatile Communications logo](Versatile.jpg)](https://www.weareversatile.com/)
 [![MITRE](MITRE-logo_Blue.svg)](https://www.mitre.org)
+
 {{< endcolumns>}}
+
 ---
 
-### SHREWSBURY ROBOTICS *GOLD* SPONSORS:
+{{< text-center "### SHREWSBURY ROBOTICS *GOLD* SPONSORS" >}}
 
 {{< columns >}}
-[![Imaginic, Inc](Imaginic.gif)](http://www.imaginic.com/)
-{{< column >}}
-[![Raytheon](raytheon.svg)](https://www.rtx.com/)
-{{< endcolumns>}}
 
+[![Imaginic, Inc](Imaginic.gif)](http://www.imaginic.com/)
+
+{{< column >}}
+
+[![Raytheon](raytheon.svg)](https://www.rtx.com/)
+
+{{< endcolumns>}}
 
 ---
 
-### SHREWSBURY ROBOTICS *SILVER* SPONSORS:
+{{< text-center "### SHREWSBURY ROBOTICS *SILVER* SPONSORS" >}}
 
 [![Win Waste](Win-Waste-Innovations.png)](https://www.win-waste.com/)
 
