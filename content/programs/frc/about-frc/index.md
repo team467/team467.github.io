@@ -5,7 +5,7 @@ title: "FIRST® Robotics Competition"
 
 {{< columns >}}
 
-![FIRST Robotics Competition](FIRSTRobotics_IconVert_RGB-300x206.jpg)
+![_FIRST_ Robotics Competition](FIRSTRobotics_IconVert_RGB-300x206.jpg)
 
 {{< column >}}
 

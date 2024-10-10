@@ -50,11 +50,11 @@ title: '2018: Power Up'
 
 {{< columns >}}
 
-FIRST® POWER UP, includes two alliances of video game characters and their human operators who are trapped in an arcade game. Both alliances are working to defeat the boss in order to escape!
+_FIRST_ POWER UP, includes two alliances of video game characters and their human operators who are trapped in an arcade game. Both alliances are working to defeat the boss in order to escape!
 
 {{< column >}}
 
-[![Power Up Logo](power-up-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Power_Up)
+[![_FIRST_ Power Up Logo](power-up-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Power_Up)
 
 {{< endcolumns >}}
 

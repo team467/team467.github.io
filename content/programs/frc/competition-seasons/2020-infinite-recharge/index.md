@@ -46,7 +46,7 @@ The 2020 competition season was ended after the first week due to the COVID-19 p
 
 {{< columns >}}
 
-In **INFINITE RECHARGE**, two alliances work to protect FIRST City from approaching asteroids caused by a distant space skirmish. Each Alliance, along with their trusty droids, race to collect and score Power Cells in order to energize their Shield Generator for maximum protection. To activate stages of the Shield Generator, droids manipulate their Control Panels after scoring a specific number of Power Cells. Near the end of the match, droids race to their Rendezvous Point to get their Shield Generator operational in order to protect the city!
+In **INFINITE RECHARGE**, two alliances work to protect _FIRST_ City from approaching asteroids caused by a distant space skirmish. Each Alliance, along with their trusty droids, race to collect and score Power Cells in order to energize their Shield Generator for maximum protection. To activate stages of the Shield Generator, droids manipulate their Control Panels after scoring a specific number of Power Cells. Near the end of the match, droids race to their Rendezvous Point to get their Shield Generator operational in order to protect the city!
 
 {{< column >}}
 

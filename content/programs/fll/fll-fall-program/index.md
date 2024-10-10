@@ -17,7 +17,7 @@ title: Fall Program
 
 ### Explore the Future
 
-In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, FIRST® LEGO® League teams will use creative thinking and LEGO® technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future
+In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_ LEGO League teams will use creative thinking and LEGO technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future
 
 {{< column >}}
 

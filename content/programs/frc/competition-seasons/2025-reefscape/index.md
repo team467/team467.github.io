@@ -7,7 +7,7 @@ title: '2025: Reefscape'
 
 {{< columns >}}
 
-In **REEFSCAPE**, a new challenge launching January 4, 2025, FIRST Robotics Competition teams will use their engineering skills to strengthen one of the ocean’s most diverse habitats – making waves to build a better world.
+In **REEFSCAPE**, a new challenge launching January 4, 2025, _FIRST_ Robotics Competition teams will use their engineering skills to strengthen one of the ocean’s most diverse habitats – making waves to build a better world.
 
 {{< column >}}
 

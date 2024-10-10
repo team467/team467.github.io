@@ -9,7 +9,7 @@ title: G.I.R.L.S Workshop
 
 We will have a number of women guest speakers from a variety of engineering fields. They will be talking about women’s roles in engineering, highlighting their own careers and answering questions. There will also be a hands-on engineering challenge for the participants, which will get the gears turning in their heads.
 
-This event is being run by Shrewsbury Robotics and Shrewsbury High School FIRST Robotics team members. Our goal is to emphasize women’s role in engineering to middle and high school girls. Click here to [sign up](https://shrewsburyrobotics.wufoo.com/forms/w9mzpf40mx9b5c/).
+This event is being run by Shrewsbury Robotics and Shrewsbury High School _FIRST_ Robotics team members. Our goal is to emphasize women’s role in engineering to middle and high school girls. Click here to [sign up](https://shrewsburyrobotics.wufoo.com/forms/w9mzpf40mx9b5c/).
 
 We hope to see you there!
 

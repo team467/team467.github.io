@@ -56,7 +56,7 @@ placing RECYCLING CONTAINERS on top of stacked TOTES, and disposing of LITTER.
 
 {{< column >}}
 
-[![FIRST Stronghold Logo](recycle-rush-logo.svg)](https://en.wikipedia.org/wiki/Recycle_Rush)
+[![Recycle Rush Logo](recycle-rush-logo.svg)](https://en.wikipedia.org/wiki/Recycle_Rush)
 
 {{< endcolumns >}}
 
