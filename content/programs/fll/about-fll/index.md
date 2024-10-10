@@ -6,7 +6,7 @@ title: FIRST® LEGO® League
 ### About _FIRST_ LEGO League
 {{< columns >}}
 
-[_FIRST_ LEGO _League_](https://www.firstinspires.org/robotics/fll/what-is-first-lego-league) introduces science, technology, engineering, and math (STEM) to children ages 4-16 through fun, exciting hands-on learning. Participants gain real-world problem-solving experiences through a guided, global robotics program, helping today’s students and teachers build a better future together.
+[**_FIRST_ LEGO League**](https://www.firstinspires.org/robotics/fll/what-is-first-lego-league) introduces science, technology, engineering, and math (STEM) to children ages 4-16 through fun, exciting hands-on learning. Participants gain real-world problem-solving experiences through a guided, global robotics program, helping today’s students and teachers build a better future together.
 
 _FIRST_ LEGO League has three divisions that inspire youth to experiment and grow their critical thinking, coding, and design skills through hands-on STEM learning and robotics.
 
