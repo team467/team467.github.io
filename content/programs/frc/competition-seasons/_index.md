@@ -5,6 +5,19 @@ title: 'Team 467 Competition Seasons'
 
 {{< columns >}}
 
+### [2025: Reefscape](2025-reefscape)
+In 2025, Team 467 will compete with our robot at the _**Southern Maine**_ District Qualifier.
+
+{{< column >}}
+
+[![Southern Maine](2025-reefscape/2025-week1-sme.png)](2025-reefscape)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
 ### [2024: Crescendo](2024-crescendo)
 In 2024, Team 467 competed with our robot **_SHUFFLE_** at the _**BSU**_ and **_Western New England_** District Qualifiers and the **_New England District Championship_**.
 
