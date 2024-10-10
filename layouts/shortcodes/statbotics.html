@@ -12,10 +12,14 @@
 
 <p>Team 467 (Colonials) had a record of <strong>{{ .Get "record" }}</strong> in {{ .Get "year" }}.<br>
 EPA breakdown:
+{{- if (.Get "auto") }}
 <span class="box blue">Auto: <strong>{{ .Get "auto" }}</strong></span>
 <span class="box orange">Teleop: <strong>{{ .Get "teleop" }}</strong></span>
 <span class="box green">Endgame: <strong>{{ .Get "endgame" }}</strong></span>
 <span class="box red">Total: <strong>{{ .Get "total" }}</strong></span>
+{{ else }}
+<span class="box blue">Total: <strong>{{ .Get "total" }}</strong></span>
+{{ end }}
 
 <p>
 
