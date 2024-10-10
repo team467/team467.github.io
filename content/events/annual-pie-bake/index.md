@@ -19,11 +19,11 @@ Our crumble-top pies are baked under the watchful eyes of the Oak Middle School 
 
 {{< endcolumns >}}
 
-This year we will be baking pies at Oak Middle School on November 23, 2019. Most pies are sold by pre-purchase. In addition, we will have a table at the Winter Farmers Market, in the Oak Middle School gym for $17 each while supplies last, on the same day. We expect the pies at the Farmer’s Market to sell quickly!
+This year we will be baking pies at Oak Middle School on November 23, 2024. Most pies are sold by pre-purchase. In addition, we will have a table at the Winter Market, in the Oak Middle School gym for $24 each while supplies last, on the same day. We expect the pies at the Market to sell quickly!
 
 {{< columns >}}
 
-The best way to pre-purchase our apple pies is to contact one of the student team members directly. Each student has pie tickets to sell for $17 each. Each ticket you buy allows you to pick up one fresh apple pie at Oak Middle School on 11/23. If you don’t know a student on the team, you can email us at [pies@shrewsburyrobotics.org](mailto:pies@shrewsburyrobotics.org), providing your contact information. One of the student team members will contact you to sell you a pie ticket.
+The best way to pre-purchase our apple pies is to contact one of the student team members directly. Each student has pie tickets to sell for $24 each. Each ticket you buy allows you to pick up one fresh apple pie at Oak Middle School on 11/23. If you don’t know a student on the team, you can email us at [pies@shrewsburyrobotics.org](mailto:pies@shrewsburyrobotics.org), providing your contact information. One of the student team members will contact you to sell you a pie ticket.
 
 {{< column >}}
 
