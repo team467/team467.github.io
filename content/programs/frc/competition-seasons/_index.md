@@ -71,7 +71,7 @@ In 2019, Team 467 competed with our robot at the **_Granite State_** and **_Grea
 {{< columns >}}
 
 ### [2018: FIRST Power Up](2018-first-power-up)
-In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_Southern CT_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Detroit
+In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_Southern CT_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Detroit.
 
 {{< column >}}
 
@@ -102,5 +102,18 @@ In 2016, Team 467 competed with our robot **_MONGOOSE_** at the **_WPI_** and **
 {{< column >}}
 
 [![2016 Robot](2016-first-stronghold/2016-robot-mongoose-small.jpg)](2016-first-stronghold)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2015: Recycle Rush](2015-recycle-rush)
+In 2015, Team 467 competed with our robot **_MANTIS_** at the **_Granite State_** and **_Hartford_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in St. Louis.
+
+{{< column >}}
+
+[![2015 Robot](2015-recycle-rush/2015-robot-mantis-small.jpg)](2015-recycle-rush)
 
 {{< endcolumns >}}
