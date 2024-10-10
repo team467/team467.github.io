@@ -10,7 +10,7 @@ In 2025, Team 467 will compete with our robot at the _**Southern Maine**_ Distri
 
 {{< column >}}
 
-[![Southern Maine](2025-reefscape/2025-week1-sme.png)](2025-reefscape)
+[![Southern Maine](2025-reefscape/2025-week1-sme-small.png)](2025-reefscape)
 
 {{< endcolumns >}}
 
