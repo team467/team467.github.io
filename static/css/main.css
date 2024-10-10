@@ -3,7 +3,6 @@
 body {
   font-family: 'Play', Helvetica, Arial, sans-serif;
   font-size: 18px;
-/*  color: #404040; */
   color: #283549;
   position: relative;
   background: #FFF;
@@ -31,8 +30,6 @@ p + p {
     margin: 24px 0 6px 0;
 }
 p a {
-  /* text-decoration: underline */
-/*  color: #008AFF; */
     color: #C5B358;
 }
 
@@ -42,12 +39,10 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   color: #C5B358;
-/*  color: #008AFF; */
 }
 a:hover,
 a:focus {
-  color: #C5B358; 
-/*  color: #0085a1; */
+  color: #C5B358;
 }
 blockquote {
   color: #808080;
@@ -104,7 +99,6 @@ div.panel-body a.list-group-item.view-all {
   color: white;
   text-shadow: none;
   background: #C5B358; 
-/*  background: #0085a1; */
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -154,15 +148,13 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #283549;
-/*  color: #404040; */
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #C5B358; 
-/*  color: #0085a1; */
+  color: #C5B358;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -311,7 +303,6 @@ footer {
 
 footer a {
   color: #283549;
-/*  color: #404040; */
 }
 
 footer .list-inline {
@@ -372,15 +363,13 @@ footer div.disclaimer {
 
 .post-preview a {
   text-decoration: none;
-  color: #283549;
-/*  color: #404040;*/
+  color: #C5B358;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: #C5B358;
-/*  color: #0085a1; */
 }
 
 .post-preview .post-title {
@@ -407,7 +396,6 @@ footer div.disclaimer {
 .post-heading .post-meta a,
 .page-meta a {
   color: #283549;
-/*  color: #404040;*/
   text-decoration: none;
 }
 .post-preview .post-entry {
@@ -462,7 +450,6 @@ footer div.disclaimer {
 
 .blog-tags a {
   color: #C5B358;
-/*  color: #008AFF; */
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -474,7 +461,6 @@ footer div.disclaimer {
 .blog-tags a:hover {
   border-radius: 2px;
   color: #C5B358;
-/*  color: #008AFF;*/
   background-color: #CCC;
 }
 
@@ -667,7 +653,6 @@ footer div.disclaimer {
   background: #FFF;
   border-radius: 0;
   color: #283549;
-/*  color: #404040;*/
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -678,9 +663,7 @@ footer div.disclaimer {
 .pager li a:focus {
   color: #FFF;
   background: #C5B358;
-/*  background: #0085a1; */
   border: 1px solid #C5B358;
-/*  border: 1px solid #0085a1;*/
 }
 
 .pager {
@@ -787,7 +770,6 @@ div.splitbox div.right {
   background: #FFF;
   border-radius: 0;
   color: #283549;
-/*  color: #404040;*/
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
@@ -855,7 +837,7 @@ h4.see-also {
     padding: 10px;
     position: relative;
   }
-  
+
   .copyCodeButton {
     background-color: #f5f5f5;
     border: 1px solid #ccc;
@@ -870,12 +852,12 @@ h4.see-also {
     transition: background-color 0.3s ease;
     z-index: 10;
   }
-  
+
   .highlight:hover .copyCodeButton {
     display: block;
   }
-  
+
   .copyCodeButton:hover {
     background-color: #e0e0e0;
   }
-  
+
