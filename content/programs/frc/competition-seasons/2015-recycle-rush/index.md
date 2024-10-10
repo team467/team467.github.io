@@ -49,26 +49,52 @@ title: '2015: Recycle Rush'
 
 ### The Game
 
+RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete simultaneously to score points by stacking TOTES, placing RECYCLING CONTAINERS on top of stacked TOTES, and disposing of LITTER. 
+
+---
+
 {{< columns >}}
 
-RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete simultaneously to score points by stacking TOTES,
-placing RECYCLING CONTAINERS on top of stacked TOTES, and disposing of LITTER. 
+[![Recycle Rush Logo](recycle-rush-logo.svg)](https://en.wikipedia.org/wiki/Recycle_Rush)
 
 {{< column >}}
 
-[![Recycle Rush Logo](recycle-rush-logo.svg)](https://en.wikipedia.org/wiki/Recycle_Rush)
+{{< youtube W6UYFKNGHJ8 >}}
+
+{{< endcolumns >}}
+
+---
+### Chairman's Award Video and First Ever Win at Granite State Competition
+
+{{< columns >}}
+
+{{< youtube qpbP1K3925s >}}
+
+{{< column >}}
+
+{{< youtube Xm73GXPxfFU >}}
 
 {{< endcolumns >}}
 
 ---
 
-{{< youtube W6UYFKNGHJ8 >}}
-
-### Chairman's Award Video
-
-{{< youtube qpbP1K3925s >}}
-
----
-
 ### Team Photo
 {{< figure src="2015-team-photo.jpg" >}}
+
+---
+### Demo of Wheel Pods and Drive Modes from 2015 Season
+
+{{< columns>}}
+
+{{< youtube 7MBz94FidXQ >}}
+
+{{< column >}}
+
+{{< youtube L13OsGEzS8s >}}
+
+{{< endcolumns >}}
+
+---
+### 2015 Season Retrospective
+
+{{< youtube -q6Fx86gf2A >}}

@@ -46,19 +46,21 @@ title: '2019: Destination Deep Space'
 
 ### The Game
 
+In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples on Planet Primus. Unpredictable terrain and weather patterns make remote ROBOT operation essential to their mission on the planet. With only 2:30 until liftoff, the ALLIANCES must gather as many CARGO pods as possible and prepare their spaceships before the next SANDSTORM arrives.
+
+---
+
 {{< columns >}}
 
-In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples on Planet Primus. Unpredictable terrain and weather patterns make remote ROBOT operation essential to their mission on the planet. With only 2:30 until liftoff, the ALLIANCES must gather as many CARGO pods as possible and prepare their spaceships before the next SANDSTORM arrives.
+[![Destination Deep Space Logo](destination-deep-space-frc-logo.svg)](https://en.wikipedia.org/wiki/Destination:_Deep_Space)
 
 {{< column >}}
 
-[![Destination Deep Space Logo](destination-deep-space-frc-logo.svg)](https://en.wikipedia.org/wiki/Destination:_Deep_Space)
+{{< youtube Mew6G_og-PI >}}
 
 {{< endcolumns >}}
 
 ---
-
-{{< youtube Mew6G_og-PI >}}
 
 ### Chairman's Award Video
 

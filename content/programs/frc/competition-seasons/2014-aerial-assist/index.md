@@ -45,20 +45,21 @@ title: '2014: Aerial Assist'
 
 ### The Game
 
+ALLIANCES playing AERIAL ASSIST score BALLS in GOALS, over a TRUSS, and are rewarded bonus points for employing teamwork to achieve the objective.
+
+---
+
 {{< columns >}}
 
-ALLIANCES playing AERIAL ASSIST score BALLS in GOALS, over a TRUSS, and are rewarded bonus points
-for employing teamwork to achieve the objective.
+[![Aerial Assist Logo](aerial-assist-logo.svg)](https://en.wikipedia.org/wiki/Aerial_Assist)
 
 {{< column >}}
 
-[![Aerial Assist Logo](aerial-assist-logo.svg)](https://en.wikipedia.org/wiki/Aerial_Assist)
+{{< youtube oxp4dkMQ1Vo >}}
 
 {{< endcolumns >}}
 
 ---
-
-{{< youtube oxp4dkMQ1Vo >}}
 
 ### Chairman's Award Video
 

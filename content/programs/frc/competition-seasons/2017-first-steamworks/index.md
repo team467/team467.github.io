@@ -45,19 +45,21 @@ title: '2017: FIRST Steamworks'
 
 ### The Game
 
+_FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam power reigns, to prepare their airships for a long distance race.
+
+---
+
 {{< columns >}}
 
-_FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam power reigns, to prepare their airships for a long distance race.
+[![_FIRST_ Steamworks Logo](first-steamworks-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Steamworks)
 
 {{< column >}}
 
-[![_FIRST_ Steamworks Logo](first-steamworks-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Steamworks)
+{{< youtube EMiNmJW7enI >}}
 
 {{< endcolumns >}}
 
 ---
-
-{{< youtube EMiNmJW7enI >}}
 
 ### Chairman's Award Video
 

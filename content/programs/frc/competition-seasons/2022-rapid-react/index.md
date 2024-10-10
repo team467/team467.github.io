@@ -46,25 +46,27 @@ title: '2022: Rapid React'
 
 ### The Game
 
-{{< columns >}}
-
-In **_RAPID REACT_**, two competing alliances are invited to process cargo for transportation. Each alliance is assigned a cargo color (red or blue, based on alliance affiliation) to process by retrieving their assigned cargo and scoring it into the hub. Human players assist the cargo retrieval and scoring efforts from within their terminals. In the final moments of each match, alliance robots race to engage with their hangar to prepare for transport!
-
-{{< column >}}
-
-[![Rapid React Logo](rapid-react-frc-logo.svg)](https://en.wikipedia.org/wiki/Rapid_React)
-
-{{< endcolumns >}}
+In **_RAPID REACT_**, two competing alliances are invited to process cargo for transportation. Each alliance is assigned a cargo color (red or blue, based on alliance affiliation) to process by retrieving their assigned cargo and scoring it into the hub. Human players assist the cargo retrieval and scoring efforts from within their terminals. In the final moments of each match, alliance robots race to engage with their hangar to prepare for transport!  
 
 ---
 
+{{< columns >}}
+
+[![Rapid React Logo](rapid-react-frc-logo.svg)](https://en.wikipedia.org/wiki/Rapid_React)
+
+{{< column >}}
+
 {{< youtube LgniEjI9cCM >}}
+
+{{< endcolumns >}}
 
 ---
 
 ### Chairman's Award Video
 
 {{< youtube B0gnzMMl1v8 >}}
+
+---
 
 ### Team Photo
 

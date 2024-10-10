@@ -48,19 +48,19 @@ title: '2023: Charged Up'
 
 ### The Game
 
-{{< columns >}}
-
 In **_CHARGED UP_**, two competing alliances are invited to process game pieces to bring energy to their community. Each alliance brings energy to their community by retrieving their game pieces from substations and scoring it into the grid. Human players provide the game pieces to the robots from the substations. In the final moments of each match, alliance robots race to dock or engage with their charge station!
-
-{{< column >}}
-
-[![Charged Up Logo](charged-up-frc-logo.svg)](https://en.wikipedia.org/wiki/Charged_Up_(FIRST))
-
-{{< endcolumns >}}
 
 ---
 
+{{< columns >}}
+
+[![Charged Up Logo](charged-up-frc-logo.svg)](https://en.wikipedia.org/wiki/Charged_Up_(FIRST))
+
+{{< column >}}
+
 {{< youtube 0zpflsYc4PA >}}
+
+{{< endcolumns >}}
 
 ---
 

@@ -48,19 +48,21 @@ title: '2018: Power Up'
 
 ### The Game
 
+_FIRST_ POWER UP, includes two alliances of video game characters and their human operators who are trapped in an arcade game. Both alliances are working to defeat the boss in order to escape!
+
+---
+
 {{< columns >}}
 
-_FIRST_ POWER UP, includes two alliances of video game characters and their human operators who are trapped in an arcade game. Both alliances are working to defeat the boss in order to escape!
+[![_FIRST_ Power Up Logo](power-up-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Power_Up)
 
 {{< column >}}
 
-[![_FIRST_ Power Up Logo](power-up-frc-logo.svg)](https://en.wikipedia.org/wiki/FIRST_Power_Up)
+{{< youtube HZbdwYiCY74 >}}
 
 {{< endcolumns >}}
 
 ---
-
-{{< youtube HZbdwYiCY74 >}}
 
 ### Chairman's Award Video
 
