@@ -5,7 +5,7 @@ title: Shrewsbury Robotics Summer Program
 
 {{< columns >}}
 
-Science and Engineering play a big part in our everyday lives and in the world. We teach students about Science and Engineering by using LEGO® Robotics, Rockets and middle school level engineering challenges. They also get to have fun in the process and learn valuable team working skills.
+Science and Engineering play a big part in our everyday lives and in the world. We teach students about Science and Engineering by using LEGO Robotics, Rockets and middle school level engineering challenges. They also get to have fun in the process and learn valuable team working skills.
 
 {{< column >}}
 
@@ -25,7 +25,7 @@ Each activity teaches students different aspects of Science, Engineering and Tec
 
 The program is available to **students entering Grades 4 to 8**. There is no residency requirement. We operate a full week program, 8:30am to 3:30pm Monday through Friday.
 
-The students are grouped into teams, each team is coached by one or more high school students who are members of the Robotics team and in most cases have been _FIRST_® LEGO League competitors themselves. The program is overseen by adult mentors.
+The students are grouped into teams, each team is coached by one or more high school students who are members of the Robotics team and in most cases have been _FIRST_ LEGO League competitors themselves. The program is overseen by adult mentors.
 
 **Students need to bring a packed lunch with them**, we have refrigerator space available for them to store it and a microwave if it is required. They may also bring a snack to eat at morning recess if they wish. We also recommend they bring a reusable water bottle.
 

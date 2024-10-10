@@ -9,7 +9,7 @@ title: "FIRST® Robotics Competition"
 
 {{< column >}}
 
-[_FIRST_® Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) is an international high school robotics competition.
+[_FIRST_ Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) is an international high school robotics competition.
 
 Each year, teams of high school students, coaches, and mentors work during a six-week period to build robots capable of competing in that year's game.
 

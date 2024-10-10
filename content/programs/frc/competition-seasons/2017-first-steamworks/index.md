@@ -47,7 +47,7 @@ title: '2017: FIRST Steamworks'
 
 {{< columns >}}
 
-_FIRST_® STEAMWORKS, invites two adventurers’ clubs, in an era where steam power reigns, to prepare their airships for a long distance race.
+_FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam power reigns, to prepare their airships for a long distance race.
 
 {{< column >}}
 
