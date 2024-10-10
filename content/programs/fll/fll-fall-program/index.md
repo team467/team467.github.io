@@ -89,6 +89,8 @@ To ensure the safety of our students, all adults working with students in this p
 ### Role of Shrewsbury Robotics
 Shrewsbury Robotics has many years experience running _FIRST_ LEGO League programs which we are happy to share:
 * Providing training and advice to coaches.
+* Provide LEGO Education SPIKE equipment.
+* Provide a field to each team for this years competition.
 * Access to our [**slack**](https://slack.com) FLL channel so you can ask questions and get answers in a timely fashion.
 * Host regular sessions for teams to get advice or help.
 * Run mock **competitions** and **judging** sessions for our teams.
