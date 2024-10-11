@@ -67,24 +67,20 @@ menus:
 
   - name: Events
     weight: 40
-  - name: Winter Market
-    pageRef: /events/winter-market
-    parent: Events
-    weight: 10
   - name: Annual Pie Bake
     pageRef: /events/annual-pie-bake
     parent: Events
-    weight: 20
+    weight: 10
   - name: G.I.R.L.S Workshop
     pageRef: /events/girls-workshop
     parent: Events
-    weight: 30
+    weight: 20
   - name: Mindstorm Mayhem
     pageRef: /events/mindstorm-mayhem
     parent: Events
-    weight: 40
+    weight: 30
   - name: Spirit of Shrewsbury
     pageRef: /events/spirit-of-shrewsbury
     parent: Events
-    weight: 50
+    weight: 40
 
