@@ -72,3 +72,7 @@ In **_CHARGED UP_**, two competing alliances are invited to process game pieces 
 
 ### Team Photo
 {{< figure src="2023-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2022: Rapid React" prevurl="../2022-rapid-react" nexttext="2024: Crescendo" nexturl="../2024-crescendo" >}}

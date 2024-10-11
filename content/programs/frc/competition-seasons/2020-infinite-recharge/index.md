@@ -68,3 +68,7 @@ In **INFINITE RECHARGE**, two alliances work to protect _FIRST_ City from approa
 
 ### Team Photo
 {{< figure src="2020-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2019: Destination Deep Space" prevurl="../2019-destination-deep-space" nexttext="2022: Rapid React" nexturl="../2022-rapid-react" >}}

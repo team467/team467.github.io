@@ -75,3 +75,7 @@ ALLIANCES playing AERIAL ASSIST score BALLS in GOALS, over a TRUSS, and are rewa
 ### Lewiston District Qualifier Match 20
 
 {{< youtube WG0qJR806RY >}}
+
+---
+
+{{< prevnext  nexttext="2015: Recycle Rush" nexturl="../2015-recycle-rush" >}}

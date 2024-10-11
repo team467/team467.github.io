@@ -68,3 +68,6 @@ _FIRST_ POWER UP, includes two alliances of video game characters and their huma
 
 {{< youtube fD-_tPSfuYA >}}
 
+---
+
+{{< prevnext  prevtext="2017: _FIRST_ Steamworks" prevurl="../2017-first-steamworks" nexttext="2019: Destination Deep Space" nexturl="../2019-destination-deep-space" >}}

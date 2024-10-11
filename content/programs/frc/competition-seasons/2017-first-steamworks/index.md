@@ -69,3 +69,7 @@ _FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam powe
 
 ### Team Photo
 {{< figure src="2017-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2016: _FIRST_ Stronghold" prevurl="../2016-first-stronghold" nexttext="2018: _FIRST_ Power Up" nexturl="../2018-first-power-up" >}}

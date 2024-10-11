@@ -1,0 +1,12 @@
+<ul class="pager blog-pager">
+     {{- if (.Get "prevurl") }}  
+        <li class="previous">
+            <a href="{{ .Get "prevurl" }}" data-toggle="tooltip" data-placement="top" title="{{ "Previous" }}">&larr; {{ .Get "prevtext" | markdownify }}</a>
+        </li> 
+    {{ end }}
+    {{- if (.Get "nexturl") }}
+        <li class="next">
+            <a href="{{ .Get "nexturl" }}" data-toggle="tooltip" data-placement="top" title="{{ "Next" }}"> {{ .Get "nexttext" | markdownify }} &rarr;</a>
+        </li>
+    {{ end }}
+</ul>

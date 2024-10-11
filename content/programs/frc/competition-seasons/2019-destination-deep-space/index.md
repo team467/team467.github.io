@@ -70,3 +70,7 @@ In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples o
 
 ### Team Photo
 {{< figure src="2019-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2018: _FIRST_ Power Up" prevurl="../2018-first-power-up" nexttext="2020: Infinite Recharge" nexturl="../2020-infinite-recharge" >}}

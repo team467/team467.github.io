@@ -68,3 +68,6 @@ specific scoring thresholds and for cooperating with their opponents.
 
 {{< youtube 1VAg1nRsV1E >}}
 
+---
+
+{{< prevnext  prevtext="2023: Charged Up" prevurl="../2023-charged-up" nexttext="2025: Reefscape" nexturl="../2025-reefscape" >}}

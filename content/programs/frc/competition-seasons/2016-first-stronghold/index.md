@@ -72,3 +72,7 @@ _FIRST_ STRONGHOLD is played by two alliances of three teams each. Alliances com
 
 ### Team Photo
 {{< figure src="2016-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2015: Recycle Rush" prevurl="../2015-recycle-rush" nexttext="2017: _FIRST_ Steamworks" nexturl="../2017-first-steamworks" >}}

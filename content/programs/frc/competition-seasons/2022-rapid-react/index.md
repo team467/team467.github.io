@@ -71,3 +71,7 @@ In **_RAPID REACT_**, two competing alliances are invited to process cargo for t
 ### Team Photo
 
 {{< figure src="2022-team-photo.jpg" >}}
+
+---
+
+{{< prevnext  prevtext="2020: Infinite Recharge" prevurl="../2020-infinite-recharge" nexttext="2023: Charged Up" nexturl="../2023-charged-up" >}}
