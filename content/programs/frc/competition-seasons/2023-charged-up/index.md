@@ -64,5 +64,10 @@ In **_CHARGED UP_**, two competing alliances are invited to process game pieces 
 
 ---
 
+### Impact Award Video
+
+{{< youtube fpLP2t2d4Lk >}}
+---
+
 ### Team Photo
 {{< figure src="2023-team-photo.jpg" >}}
