@@ -6,6 +6,7 @@ theme: ["beautifulhugo"]
 disableKinds: ["taxonomy", "RSS", "sitemap"]
 
 params:
+  homeTitle: "Shrewsbury Robotics"
   selfHosted: true
   mainSections: ["posts"]
   bigimg:
