@@ -1,6 +1,6 @@
 ---
 date: '2018-01-06T10:30:00-05:00'
-title: '2018: Power Up'
+title: '2018: _FIRST_ Power Up'
 ---
 
 {{< columns >}}

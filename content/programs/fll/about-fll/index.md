@@ -1,6 +1,6 @@
 ---
 date: '2024-09-20T18:52:00-05:00'
-title: FIRST® LEGO® League
+title: _FIRST_® LEGO® League
 ---
 
 ### About _FIRST_ LEGO League

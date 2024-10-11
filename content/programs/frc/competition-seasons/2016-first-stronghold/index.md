@@ -1,6 +1,6 @@
 ---
 date: '2016-01-09T10:30:00-05:00'
-title: '2016: FIRST Stronghold'
+title: '2016: _FIRST_ Stronghold'
 ---
 
 {{< columns >}}

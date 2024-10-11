@@ -10,8 +10,8 @@
   {{ if .Params.bigimg }}{{ $.Scratch.Set "bigimg" .Params.bigimg }}{{ end }}
 {{ end }}
 {{ $bigimg := $.Scratch.Get "bigimg" }}
-{{ $title := $.Scratch.Get "title" }}
-{{ $subtitle := $.Scratch.Get "subtitle" }}
+{{ $title := $.Scratch.Get "title" | markdownify }}
+{{ $subtitle := $.Scratch.Get "subtitle" | markdownify }}
 
 {{ if or $bigimg $title }}
   {{ if $bigimg }}

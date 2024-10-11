@@ -1,6 +1,6 @@
 ---
 date: '2017-01-07T10:30:00-05:00'
-title: '2017: FIRST Steamworks'
+title: '2017: _FIRST_ Steamworks'
 ---
 
 {{< columns >}}
