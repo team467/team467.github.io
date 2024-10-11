@@ -1,5 +1,5 @@
 ---
-date: '2014-01-03T10:30:00-05:00'
+date: '2014-01-04T10:30:00-05:00'
 title: '2014: Aerial Assist'
 ---
 
@@ -78,4 +78,4 @@ ALLIANCES playing AERIAL ASSIST score BALLS in GOALS, over a TRUSS, and are rewa
 
 ---
 
-{{< prevnext  nexttext="2015: Recycle Rush" nexturl="../2015-recycle-rush" >}}
+{{< prevnext prevtext="2013: Ultimate Ascent" prevurl="../2013-ultimate-ascent" nexttext="2015: Recycle Rush" nexturl="../2015-recycle-rush" >}}

@@ -101,4 +101,4 @@ RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete 
 
 ---
 
-{{< prevnext  prevtext="2014: Aerial Assist" prevurl="../2014-aerial-assist" nexttext="2016: _FIRST_ Stronghold" nexturl="../2016-first-stronghold" >}}
+{{< prevnext prevtext="2014: Aerial Assist" prevurl="../2014-aerial-assist" nexttext="2016: _FIRST_ Stronghold" nexturl="../2016-first-stronghold" >}}

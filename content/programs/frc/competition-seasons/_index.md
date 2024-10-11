@@ -136,10 +136,23 @@ In 2015, Team 467 competed with our robot **_MANTIS_** at the **_Granite State_*
 {{< columns >}}
 
 ### [2014: Aerial Assist](2014-aerial-assist)
-In 2015, Team 467 competed with our robot **_ATLAS_** at the **_WPI_** and **_Pine Tree_** District Qualifiers.
+In 2014, Team 467 competed with our robot **_ATLAS_** at the **_WPI_** and **_Pine Tree_** District Qualifiers.
 
 {{< column >}}
 
 [![2014 Robot](2014-aerial-assist/2014-robot-atlas-small.jpg)](2014-aerial-assist)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2013: Ultimate Ascent](2013-ultimate-ascent)
+In 2013, Team 467 competed with our robot **_VORTEX_** at the **_WPI_** Regional Event and the **_World Championship_** in St. Louis.
+
+{{< column >}}
+
+[![2013 Robot](2013-ultimate-ascent/2013-robot-vortex-small.jpg)](2013-ultimate-ascent)
 
 {{< endcolumns >}}
