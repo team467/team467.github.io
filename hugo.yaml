@@ -26,7 +26,7 @@ menus:
   main:
   - name: LEGO Programs
     weight: 10
-  - name: About FIRST LEGO League
+  - name: About _FIRST_ LEGO League
     pageRef: /programs/fll/about-fll
     weight: 10
     parent: LEGO Programs
@@ -39,15 +39,15 @@ menus:
     weight: 30
     parent: LEGO Programs
 
-  - name: FIRST Robotics Competition
+  - name: _FIRST_ Robotics Competition
     weight: 20
-  - name: About FIRST Robotics Competition
+  - name: About _FIRST_ Robotics Competition
     pageRef: /programs/frc/about-frc
-    parent: FIRST Robotics Competition
+    parent: _FIRST_ Robotics Competition
     weight: 10
   - name: "Competition Seasons"
     pageRef: /programs/frc/competition-seasons
-    parent: FIRST Robotics Competition
+    parent: _FIRST_ Robotics Competition
     weight: 20
 
   - name: Resources

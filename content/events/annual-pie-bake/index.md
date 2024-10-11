@@ -7,7 +7,7 @@ For over a decade, Team 467 has been building, baking, and selling fresh apple p
 
 {{< columns >}}
 
-This year the students plan to produce around 750 pies to help the team to be able to compete in the First Robotics Competition season. Team 467 makes a point to reserve a generous set of pies each year to donate to local charities. Recent recipients have been Veterans, Inc., and The Worcester County Food Bank.
+This year the students plan to produce around 750 pies to help the team to be able to compete in the _FIRST_ Robotics Competition season. Team 467 makes a point to reserve a generous set of pies each year to donate to local charities. Recent recipients have been Veterans, Inc., and The Worcester County Food Bank.
 
 ![Apple Peeling](Apple-Peeling.jpg)
 
