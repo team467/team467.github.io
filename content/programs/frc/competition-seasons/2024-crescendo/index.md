@@ -27,7 +27,7 @@ title: '2024: Crescendo'
 #### Post Season
 
 * [Battlecry](https://www.thebluealliance.com/event/2024bc)
-* [NERD](https://www.newenglandroboticsderby.com)
+* [NERD](https://www.thebluealliance.com/event/2024matb)
 
 ---
 
