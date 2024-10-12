@@ -88,4 +88,4 @@ Teams earn additional points by CLIMBING their ALLIANCE’S PYRAMID by the end o
 
 ---
 
-{{< prevnext  nexttext="2014: Aerial Assist" nexturl="../2014-aerial-assist" >}}
+{{< prevnext prevtext="2012: Rebound Rumble" prevurl="../2012-rebound-rumble" nexttext="2014: Aerial Assist" nexturl="../2014-aerial-assist" >}}
