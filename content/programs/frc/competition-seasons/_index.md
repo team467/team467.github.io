@@ -156,3 +156,16 @@ In 2013, Team 467 competed with our robot **_VORTEX_** at the **_WPI_** Regional
 [![2013 Robot](2013-ultimate-ascent/2013-robot-vortex-small.jpg)](2013-ultimate-ascent)
 
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2012: Rebound Rumble](2012-rebound-rumble)
+In 2012, Team 467 competed with our robot **_ARTEMAS_** at the **_WPI_** Regional Event and the **_Washington DC_** Regional Event.
+
+{{< column >}}
+
+[![2012 Robot](2012-rebound-rumble/2012-robot-artemas-small.jpg)](2012-rebound-rumble)
+
+{{< endcolumns >}}
