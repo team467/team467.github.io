@@ -68,7 +68,7 @@ menus:
 
   - name: Events
     weight: 40
-  - name: Annual Pie Bake
+  - name: Annual Apple Pie Bake
     pageRef: /events/annual-pie-bake
     parent: Events
     weight: 10
