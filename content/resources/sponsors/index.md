@@ -42,7 +42,12 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 ---
 
+{{< text-center "### SHREWSBURY ROBOTICS *BRONZE* SPONSORS" >}}
+
+[![Polymaker](polymaker.png)](https://polymaker.com/)
+
+---
+
 If you are interested in sponsoring our team, please see our current [sponsorship brochure](Sponsorship-Brochure2022.pdf)
 
 You can contact us for more information by emailing [sponsors@shrewsburyrobotics.org](mailto:sponsors@shrewsburyrobotics.org)
-
