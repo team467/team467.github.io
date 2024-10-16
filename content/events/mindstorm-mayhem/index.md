@@ -9,7 +9,7 @@ title: MindStorm Mayhem
 
 {{< column >}}
 
-Every year, Team 467 holds the largest FLL qualifier in Massachusetts: Mindstorm Mayhem, the Shrewsbury FLL Qualifier in December at Sherwood Middle School. This event is always packed with up to 36 teams competing for the 11 spots that are offered for the State Tournament at WPI. This event is always a lot of fun, and we are always amazed by the creativity and talent that these children demonstrate year in and year out. The event is free and open to the public.
+Every year, Team 467 holds one of the, if not the, longest running FLL qualifier in Massachusetts: Mindstorm Mayhem, the Shrewsbury FLL Qualifier in December at Sherwood Middle School. This event is always packed with up to 36 teams competing for the 11 spots that are offered for the State Tournament at WPI. This event is always a lot of fun, and we are always amazed by the creativity and talent that these children demonstrate year in and year out. The event is free and open to the public.
 {{< column >}}
 
 {{< endcolumns >}}
