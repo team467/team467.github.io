@@ -1,6 +1,6 @@
 In a command prompt, type the following commands:
 ```
-git clone git@github.com:team467/team467.github.io.git --recursive
+git clone https://github.com/team467/team467.github.io.git --recursive
 ```
 
 This will create a new subfolder named team467.github.io. Make this your current directory:
