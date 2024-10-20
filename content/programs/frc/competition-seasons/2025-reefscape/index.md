@@ -21,4 +21,9 @@ In **REEFSCAPE**, a new challenge launching January 4, 2025, _FIRST_ Robotics Co
 
 ---
 
+### Team Photo
+{{< figure src="2025-team-photo.jpg" >}}
+
+---
+
 {{< prevnext prevtext="2024: Crescendo" prevurl="../2024-crescendo" >}}
