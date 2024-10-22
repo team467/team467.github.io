@@ -17,7 +17,7 @@ Each year, teams of high school students, coaches, and mentors work during a six
 
 ---
 
-**FRC Team 467: Colonials** is The Shrewsbury High School robotics team that competes in _FIRST_ Robotics. We have competed every year since our rookie season in 2000.
+**FRC Team 467: Center of Mass** is The Shrewsbury High School robotics team that competes in _FIRST_ Robotics. We have competed every year since our rookie season in 2000.
 
 This program is open to any High School student who attends Shrewsbury High School and is in good academic standing.
 
@@ -49,7 +49,7 @@ For example, here is Team 467 competing in the semi final at our first 2024 seas
 
 A key element of competing in _FIRST_ Robotics is the concept of [Gracious Professionalism](https://www.firstinspires.org/node/20891) first coined by one of the founders of _FIRST_; [Dr. Woodie Flowers.](https://www.firstinspires.org/about/leadership/dr-woodie-flowers)
 
-**FRC Team 467: Colonials** embraces Gracious Professionalism and applies it to all aspects of our team and community.
+**FRC Team 467: Center of Mass** embraces Gracious Professionalism and applies it to all aspects of our team and community.
 
 ---
 
