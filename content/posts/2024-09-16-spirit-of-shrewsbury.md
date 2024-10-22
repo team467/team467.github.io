@@ -3,7 +3,7 @@ title: 'See us at Spirit of Shrewsbury'
 date: 2024-09-16T23:10:13-04:00
 ---
 
-FRC Team 467, Colonials will be showing our robot **_SHUFFLE_** at the [Spirit of Shrewsbury]({{< ref "/events/spirit-of-shrewsbury" >}}) this year.
+FRC Team 467, Center of Mass will be showing our robot **_SHUFFLE_** at the [Spirit of Shrewsbury]({{< ref "/events/spirit-of-shrewsbury" >}}) this year.
 
 **_SHUFFLE_** is our competition robot from the 2024 _FIRST_ Robotics Game - [Crescendo]({{< ref "/programs/frc/competition-seasons/2024-crescendo" >}}) which won a place in the New England District Championship.
 
