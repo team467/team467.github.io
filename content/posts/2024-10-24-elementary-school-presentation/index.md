@@ -11,7 +11,7 @@ We kicked off our presentations at [Spring Street School](https://schools.shrews
 
 ### Future Dates
     10-23-2024          - Spring Street School
-     11-4-2024          - Beal School
+    11-04-2024          - Beal School
     11-21-2024          - Paton School
-     12-6-2024          - Coolidge School
+    12-06-2024          - Coolidge School
     12-18-2024          - Floral School
