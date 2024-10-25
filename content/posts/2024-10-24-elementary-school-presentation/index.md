@@ -9,9 +9,9 @@ We kicked off our presentations at [Spring Street School](https://schools.shrews
 
 {{< figure src="springstreet.jpg" title="Excited 4th Graders at Spring Street Elementary School" >}}
 
-### Future Dates
-    10-23-2024          - Spring Street School
-    11-04-2024          - Beal School
-    11-21-2024          - Paton School
-    12-06-2024          - Coolidge School
-    12-18-2024          - Floral School
+### Presentation Dates in 2024
+    Oct 23rd      Spring Street School
+    Nov 4th       Beal School
+    Nov 21st      Paton School
+    Dec 6th       Coolidge School
+    Dec 18th      Floral School
