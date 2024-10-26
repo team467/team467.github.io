@@ -13,6 +13,6 @@ This year, the name **CENTER OF MASS** was proposed as our new name and immediat
 
 Along with this change in name, we're retiring our old 467 Logo and its subtle reference to the Colonial Tricorn hat in favor of a new logo that better aligns with our new name.
 
-{{< video src="rebrand.mp4" autoplay="true" loop="true"  >}}
+{{< video src="rebrand.mp4" autoplay="true" >}}
 
 We're looking forward to trying on our new name and logo for the first time as we compete in the 2025 competition season.
