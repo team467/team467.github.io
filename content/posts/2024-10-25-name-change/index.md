@@ -7,11 +7,11 @@ For over a decade, _FIRST_ Robotics Team 467 has been known as the **Colonials**
 
 This year, the name **CENTER OF MASS** was proposed as our new name and immediately felt right on multiple fronts:
 
-- It's a fun, STEM themed name
+- It is a fun, STEM themed name
 - It describes our location in Central Massachusetts
-- It's unique and not currently in use by any other _FIRST_ Robotics teams.
+- It is unique and not currently in use by any other _FIRST_ Robotics teams.
 
-Along with this change in name, we're retiring our old 467 Logo and it's subtle reference to the Colonial Tricorn hat in favor of a new logo that better aligns with our new name.
+Along with this change in name, we're retiring our old 467 Logo and its subtle reference to the Colonial Tricorn hat in favor of a new logo that better aligns with our new name.
 
 {{< video src="rebrand.mp4" autoplay="true" loop="true"  >}}
 
