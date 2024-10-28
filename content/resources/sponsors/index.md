@@ -30,7 +30,7 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 {{< column >}}
 
-[![Raytheon](raytheon.svg)](https://www.rtx.com/)
+[![RTX](rtx.png)](https://www.rtx.com/)
 
 {{< endcolumns>}}
 
