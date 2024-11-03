@@ -26,7 +26,7 @@ This will hopefully allow Team 467 to present a cohesive team appearance and mak
 
 # Unofficial Team Merchandise
 
-These options provide team members, alumni and supporters some alternatives to the official team clothing to wear outside of competitions to show their support for the team. For all of these items a name can be embroidered on the arm for an additional $10. 
+These options provide team members, alumni and supporters some alternatives to the official team clothing to wear outside of competitions to show their support for the team. **_For all of these items a name can be embroidered on the arm for an additional $10._** 
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
