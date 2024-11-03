@@ -5,7 +5,9 @@ title: Merchandise
 
 # Official Team Merchandise
 
-Every team member is expected to wear the team T-shirt when representing the team at competition. For the 2025 season, since we have changed our name and logo, we would like all team members to wear a new shirt and not reuse one from a previous year. To make this easy on everyone, **the team will provide two T-Shirts this year to every team member** so no-one will have an excuse for not wearing the team colors.
+Every team member is expected to wear the team T-shirt when representing the team at competition.
+
+For the 2025 season, since we have changed our name and logo, we would like all team members to wear a new shirt and not reuse one from a previous year. To make this easy on everyone, **the team will provide two T-Shirts this year to every team member** so no-one will have an excuse for not wearing the team colors.
 
 We know some team members also like to wear a sweatshirt at competition - particularly at District Championships which can get cold. To make it easy to allow this, while still proudly representing the team, we are offering a sweatshirt and crewneck this year printed in the same markings as the T-Shirt.
 
