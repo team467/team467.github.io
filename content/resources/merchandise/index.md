@@ -19,30 +19,30 @@ This will hopefully allow Team 467 to present a cohesive team appearance and mak
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
-| G800              | Navy    | {{< figure width=200px src="tshirt-front.png" >}} {{< figure width=200px src="tshirt-back.png" >}} | [Gildan short sleeve T-Shirt](https://www.gildan.com/us/en/8000-adult-t-shirt-en_us/?color=777) | $12 |
+| G800              | Navy    | {{< figure width=400px src="tshirt-front.png" >}} {{< figure width=400px src="tshirt-back.png" >}} | [Gildan short sleeve T-Shirt](https://www.gildan.com/us/en/8000-adult-t-shirt-en_us/?color=777) | $12 |
 | G840              | Navy    | as above with long sleeves | [Gildan long sleeve T-Shirt](https://www.gildan.com/us/en/8400-adult-long-sleeve-t-shirt-en_us/?color=032) | $16 |
-| JA8830            | Navy    | {{< figure width=200px src="hoodie-front.png" >}} {{< figure width=200px src="hoodie-back.png" >}} | [Hockey style pullover Hoodie](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8830). Comes with both white and gold laces in the team colors. Price includes your name embroidered on the arm | $55 |
-| 8424JA            | Navy    | {{< figure width=200px src="crewneck-front.png" >}} {{< figure width=200px src="crewneck-back.png" >}} | [Crewneck pullover](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424). Price includes your name embroidered on the arm | $45 |
+| JA8830            | Navy    | {{< figure width=400px src="hoodie-front.png" >}} {{< figure width=400px src="hoodie-back.png" >}} | [Hockey style pullover Hoodie](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8830). Comes with both white and gold laces in the team colors. Price includes your name embroidered on the arm | $55 |
+| 8424JA            | Navy    | {{< figure width=400px src="crewneck-front.png" >}} {{< figure width=400px src="crewneck-back.png" >}} | [Crewneck pullover](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424). Price includes your name embroidered on the arm | $45 |
 
 ----
 
 # Unofficial Team Merchandise
 
-These options provide team members, alumni and supporters some alternatives to the official team clothing to wear outside of competitions to show their support for the team. **_For all of these items a name can be embroidered on the arm for an additional $10._** 
+These options provide team members, alumni and supporters some alternatives to the official team clothing to wear outside of competitions to show their support for the team. **_For all of these items a name can be embroidered on the arm for an additional $10._**
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
-| F247              | Navy    | {{< figure width=200px src="quarter-zip.png" >}} | [Sport-Tek Tech Fleece 1/4-Zip Pullover](https://sporttekusa.com/p/4718_TrueNavy) | $55 |
-| TBC               | Navy    | {{< figure width=200px src="hoodie-full-zip.png" >}} | [Charles River Thermal Bonded Sherpa Sweatshirt](https://www.charlesriverapparel.com/product/9149/Thermal-Bonded-Sherpa-Sweatshirt.html) | TBC |
-| TBC               | Navy    | {{< figure width=200px src="full-zip-lady.png" >}} | [Charles River Women's NU Fitness Jacket](https://www.charlesriverapparel.com/product/5586/Womens-Nu-Fitness-Jacket.html) | TBC |
-| TBC               | Navy    | {{< figure width=200px src="full-zip-man.png" >}} | [Charles River Men's NU Fitness Jacket](https://www.charlesriverapparel.com/product/9586/Mens-Nu-Fitness-Jacket.html) | TBC |
-| K500              | Navy    | {{< figure width=200px src="polo-shirt-man.png" >}} | [Port Authority Silk Touch Polo](https://www.portauthorityclothing.com/p/1225_Navy) | $25 |
-| L500              | Navy    | {{< figure width=200px src="polo-shirt-lady.png" >}} | [Port Authority Women's Silk Touch Polo](https://www.portauthorityclothing.com/p/1407_Navy) | $25 |
-| CP80              | Navy    | {{< figure width=200px src="baseball-hat.png" >}} | [Port & Company - Six Panel Twill Cap ](https://www.portandcompany.com/p/818_Navy) | $16 |
-| STC28             | Navy/White | {{< figure width=200px src="pom-pom.png" >}} | [Sport-Tek Stripe Pom Pom Beanie](https://www.sporttekusa.com/p/6960_TrNvWhite) | $15 |
-| 8106              | Heather Grey | {{< figure width=200px src="jogger.png" >}} | [Throwback Jogger](https://www.pennantsportswear.com/throwback-jogger-8106.html) | $36 |
-| DT6100            | Oatmeal Heather | {{< figure width=200px src="alumni.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ALUMNI" | $35 |
-| DT6100            | Oatmeal Heather | {{< figure width=200px src="robotics-mom.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS MOM" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
-| DT6100            | Oatmeal Heather | {{< figure width=200px src="robotics-dad.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS DAD" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
+| F247              | Navy    | {{< figure width=400px src="quarter-zip.png" >}} | [Sport-Tek Tech Fleece 1/4-Zip Pullover](https://sporttekusa.com/p/4718_TrueNavy) | $55 |
+| TBC               | Navy    | {{< figure width=400px src="hoodie-full-zip.png" >}} | [Charles River Thermal Bonded Sherpa Sweatshirt](https://www.charlesriverapparel.com/product/9149/Thermal-Bonded-Sherpa-Sweatshirt.html) | TBC |
+| TBC               | Navy    | {{< figure width=400px src="full-zip-lady.png" >}} | [Charles River Women's NU Fitness Jacket](https://www.charlesriverapparel.com/product/5586/Womens-Nu-Fitness-Jacket.html) | TBC |
+| TBC               | Navy    | {{< figure width=400px src="full-zip-man.png" >}} | [Charles River Men's NU Fitness Jacket](https://www.charlesriverapparel.com/product/9586/Mens-Nu-Fitness-Jacket.html) | TBC |
+| K500              | Navy    | {{< figure width=400px src="polo-shirt-man.png" >}} | [Port Authority Silk Touch Polo](https://www.portauthorityclothing.com/p/1225_Navy) | $25 |
+| L500              | Navy    | {{< figure width=400px src="polo-shirt-lady.png" >}} | [Port Authority Women's Silk Touch Polo](https://www.portauthorityclothing.com/p/1407_Navy) | $25 |
+| CP80              | Navy    | {{< figure width=400px src="baseball-hat.png" >}} | [Port & Company - Six Panel Twill Cap ](https://www.portandcompany.com/p/818_Navy) | $16 |
+| STC28             | Navy / White | {{< figure width=400px src="pom-pom.png" >}} | [Sport-Tek Stripe Pom Pom Beanie](https://www.sporttekusa.com/p/6960_TrNvWhite) | $15 |
+| 8106              | Heather Grey | {{< figure width=400px src="jogger.png" >}} | [Throwback Jogger](https://www.pennantsportswear.com/throwback-jogger-8106.html) | $36 |
+| DT6100            | Oatmeal Heather | {{< figure width=400px src="alumni.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ALUMNI" | $35 |
+| DT6100            | Oatmeal Heather | {{< figure width=400px src="robotics-mom.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS MOM" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
+| DT6100            | Oatmeal Heather | {{< figure width=400px src="robotics-dad.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS DAD" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
 
 
