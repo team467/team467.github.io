@@ -32,7 +32,7 @@ These options provide team members, alumni and supporters some alternatives to t
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
-| F247              | Navy    | {{< figure width=200px src="quarter-zip.png" >}} | [Sport-Tek Tech Fleece 1/4-Zip PulloverQuarter Zip](https://sporttekusa.com/p/4718_TrueNavy) | $55 |
+| F247              | Navy    | {{< figure width=200px src="quarter-zip.png" >}} | [Sport-Tek Tech Fleece 1/4-Zip Pullover](https://sporttekusa.com/p/4718_TrueNavy) | $55 |
 | TBC               | Navy    | {{< figure width=200px src="hoodie-full-zip.png" >}} | [Charles River Thermal Bonded Sherpa Sweatshirt](https://www.charlesriverapparel.com/product/9149/Thermal-Bonded-Sherpa-Sweatshirt.html) | TBC |
 | TBC               | Navy    | {{< figure width=200px src="full-zip-lady.png" >}} | [Charles River Women's NU Fitness Jacket](https://www.charlesriverapparel.com/product/5586/Womens-Nu-Fitness-Jacket.html) | TBC |
 | TBC               | Navy    | {{< figure width=200px src="full-zip-man.png" >}} | [Charles River Men's NU Fitness Jacket](https://www.charlesriverapparel.com/product/9586/Mens-Nu-Fitness-Jacket.html) | TBC |
