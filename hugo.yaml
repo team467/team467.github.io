@@ -65,6 +65,10 @@ menus:
     pageRef: /resources/sponsors
     parent: Resources
     weight: 30
+  - name: Merchandise
+    pageRef: /resources/merchandise
+    parent: Resources
+    weight: 40
 
   - name: Events
     weight: 40
