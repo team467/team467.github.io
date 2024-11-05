@@ -33,9 +33,9 @@ These options provide team members, alumni and supporters some alternatives to t
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
 | F247              | Navy    | {{< figure width=400px src="quarter-zip.png" >}} | [Sport-Tek Tech Fleece 1/4-Zip Pullover](https://sporttekusa.com/p/4718_TrueNavy) | $55 |
-| TBC               | Navy    | {{< figure width=400px src="hoodie-full-zip.png" >}} | [Charles River Thermal Bonded Sherpa Sweatshirt](https://www.charlesriverapparel.com/product/9149/Thermal-Bonded-Sherpa-Sweatshirt.html) | TBC |
-| TBC               | Navy    | {{< figure width=400px src="full-zip-lady.png" >}} | [Charles River Women's NU Fitness Jacket](https://www.charlesriverapparel.com/product/5586/Womens-Nu-Fitness-Jacket.html) | TBC |
-| TBC               | Navy    | {{< figure width=400px src="full-zip-man.png" >}} | [Charles River Men's NU Fitness Jacket](https://www.charlesriverapparel.com/product/9586/Mens-Nu-Fitness-Jacket.html) | TBC |
+| 9149              | Navy    | {{< figure width=400px src="hoodie-full-zip.png" >}} | [Charles River Thermal Bonded Sherpa Sweatshirt](https://www.charlesriverapparel.com/product/9149/Thermal-Bonded-Sherpa-Sweatshirt.html) | $75 |
+| 5586              | Navy    | {{< figure width=400px src="full-zip-lady.png" >}} | [Charles River Women's NU Fitness Jacket](https://www.charlesriverapparel.com/product/5586/Womens-Nu-Fitness-Jacket.html) | $60 |
+| 9586              | Navy    | {{< figure width=400px src="full-zip-man.png" >}} | [Charles River Men's NU Fitness Jacket](https://www.charlesriverapparel.com/product/9586/Mens-Nu-Fitness-Jacket.html) | $60 |
 | K500              | Navy    | {{< figure width=400px src="polo-shirt-man.png" >}} | [Port Authority Silk Touch Polo](https://www.portauthorityclothing.com/p/1225_Navy) | $25 |
 | L500              | Navy    | {{< figure width=400px src="polo-shirt-lady.png" >}} | [Port Authority Women's Silk Touch Polo](https://www.portauthorityclothing.com/p/1407_Navy) | $25 |
 | CP80              | Navy    | {{< figure width=400px src="baseball-hat.png" >}} | [Port & Company - Six Panel Twill Cap ](https://www.portandcompany.com/p/818_Navy) | $16 |
