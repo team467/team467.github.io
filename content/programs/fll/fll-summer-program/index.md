@@ -17,11 +17,11 @@ Science and Engineering play a big part in our everyday lives and in the world. 
 
 Shrewsbury Robotics offers 4 weeks of summer activities each summer. The 4 weeks are broken down into one week sessions. Each student will participate in multiple activities:
 
-- **LEGO Robotics**
-- **Rockets**
-- **A variety of middle school science projects**
+- **LEGO Robotics**.
+- **Rockets**.
+- **A variety of middle school science projects**.
 
-Each activity teaches students different aspects of Science, Engineering and Technology. All activities teach students about Teamwork, Compromise, Success, Failure and much much more!
+Each activity teaches students different aspects of **science**, **engineering** and **technology**. All activities teach students about **teamwork**, **compromise**, **success**, **failure** and much much more!
 
 The program is available to **students entering Grades 4 to 8**. There is no residency requirement. We operate a full week program, 8:30am to 3:30pm Monday through Friday.
 
@@ -29,7 +29,7 @@ The students are grouped into teams, each team is coached by one or more high sc
 
 **Students need to bring a packed lunch with them**, we have refrigerator space available for them to store it and a microwave if it is required. They may also bring a snack to eat at morning recess if they wish. We also recommend they bring a reusable water bottle.
 
-A typical day might be scheduled as follows:-
+A typical day might be scheduled as follows:
 
     8:30  Arrival and team discussions
     8:45  LEGO robot building
@@ -43,7 +43,7 @@ A typical day might be scheduled as follows:-
 
 We alter this schedule as needed to ensure the students get adequate time to finish their rockets. The rockets are tested at the end of the week usually either Thursday or Friday, again this sometimes has to change if the weather looks unfavorable. Recess is outside when the weather is suitable, we play team games during recess and the students are encouraged to participate. If the weather is bad either wet or too hot we will play games or have other activities indoors instead.
 
-On Friday we provide the students with a pizza lunch, this is included in the price. During Friday afternoon the students compete against the other teams using the LEGO Robots they have been building during the week. This competition is based on the _FIRST_ LEGO League competition from the preceding season. Parents are invited to come and watch this.
+On Friday we provide the students with a pizza lunch, this is included in the price. During Friday afternoon, the students compete against the other teams using the LEGO Robots they have been building during the week. This competition is based on the _FIRST_ LEGO League competition from the preceding season. Parents are invited to come and watch this.
 
 ---
 
