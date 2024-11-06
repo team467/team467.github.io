@@ -9,7 +9,7 @@ Every team member is expected to wear the team T-shirt when representing the tea
 
 For the 2025 season, since we have changed our name and logo, we would like all team members to wear a new shirt and not reuse one from a previous year. To make this easy on everyone, **the team will provide two T-Shirts this year to every team member** so no-one will have an excuse for not wearing the team colors.
 
-We know some team members also like to wear a sweatshirt at competition - particularly at District Championships which can get cold. To make it easy to allow this, while still proudly representing the team, we are offering a sweatshirt and crewneck for sale this year printed in the same markings as the T-Shirt.
+We know some team members also like to wear a sweatshirt at competition - particularly at District Championships which can get cold. To make it easy to allow this, while still proudly representing the team, we are offering 2 hooded sweatshirts and crewneck for sale this year printed in the same markings as the T-Shirt.
 
 This will hopefully allow Team 467 to present a cohesive team appearance and make all of _FIRST_ aware of our new name and logo. Please show your support for the team at competitions by only wearing this official merchandise.
 
@@ -19,16 +19,17 @@ This will hopefully allow Team 467 to present a cohesive team appearance and mak
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
-| G800              | Navy    | {{< figure width=400px src="tshirt-front.png" >}} {{< figure width=400px src="tshirt-back.png" >}} | [Gildan short sleeve T-Shirt](https://www.gildan.com/us/en/8000-adult-t-shirt-en_us/?color=777) | $12 |
-| G840              | Navy    | as above with long sleeves | [Gildan long sleeve T-Shirt](https://www.gildan.com/us/en/8400-adult-long-sleeve-t-shirt-en_us/?color=032) | $16 |
-| JA8830            | Navy    | {{< figure width=400px src="hoodie-front.png" >}} {{< figure width=400px src="hoodie-back.png" >}} | [Hockey style pullover Hoodie](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8830). Comes with both white and gold laces in the team colors. Price includes your name embroidered on the arm | $55 |
-| 8424JA            | Navy    | {{< figure width=400px src="crewneck-front.png" >}} {{< figure width=400px src="crewneck-back.png" >}} | [Crewneck pullover](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424). Price includes your name embroidered on the arm | $45 |
+| G800              | Navy    | {{< figure width=400px src="tshirt-front.png" >}} | [Gildan short sleeve T-Shirt](https://www.gildan.com/us/en/8000-adult-t-shirt-en_us/?color=777) - Back will be printed with team number, name and sponsor information. Design will be finalized during build season. | $12 |
+| G840              | Navy    | as above with long sleeves | [Gildan long sleeve T-Shirt](https://www.gildan.com/us/en/8400-adult-long-sleeve-t-shirt-en_us/?color=032) - Back will be printed with team number, name and sponsor information. Design will be finalized during build season. | $16 |
+| JA8830            | Navy    | {{< figure width=400px src="hockey-front.png" >}} | [Sport Lace Hood](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8830) - Comes with both white and gold laces in the team colors. Nothing printed on the back. Price includes your name embroidered on the arm. | $55 |
+| JA8824            | Navy    | {{< figure width=400px src="hoodie-front.png" >}} | [Premium Fleece Hood](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8824) - Nothing printed on the back. Price includes your name embroidered on the arm. | $52 |
+| 8424JA            | Navy    | {{< figure width=400px src="crewneck-front.png" >}} | [Premium Fleece Crew](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424) - Nothing printed on the back. Price includes your name embroidered on the arm. | $45 |
 
 ----
 
 # Unofficial Team Merchandise
 
-These options provide team members, alumni and supporters some alternatives to the official team clothing to wear outside of competitions to show their support for the team. **_For all of these items a name can be embroidered on the arm for an additional $10._**
+These options provide team members, alumni and supporters some alternatives to the official team clothing to show their support for the team. **_For all of these items a name can be embroidered on the arm for an additional $10._**
 
 | Guertins Item No. | Color   | Picture | Description | Price |
 | ----------------- | ------- | --------| ----------- | ----- |
