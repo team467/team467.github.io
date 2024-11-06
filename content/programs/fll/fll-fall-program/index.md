@@ -17,7 +17,7 @@ title: Fall Program
 
 ### Explore the Future
 
-In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_ LEGO League teams will use creative thinking and LEGO technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future
+In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_ LEGO League teams will use creative thinking and LEGO technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future.
 
 {{< column >}}
 
@@ -103,4 +103,4 @@ We are very excited with this new program model and really look forward to being
 ### Sign Up Information
 There have been a few requests for information on how to sign up for LEGO Robotics 2024. Unfortunately, the program is currently full. Please look for the informational meeting and signup information for the 2025 competition in **June 2025**.
 
-Please direct any questions to fll@shrewsburyrobotics.org
+Please direct any questions to fll@shrewsburyrobotics.org.
