@@ -8,6 +8,7 @@ disableKinds: ["taxonomy", "RSS", "sitemap"]
 params:
   homeTitle: "Shrewsbury Robotics"
   selfHosted: true
+  favicon: false
   mainSections: ["posts"]
   bigimg:
   - src: "images/wheelPodThroughTheYears.jpg"
