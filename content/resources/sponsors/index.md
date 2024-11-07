@@ -44,7 +44,15 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 {{< text-center "### SHREWSBURY ROBOTICS *BRONZE* SPONSORS" >}}
 
+{{< columns >}}
+
 [![Polymaker](polymaker.png)](https://polymaker.com/)
+
+{{< column >}}
+
+![Krishnan Capital](krishnan-capital.svg)
+
+{{< endcolumns >}}
 
 ---
 
