@@ -30,6 +30,26 @@ This event is completely run by Team 467. Our team members gather on the night b
 
 This year, MindStorm Mayhem will be held on **December 7th, 2024**. The entry fee for teams is **$150**.
 
+**Payment is due on November 29th**
+
+Payment Information:
+
+    Payment types accepted: Check
+    Payment Amount: $150.00
+    Checks Payable To: Shrewsbury Robotics
+
+    Remit Payment To:
+    Shrewsbury Robotics
+    100 Maple Ave.
+    Shrewsbury MA 01545
+    Attn: Carol McInally
+
+---
+
+If your team is no longer able or interested in attending an event, please email mafll@wpi.edu and let us know as soon as possible.
+
+---
+
 The schedule for the day will be (the schedule is subject to change):
 
     07:30 AM - Team arrival / Pits are open / Team registration
