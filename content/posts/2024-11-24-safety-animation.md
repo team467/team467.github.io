@@ -1,5 +1,5 @@
 ---
-title: Submission for the 2024 Safety Animation Award
+title: Submission for the 2025 Safety Animation Award
 date: 2024-11-24T17:51:32-05:00
 ---
 
