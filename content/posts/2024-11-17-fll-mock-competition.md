@@ -1,6 +1,7 @@
 ---
 title: _FIRST_ Lego League Mock Competitions
 date: 2024-11-17T17:00:00-05:00
+author: Rajat Krishnan - 467 Student Team Member
 ---
 
 This year, FRC Team 467: **Center of Mass** sponsored **16 _FIRST_ LEGO League teams** made up of students in 5th-8th grade.  These FLL teams form a crucial part of our objective to promote STEM education.
