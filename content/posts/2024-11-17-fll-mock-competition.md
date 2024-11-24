@@ -1,5 +1,5 @@
 ---
-title: _FIRST_ Lego League Mock Competitions
+title: _FIRST_ LEGO League Mock Competitions
 date: 2024-11-17T17:00:00-05:00
 author: Rajat Krishnan - 467 Student Team Member
 ---

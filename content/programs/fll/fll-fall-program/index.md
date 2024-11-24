@@ -109,4 +109,5 @@ Please direct any questions to fll@shrewsburyrobotics.org.
 
 ### Recent news about the Shrewsbury Robotics 2024 Teams
 
-[Blog post about Mock Competitions]({{< relref 2024-11-17-fll-mock-competition >}})
+- [Hydro Hackers win Innovation Award]({{< relref 2024-11-23-fll-team14-award >}})
+- [Mock Competitions]({{< relref 2024-11-17-fll-mock-competition >}})
