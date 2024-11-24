@@ -12,6 +12,7 @@ In **REEFSCAPE**, a new challenge launching January 4, 2025, _FIRST_ Robotics Co
 {{< columns >}}
 
 {{< figure src="2025-week1-sme.png" >}}
+{{< figure src="2025-week3-wne.png" >}}
 
 {{< column >}}
 

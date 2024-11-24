@@ -6,11 +6,12 @@ title: 'Team 467 Competition Seasons'
 {{< columns >}}
 
 ### [2025: Reefscape](2025-reefscape)
-In 2025, Team 467 will compete with our robot at the _**Southern Maine**_ District Qualifier.
+In 2025, Team 467 will compete with our robot at the _**Southern Maine**_ and **Western New England** District Qualifiers.
 
 {{< column >}}
 
 [![Southern Maine](2025-reefscape/2025-week1-sme-small.png)](2025-reefscape)
+[![Western New England](2025-reefscape/2025-week3-wne-small.png)](2025-reefscape)
 
 {{< endcolumns >}}
 
