@@ -104,3 +104,9 @@ We are very excited with this new program model and really look forward to being
 There have been a few requests for information on how to sign up for LEGO Robotics 2024. Unfortunately, the program is currently full. Please look for the informational meeting and signup information for the 2025 competition in **June 2025**.
 
 Please direct any questions to fll@shrewsburyrobotics.org.
+
+---
+
+### Recent news about the Shrewsbury Robotics 2024 Teams
+
+[Blog post about Mock Competitions]({{< relref 2024-11-17-fll-mock-competition >}})
