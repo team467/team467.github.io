@@ -1,5 +1,5 @@
 ---
-title: First Lego League Mock Competitions
+title: _FIRST_ Lego League Mock Competitions
 date: 2024-11-24T15:01:04-05:00
 ---
 
