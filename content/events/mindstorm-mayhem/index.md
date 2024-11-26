@@ -36,13 +36,30 @@ Payment Information:
 
     Payment types accepted: Check
     Payment Amount: $150.00
-    Checks Payable To: Shrewsbury Robotics
+    Checks Payable To: Town of Shrewsbury
 
     Remit Payment To:
     Shrewsbury Robotics
     100 Maple Ave.
     Shrewsbury MA 01545
     Attn: Carol McInally
+
+**On the memo line, please include the text “Shrewsbury Robotics FLL” and YOUR FLL team number!**
+
+---
+
+**Food!**
+In addition to breakfast items (pastries, bagels, etc), hot and cold drinks, and a selection of snacks, teams may preorder pizza that will be delivered to our event. The pizza selections are:
+
+    Large Cheese Pizza (8 slices) - $14.00
+    Large Pepperoni Pizza (8 slices) - $16.00
+    Large Gluten Free Pizza (8 slices) - $9.50
+
+We will also be offering a VERY LIMITED selection pizza-by-the-slice for $3.00 per slice, subject to availability.
+
+To order pizza, fill out the information on the link below. Please note, in order to ensure delivery, pizza orders MUST be in by Wednesday, December 4th.
+
+PIZZA ORDER REQUESTS:  https://forms.gle/tDanE81fvahyaVHU6
 
 ---
 
