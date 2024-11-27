@@ -56,6 +56,6 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 ---
 
-If you are interested in sponsoring our team, please see our current [sponsorship brochure](Sponsorship-Brochure2022.pdf).
+If you are interested in sponsoring our team, please see our current [sponsorship brochure](sponsorship-brochure.pdf).
 
 You can contact us for more information by emailing [sponsors@shrewsburyrobotics.org](mailto:sponsors@shrewsburyrobotics.org).
