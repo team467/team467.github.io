@@ -9,6 +9,7 @@ params:
   homeTitle: "Shrewsbury Robotics"
   selfHosted: true
   favicon: false
+  rss: true
   mainSections: ["posts"]
   bigimg:
   - src: "images/wheelPodThroughTheYears.jpg"
