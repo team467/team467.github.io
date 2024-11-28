@@ -84,7 +84,7 @@ In 2019, Team 467 competed with our robot at the **_Granite State_** and **_Grea
 
 {{< columns >}}
 
-### [2018: _FIRST_ Power Up](2018-first-power-up)
+### [2018: FIRST Power Up](2018-first-power-up)
 In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_Southern CT_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Detroit.
 
 {{< column >}}
@@ -97,7 +97,7 @@ In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_
 
 {{< columns >}}
 
-### [2017: _FIRST_ Steamworks](2017-first-steamworks)
+### [2017: FIRST Steamworks](2017-first-steamworks)
 In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_** and **_Rhode Island_** District Qualifiers
 
 {{< column >}}
@@ -110,7 +110,7 @@ In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_
 
 {{< columns >}}
 
-### [2016: _FIRST_ Stronghold](2016-first-stronghold)
+### [2016: FIRST Stronghold](2016-first-stronghold)
 In 2016, Team 467 competed with our robot **_MONGOOSE_** at the **_WPI_** and **_Boston_** District Qualifiers and the **_New England District Championship_**.
 
 {{< column >}}

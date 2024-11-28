@@ -5,6 +5,17 @@ theme: ["beautifulhugo"]
 
 disableKinds: ["taxonomy", "sitemap"]
 
+outputs:
+  home:
+  - html
+  - rss
+  section:
+  - html
+  taxonomy:
+  - html
+  term:
+  - html
+
 params:
   homeTitle: "Shrewsbury Robotics"
   selfHosted: true
@@ -27,7 +38,7 @@ menus:
   main:
   - name: LEGO Programs
     weight: 10
-  - name: About _FIRST_ LEGO League
+  - name: About FIRST LEGO League
     pageRef: /programs/fll/about-fll
     weight: 10
     parent: LEGO Programs
@@ -40,15 +51,15 @@ menus:
     weight: 30
     parent: LEGO Programs
 
-  - name: _FIRST_ Robotics Competition
+  - name: FIRST Robotics Competition
     weight: 20
-  - name: About _FIRST_ Robotics Competition
+  - name: About FIRST Robotics Competition
     pageRef: /programs/frc/about-frc
-    parent: _FIRST_ Robotics Competition
+    parent: FIRST Robotics Competition
     weight: 10
   - name: "Competition Seasons"
     pageRef: /programs/frc/competition-seasons
-    parent: _FIRST_ Robotics Competition
+    parent: FIRST Robotics Competition
     weight: 20
 
   - name: Resources

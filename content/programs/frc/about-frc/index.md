@@ -1,6 +1,6 @@
 ---
 date: '2011-07-19T14:16:39-04:00'
-title: "_FIRST_® Robotics Competition"
+title: "FIRST Robotics Competition"
 ---
 
 {{< columns >}}
@@ -9,7 +9,7 @@ title: "_FIRST_® Robotics Competition"
 
 {{< column >}}
 
-[_FIRST_ Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) is an international high school robotics competition.
+[_FIRST_® Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) is an international high school robotics competition.
 
 Each year, teams of high school students, coaches, and mentors work during a six-week period to build robots capable of competing in that year's game.
 
