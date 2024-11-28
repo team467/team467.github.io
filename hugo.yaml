@@ -11,10 +11,6 @@ outputs:
   - rss
   section:
   - html
-  taxonomy:
-  - html
-  term:
-  - html
 
 params:
   homeTitle: "Shrewsbury Robotics"
