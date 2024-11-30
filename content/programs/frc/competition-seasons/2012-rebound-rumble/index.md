@@ -64,9 +64,21 @@ basketball is scored, the more points the Alliance receives.
 
 ---
 
+### Washington DC Regional: Finals - Match 2
+
+{{< youtube KZ2UsF4EUyM >}}
+
+---
+
 ### Team Photo
 
 {{< figure src="2012-team-photo.jpg" >}}
+
+---
+
+### Season Retrospective
+
+{{< youtube diG33Xov0mY >}}
 
 ---
 
