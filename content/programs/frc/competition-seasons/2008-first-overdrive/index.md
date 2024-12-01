@@ -66,4 +66,6 @@ below.
 
 {{< endcolumns >}}
 
+---
+
 {{< prevnext prevtext="2007: Rack 'n' Roll" prevurl="../2007-rack-n-roll" nexttext="2009: Lunacy" nexturl="../2009-lunacy" >}}

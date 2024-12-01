@@ -66,4 +66,6 @@ Breakaway is a game played on the FIELD (illustrated in the figure below). Two A
 
 {{< figure src="2010-team-photo.jpg" >}}
 
+---
+
 {{< prevnext prevtext="2009: Lunacy" prevurl="../2009-lunacy" nexttext="2011: LOGO MOTION" nexturl="../2011-logo-motion" >}}

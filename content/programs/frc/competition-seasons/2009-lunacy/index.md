@@ -57,4 +57,6 @@ _Lunacy_ is a game played on a field known as the CRATER. Two ALLIANCES, one red
 
 {{< endcolumns >}}
 
+---
+
 {{< prevnext prevtext="2008: FIRST Overdrive" prevurl="../2008-first-overdrive" nexttext="2010: Breakaway" nexturl="../2010-breakaway" >}}

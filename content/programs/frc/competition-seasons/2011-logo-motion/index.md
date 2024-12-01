@@ -63,4 +63,6 @@ LOGO MOTION is played by two competing alliances on a flat 27’ x 54’ foot fi
 
 {{< figure src="2011-team-photo.jpg" >}}
 
+---
+
 {{< prevnext prevtext="2010: Breakaway" prevurl="../2010-breakaway" nexttext="2012: Rebound Rumble" nexturl="../2012-rebound-rumble" >}}

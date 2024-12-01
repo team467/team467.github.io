@@ -64,4 +64,11 @@ contact with the playing field at the end of the match
 
 {{< endcolumns >}}
 
+---
+
+### Team Photo
+{{< figure src="2007-team-photo.jpg" >}}
+
+---
+
 {{< prevnext nexttext="2008: FIRST Overdrive" nexturl="../2008-first-overdrive" >}}
