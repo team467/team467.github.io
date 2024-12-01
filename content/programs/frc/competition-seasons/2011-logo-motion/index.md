@@ -45,11 +45,11 @@ LOGO MOTION is played by two competing alliances on a flat 27’ x 54’ foot fi
 
 {{< columns >}}
 
-[![LOGO MOTION Logo](logo-motion-logo.png)](https://en.wikipedia.org/wiki/Rebound_Rumble)
+[![LOGO MOTION Logo](logo-motion-logo.png)](https://en.wikipedia.org/wiki/Logo_Motion)
 
 {{< column >}}
 
-{{< youtube 93Tygo0_O5c >}}
+{{< youtube aH_9QHZpsfs >}}
 
 {{< endcolumns >}}
 
@@ -59,4 +59,4 @@ LOGO MOTION is played by two competing alliances on a flat 27’ x 54’ foot fi
 
 {{< figure src="2011-team-photo.jpg" >}}
 
-{{< prevnext  nexttext="2012: Rebound Rumble" nexturl="../2012-rebound-rumble" >}}
+{{< prevnext prevtext="2010: Breakaway" prevurl="../2010-breakaway" nexttext="2012: Rebound Rumble" nexturl="../2012-rebound-rumble" >}}
