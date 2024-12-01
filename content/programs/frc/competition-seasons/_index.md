@@ -183,3 +183,16 @@ In 2011, Team 467 competed with our robots **_WALLACE & GROMIT_** at the **_WPI_
 [![2011 Robot](2011-logo-motion/2011-robot-wallace+gromit-small.jpg)](2011-logo-motion)
 
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2010: Breakaway](2010-breakaway)
+In 2010, Team 467 competed with our robot **_Kickamatron_** at the **_Chesapeake_** and the **_Boston_** Regional Events.
+
+{{< column >}}
+
+[![2010 Robot](2010-breakaway/2010-robot-kickamatron-small.jpg)](2010-breakaway)
+
+{{< endcolumns >}}
