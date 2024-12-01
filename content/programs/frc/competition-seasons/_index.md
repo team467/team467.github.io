@@ -196,3 +196,42 @@ In 2010, Team 467 competed with our robot **_Kickamatron_** at the **_Chesapeake
 [![2010 Robot](2010-breakaway/2010-robot-kickamatron-small.jpg)](2010-breakaway)
 
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2009: Lunacy](2009-lunacy)
+In 2009, Team 467 competed with our robot **_Dyson_** at the **_BAE Granite State_** and the **_Chesapeake_** Regional Events.
+
+{{< column >}}
+
+[![2009 Robot](2009-lunacy/2009-robot-dyson-small.png)](2009-lunacy)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2008: FIRST Overdrive](2008-first-overdrive)
+In 2008, Team 467 competed with our robot **_Roxanne_** at the **_Connecticut_** and the **_Philadelphia_** Regional Events.
+
+{{< column >}}
+
+[![2008 Robot](2008-first-overdrive/2008-robot-roxanne-small.png)](2008-first-overdrive)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2007: Rack 'n' Roll](2007-rack-n-roll)
+In 2007, Team 467 competed with our robot at the **_Finger Lakes_** and the **_Boston_** Regional Events.
+
+{{< column >}}
+
+[![2007 Robot](2007-rack-n-roll/2007-robot-small.png)](2007-rack-n-roll)
+
+{{< endcolumns >}}

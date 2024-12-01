@@ -23,6 +23,10 @@ title: '2010: Breakaway'
 * [Boston Regional](https://www.thebluealliance.com/event/2010ma)
   * _Judges Award_
 
+#### Post Season
+
+* Battlecry
+
 ---
 
 {{< statbotics
@@ -40,11 +44,7 @@ title: '2010: Breakaway'
 
 ### The Game
 
-Breakaway is a game played on the FIELD (illustrated in the figure below). Two ALLIANCES, one
-red and one blue, composed of three FIRST Robotics Competition (FRC) teams each, compete in
-each MATCH. The object of the game is to attain a higher score than your opponent by shooting
-BALLS into a GOAL, climbing on the ALLIANCE TOWER or PLATFORM, or by lifting an ALLIANCE
-ROBOT off the PLAYING SURFACE.
+Breakaway is a game played on the FIELD (illustrated in the figure below). Two ALLIANCES, one red and one blue, composed of three FIRST Robotics Competition (FRC) teams each, compete in each MATCH. The object of the game is to attain a higher score than your opponent by shooting BALLS into a GOAL, climbing on the ALLIANCE TOWER or PLATFORM, or by lifting an ALLIANCE ROBOT off the PLAYING SURFACE.
 
 ![Breakaway field](2010-breakaway-field.png)
 
@@ -66,4 +66,4 @@ ROBOT off the PLAYING SURFACE.
 
 {{< figure src="2010-team-photo.jpg" >}}
 
-{{< prevnext  nexttext="2011: LOGO MOTION" nexturl="../2011-logo-motion" >}}
+{{< prevnext prevtext="2009: Lunacy" prevurl="../2009-lunacy" nexttext="2011: LOGO MOTION" nexturl="../2011-logo-motion" >}}
