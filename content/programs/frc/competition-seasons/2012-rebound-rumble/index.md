@@ -82,4 +82,4 @@ basketball is scored, the more points the Alliance receives.
 
 ---
 
-{{< prevnext  nexttext="2013: Ultimate Ascent" nexturl="../2013-ultimate-ascent" >}}
+{{< prevnext  prevtext="2011: Logo Motion" prevurl="../2011-logo-motion" nexttext="2013: Ultimate Ascent" nexturl="../2013-ultimate-ascent" >}}

@@ -163,10 +163,23 @@ In 2013, Team 467 competed with our robot **_VORTEX_** at the **_WPI_** Regional
 {{< columns >}}
 
 ### [2012: Rebound Rumble](2012-rebound-rumble)
-In 2012, Team 467 competed with our robot **_ARTEMAS_** at the **_WPI_** Regional Event and the **_Washington DC_** Regional Event.
+In 2012, Team 467 competed with our robot **_ARTEMAS_** at the **_WPI_** and the **_Washington DC_** Regional Events.
 
 {{< column >}}
 
 [![2012 Robot](2012-rebound-rumble/2012-robot-artemas-small.jpg)](2012-rebound-rumble)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2011: LOGO MOTION](2011-logo-motion)
+In 2011, Team 467 competed with our robots **_WALLACE & GROMIT_** at the **_WPI_** and the **_Greater Toronto East_** Regional Events.
+
+{{< column >}}
+
+[![2011 Robot](2011-logo-motion/2011-robot-wallace+gromit-small.jpg)](2011-logo-motion)
 
 {{< endcolumns >}}
