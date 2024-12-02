@@ -15,17 +15,20 @@ For more information and to sign up to provide a meal for 2025 season please sel
 
 ## Dinners:
 
-- Dinners setup starts at **5 PM** and meals are served at **6 PM**.  
+- Dinners setup starts at **5 PM** and meals are served at **6 PM**.
 - Meals consist of an entrée, vegetables or salad, rolls, drinks and a dessert.
+- Meals can be what you would typically eat at home. This is great opportunity for our diverse student body to share something from their own culture with the rest of the team.
 - Meals from the past have included:
-  - pasta dishes
-  - turkey or ham dinners
-  - tacos
-  - beef stew
-  - chili
-  - baked potatoes with toppings, etc.
-- We always make sure a vegetarian option is available.
-- **Ethnic dishes and vegetarian meals are always welcome and encouraged**
+  - Many Indian, Chinese, Arab dishes
+  - Pasta or Rice
+  - Tacos
+  - Stew
+  - Chili
+  - Baked potatoes with toppings
+  - Pancake/Waffles with toppings
+- A vegetarian option is always available. Sometimes everything is vegetarian - this is OK. 
+
+**Ethnic dishes and vegetarian meals are always welcome and encouraged**. Eating pasta or pizza every night gets very boring - feel free to challenge us - the students and mentors have never turned down good food. 
 
 We will relay any information we receive about allergies and what is necessary to keep team members safe. You may be asked to make several portions of a meal without onions, or several portions without milk or cheese.
 
