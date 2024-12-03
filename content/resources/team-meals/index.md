@@ -19,12 +19,15 @@ For more information and to sign up to provide a meal for 2025 season please sel
 
 ## Dinners:
 
-- Dinners setup starts at **5 PM** and meals are served at **6 PM**.
+- Dinner setup starts at **5 PM** and meals are served at **6 PM**.
 - Meals consist of an entrée, vegetables or salad, rolls, drinks and a dessert.
 - Meals can be what you would typically eat at home. This is great opportunity for our diverse student body to share something from their own culture with the rest of the team.
 - Meals from the past have included:
-  - Many Indian, Chinese, Arab dishes
+  - Biryani
+  - Noodles
+  - Paneer with Naan
   - Pasta or Rice
+  - Mac and Cheese
   - Tacos
   - Stew
   - Chili
