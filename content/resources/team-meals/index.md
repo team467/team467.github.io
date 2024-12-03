@@ -11,6 +11,10 @@ Due to the current size of the team, each meal will be made up of contributions 
 
 For more information and to sign up to provide a meal for 2025 season please select a timeslot [here](https://www.signupgenius.com/go/409044DADAE2CA6F49-53574065-467build)
 
+## Sample Meal
+
+{{< youtube esBC6LlyCJw >}}
+
 ---
 
 ## Dinners:
