@@ -1,6 +1,6 @@
 ---
 date: '2016-01-09T10:30:00-05:00'
-title: '2016: _FIRST_ Stronghold'
+title: '2016: FIRST Stronghold'
 ---
 
 {{< columns >}}
@@ -75,4 +75,4 @@ _FIRST_ STRONGHOLD is played by two alliances of three teams each. Alliances com
 
 ---
 
-{{< prevnext  prevtext="2015: Recycle Rush" prevurl="../2015-recycle-rush" nexttext="2017: _FIRST_ Steamworks" nexturl="../2017-first-steamworks" >}}
+{{< prevnext  prevtext="2015: Recycle Rush" prevurl="../2015-recycle-rush" nexttext="2017: FIRST Steamworks" nexturl="../2017-first-steamworks" >}}

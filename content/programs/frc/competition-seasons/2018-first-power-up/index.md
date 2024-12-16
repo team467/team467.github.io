@@ -1,6 +1,6 @@
 ---
 date: '2018-01-06T10:30:00-05:00'
-title: '2018: _FIRST_ Power Up'
+title: '2018: FIRST Power Up'
 ---
 
 {{< columns >}}
@@ -70,4 +70,4 @@ _FIRST_ POWER UP, includes two alliances of video game characters and their huma
 
 ---
 
-{{< prevnext  prevtext="2017: _FIRST_ Steamworks" prevurl="../2017-first-steamworks" nexttext="2019: Destination Deep Space" nexturl="../2019-destination-deep-space" >}}
+{{< prevnext  prevtext="2017: FIRST Steamworks" prevurl="../2017-first-steamworks" nexttext="2019: Destination Deep Space" nexturl="../2019-destination-deep-space" >}}

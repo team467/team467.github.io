@@ -1,6 +1,6 @@
 ---
 date: '2017-01-07T10:30:00-05:00'
-title: '2017: _FIRST_ Steamworks'
+title: '2017: FIRST Steamworks'
 ---
 
 {{< columns >}}
@@ -72,4 +72,4 @@ _FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam powe
 
 ---
 
-{{< prevnext  prevtext="2016: _FIRST_ Stronghold" prevurl="../2016-first-stronghold" nexttext="2018: _FIRST_ Power Up" nexturl="../2018-first-power-up" >}}
+{{< prevnext  prevtext="2016: FIRST Stronghold" prevurl="../2016-first-stronghold" nexttext="2018: FIRST Power Up" nexturl="../2018-first-power-up" >}}

@@ -35,7 +35,7 @@
     {{- end }}
 {{ else }}
     {{- with ($.Scratch.Get "Title") }}
-      <title>{{ replace . "_FIRST_" "FIRST" }} - {{ $.Site.Params.homeTitle }}</title>
+      <title>{{ . }} - {{ $.Site.Params.homeTitle }}</title>
     {{- end }}
 {{ end }}
 

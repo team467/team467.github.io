@@ -64,10 +64,22 @@ basketball is scored, the more points the Alliance receives.
 
 ---
 
+### Washington DC Regional: Finals - Match 2
+
+{{< youtube KZ2UsF4EUyM >}}
+
+---
+
 ### Team Photo
 
 {{< figure src="2012-team-photo.jpg" >}}
 
 ---
 
-{{< prevnext  nexttext="2013: Ultimate Ascent" nexturl="../2013-ultimate-ascent" >}}
+### Season Retrospective
+
+{{< youtube diG33Xov0mY >}}
+
+---
+
+{{< prevnext  prevtext="2011: Logo Motion" prevurl="../2011-logo-motion" nexttext="2013: Ultimate Ascent" nexturl="../2013-ultimate-ascent" >}}

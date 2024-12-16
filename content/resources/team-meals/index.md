@@ -3,36 +3,67 @@ date: '2012-01-14T18:25:05-05:00'
 title: Team Meals
 ---
 
-Team members eat together as a team during the longer work days of the build season. Most weeks we have meals on **Friday Dinner, Saturday Lunch and Saturday Dinner**, however during vacation and at the end of the build season, meals on other days will also be added.
+Team members eat together as a team during the longer work days of the build season. Most weeks we have Dinner on **Friday** and **Saturday**, however during vacation week and towards the end of the build season, we add meals on other days also.
 
-**Providing one team meal is a requisite for travel with the team.**
+**We ask that each student contributes to at least one team meal to support the team during the build season.** This is a prerequisite for student participation in our travel competition.
 
-**Here are some helpful tips:**
+Due to the current size of the team, each meal will be made up of contributions from multiple students.
 
-**Lunches: Lunches will be setup starting at 11 am to serve at noon.**
+For more information and to sign up to provide a meal for 2025 season please select a timeslot [here](https://www.signupgenius.com/go/409044DADAE2CA6F49-53574065-467build)
 
-Suggested items to serve:
+## Sample Meal
 
-Premade Grilled Cheese Sandwiches, Samosas, Pot Stickers, Dumplings, Loaded Potato Skins, Burritos, Quiche, Quesadillas, Stromboli, Calzone, Chicken or Veggie Nuggets, Chicken Tenders, Egg Rolls, Wraps with various fillings (meat and veggie), trays of Roasted Veggies.
+{{< youtube esBC6LlyCJw >}}
 
-**Dinners: Dinners are setup starting at 5pm and served at 6:30 PM.** Meals consist of an entrée, vegetables or salad, rolls, drinks and a dessert.
+---
 
-Meals from the past have included pasta dishes, turkey or ham dinners, tacos, beef stew, chili, baked potatoes with toppings, etc. We always make sure a vegetarian option is available. **Ethnic dishes and vegetarian meals are always welcome and encouraged**
+## Dinners:
+
+- Dinner setup starts at **5 PM** and meals are served at **6 PM**.
+- Meals consist of an entrée, vegetables or salad, rolls, drinks and a dessert.
+- Meals can be what you would typically eat at home. This is great opportunity for our diverse student body to share something from their own culture with the rest of the team.
+- Meals from the past have included:
+  - Biryani
+  - Noodles
+  - Paneer with Naan
+  - Pasta or Rice
+  - Mac and Cheese
+  - Tacos
+  - Stew
+  - Chili
+  - Baked potatoes with toppings
+  - Pancake/Waffles with toppings
+- A vegetarian option is always available. Sometimes everything is vegetarian - this is OK. 
+
+**Ethnic dishes and vegetarian meals are always welcome and encouraged**. Eating pasta or pizza every night gets very boring - feel free to challenge us - the students and mentors have never turned down good food. 
 
 We will relay any information we receive about allergies and what is necessary to keep team members safe. You may be asked to make several portions of a meal without onions, or several portions without milk or cheese.
 
-**Drinks**, Capri Sun is welcomed by the team and is easy to transport. Milk, juice, and soda are also welcome. The team serves coffee, tea, and cocoa for the team on most work days. Donations towards these items are always welcome.
+---
 
-**Not sure what to make?** Check out [www.food.com](http://www.food.com/) for easy recipes that the website will help you adjust for a crowd.
+## Drinks:
+- Capri Sun is welcomed by the team and is easy to transport.
+- Milk, juice, and soda are also welcome.
+- The team serves coffee, tea, and cocoa for the team on most work days.
+- Donations towards these items are always welcome.
 
-Plates, silverware, cups, and napkins are provided by the team. Please bring the serving utensils you need with you.
+---
 
-You, along with your child, will be assisted with setting up your meal. Meals may be heated through or kept warm in the ovens until ready to serve. We have 10 ovens, 10 microwaves, and 8 stove tops to help us get everything ready on time. Several team members will be assigned to clean up the room and assist you to your car.
+## Not sure what to make?
+- Check out [www.food.com](http://www.food.com/) for easy recipes that the website will help you adjust for a crowd.
 
-Meal dates and times may be viewed on the team calendar at [www.shrewsburyrobotics.org](http://www.shrewsburyrobotics.org/calendar).
+---
 
-Meal sign ups are done here: [ https://www.signupgenius.com/<wbr></wbr>go/409044dadae2ca6f49-2019](https://www.signupgenius.com/go/409044dadae2ca6f49-2019).
+## More Information
+- Plates, silverware, cups, and napkins are provided by the team.
+- Please bring the serving utensils you need with you.
+- You will be assisted with setting up your meal.
+- Meals may be heated through or kept warm in the ovens until ready to serve.
+- We have 10 ovens, 10 microwaves, and 8 stove tops to help us get everything ready on time.
+- Several team members will be assigned to clean up the room and assist you to your car.
+
+---
 
 Questions about meals, please email <nancy@shrewsburyrobotics.org>.
 
-If there are financial difficulties that you feel will prevent you from taking part, please email <carol@shrewsburyrobotics.org> This information will be kept in confidence, and we want all of our team members to take part in all required activities.
+If there are financial difficulties that you feel will prevent you from taking part, please email <tim@shrewsburyrobotics.org> This information will be kept in confidence.
