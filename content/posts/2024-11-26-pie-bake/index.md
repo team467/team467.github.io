@@ -23,7 +23,7 @@ The big day started at **6:30 AM** as students, mentors, and parents met at the 
 
 ![pre-baked-pies](pre-baked-pies.jpg)
 
-Of course, the event didn’t come together overnight. Planning for the Pie Bake began weeks in advance, with mentors coordinating everything from ingredient sourcing to logistics. In the days leading up to the event, mentors worked tirelessly to gather the necessary materials. This included aquiring 50 bushels of fresh apples from [Flat Hill Orchards](https://www.flathillorchards.com). Along with hundreds of pie shells, bags of sugar, spices, and other essentials, the ingredients were carefully organized and prepped to ensure the big day went off without any problems.
+Of course, the event didn’t come together overnight. Planning for the Pie Bake began weeks in advance, with mentors coordinating everything from ingredient sourcing to logistics. In the days leading up to the event, mentors worked tirelessly to gather the necessary materials. This included aqcuiring 50 bushels of fresh apples from [Flat Hill Orchards](https://www.flathillorchards.com). Along with hundreds of pie shells, bags of sugar, spices, and other essentials, the ingredients were carefully organized and prepped to ensure the big day went off without any problems.
 
 {{< columns >}}
 
@@ -36,4 +36,4 @@ Of course, the event didn’t come together overnight. Planning for the Pie Bake
 
 {{< endcolumns>}}
 
-This event is more than just a fundraiser or community service initiative — it’s a celebration of teamwork, dedication, and the spirit of giving. It’s an opportunity for everyone involved to come together and make a tangible difference. Beyond the financial support this event generates for our robotics program, it strengthens our bond as a team and reinforces our mission to contribute positively to the world around us.
+This event is more than just a fundraiser or community service initiative—it’s a celebration of teamwork, dedication, and the spirit of giving. It’s an opportunity for everyone involved to come together and make a tangible difference. Beyond the financial support this event generates for our robotics program, it strengthens our bond as a team and reinforces our mission to contribute positively to the world around us.
