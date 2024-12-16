@@ -42,10 +42,7 @@ For example to create a new blog post, run the following from a command prompt
 ```
 hugo new content/posts/2024-09-16-NewBlog.md
 ```
-
-If you want more specifics about how to **write posts and more read the [guidelines](GUIDELINES.md)**.
-
-Once you have saved your changes, **after reading throughougly through the [guidelines](GUIDELINES.md)**, you can test them locally on your computer by running this command:
+Once you have made all the changes that you want to make; run the following to test your changes.
 ```
 hugo server
 ```
