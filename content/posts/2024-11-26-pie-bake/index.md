@@ -23,7 +23,7 @@ The big day started at **6:30 AM** as students, mentors, and parents met at the 
 
 ![pre-baked-pies](pre-baked-pies.jpg)
 
-Of course, the event didn’t come together overnight. Planning for the Pie Bake began weeks in advance, with mentors coordinating everything from ingredient sourcing to logistics. In the days leading up to the event, mentors worked tirelessly to gather the necessary materials. This included aqcuiring 50 bushels of fresh apples from [Flat Hill Orchards](https://www.flathillorchards.com). Along with hundreds of pie shells, bags of sugar, spices, and other essentials, the ingredients were carefully organized and prepped to ensure the big day went off without any problems.
+Of course, the event didn’t come together overnight. Planning for the Pie Bake began weeks in advance, with mentors coordinating everything from ingredient sourcing to logistics. In the days leading up to the event, mentors worked tirelessly to gather the necessary materials. This included acquiring 50 bushels of fresh apples from [Flat Hill Orchards](https://www.flathillorchards.com). Along with hundreds of pie shells, bags of sugar, spices, and other essentials, the ingredients were carefully organized and prepped to ensure the big day went off without any problems.
 
 {{< columns >}}
 
