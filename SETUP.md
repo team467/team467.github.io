@@ -64,12 +64,7 @@ This adds all your changes to the staging area on git
 git config user.name username
 git config user.email email
 ```
-This sets the account and email the commits will be connected to. For example:
-```
-git config user.name pgund
-git config user.email 183660136+pgund@users.noreply.github.com
-```
-Of course change the email and username to what your GitHub account is associated to, unless you want to give me credit!
+Of course change the email and username to what your GitHub account is associated to.
 ### Commit Work
 ```
 git commit -m "A meaningful message used to describe the change"
