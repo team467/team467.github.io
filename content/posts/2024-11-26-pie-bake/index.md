@@ -1,5 +1,5 @@
 ---
-title: '25th Annual Pie Bake'
+title: '22nd Annual Pie Bake'
 date: 2024-11-24T20:00:53-04:00
 author: Pranav Gundu - 467 Student Team Member
 ---
