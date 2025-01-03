@@ -43,7 +43,5 @@ These options provide team members, alumni and supporters some alternatives to t
 | STC28             | Navy / White | {{< figure width=400px src="pom-pom.png" >}} | [Sport-Tek Stripe Pom Pom Beanie](https://www.sporttekusa.com/p/6960_TrNvWhite) | $15 |
 | 8106              | Heather Grey | {{< figure width=400px src="jogger.png" >}} | [Throwback Jogger](https://www.pennantsportswear.com/throwback-jogger-8106.html) | $36 |
 | DT6100            | Oatmeal Heather | {{< figure width=400px src="alumni.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ALUMNI" | $35 |
-| DT6100            | Oatmeal Heather | {{< figure width=400px src="robotics-mom.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS MOM" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
-| DT6100            | Oatmeal Heather | {{< figure width=400px src="robotics-dad.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ROBOTICS DAD" _Note: we can only offer this item if at least 8 parents want to purchase_ | $35 |
 
 
