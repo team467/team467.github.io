@@ -54,8 +54,3 @@ The alliance that earns the most points wins the match!
 ---
 
 {{< prevnext prevtext="2024: Crescendo" prevurl="../2024-crescendo" >}}
-
-
-
-
-https://youtu.be/YWbxcjlY9JY
