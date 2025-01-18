@@ -9,14 +9,13 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 {{< text-center "### SHREWSBURY ROBOTICS *PLATINUM* SPONSORS" >}}
 {{< columns >}}
 
-[![Shrewsbury High School](shrewsbury-public-schools.png)](https://schools.shrewsburyma.gov/high)
 [![Vangytool](Vangytool.png)](http://www.vangytool.com/)
-{{< text-center "## The McBrayer Family" >}}
+[![Shrewsbury High School](shrewsbury-public-schools.png)](https://schools.shrewsburyma.gov/high)
 
 {{< column >}}
 
-[![Versatile Communications logo](Versatile.jpg)](https://www.weareversatile.com/)
 [![MITRE](MITRE-logo_Blue.svg)](https://www.mitre.org)
+{{< text-center "## The McBrayer Family" >}}
 
 {{< endcolumns>}}
 
