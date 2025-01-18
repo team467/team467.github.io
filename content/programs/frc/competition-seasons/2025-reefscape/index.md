@@ -5,11 +5,11 @@ title: '2025: Reefscape'
 
 {{< columns >}}
 
-{{< figure src="2025-week1-sme.png" >}}
+[![Week 1 Competition](2025-week1-sme.png)](https://frc-events.firstinspires.org/2025/MEFAL)
 
 {{< column >}}
 
-{{< figure src="2025-week3-wne.png" >}}
+[![Week 3 Competition](2025-week3-wne.png)](https://frc-events.firstinspires.org/2025/MAWNE)
 
 {{< endcolumns >}}
 
