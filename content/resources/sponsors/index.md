@@ -36,12 +36,6 @@ subtitle: THANK YOU TO OUR TEAM SPONSORS
 
 ---
 
-{{< text-center "### SHREWSBURY ROBOTICS *SILVER* SPONSORS" >}}
-
-[![Win Waste](Win-Waste-Innovations.png)](https://www.win-waste.com/)
-
----
-
 {{< text-center "### SHREWSBURY ROBOTICS *BRONZE* SPONSORS" >}}
 
 {{< columns >}}
