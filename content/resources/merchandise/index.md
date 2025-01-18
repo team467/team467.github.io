@@ -41,7 +41,6 @@ These options provide team members, alumni and supporters some alternatives to t
 | L500              | Navy    | {{< figure width=400px src="polo-shirt-lady.png" >}} | [Port Authority Women's Silk Touch Polo](https://www.portauthorityclothing.com/p/1407_Navy) | $25 |
 | CP80              | Navy    | {{< figure width=400px src="baseball-hat.png" >}} | [Port & Company - Six Panel Twill Cap ](https://www.portandcompany.com/p/818_Navy) | $16 |
 | STC28             | Navy / White | {{< figure width=400px src="pom-pom.png" >}} | [Sport-Tek Stripe Pom Pom Beanie](https://www.sporttekusa.com/p/6960_TrNvWhite) | $15 |
-| 8106              | Heather Grey | {{< figure width=400px src="jogger.png" >}} | [Throwback Jogger](https://www.pennantsportswear.com/throwback-jogger-8106.html) | $36 |
 | DT6100            | Oatmeal Heather | {{< figure width=400px src="alumni.png" >}} | [District V.I.T. Fleece Hoodie](https://districtclothing.com/p/10641_OatHthr) - "ALUMNI" | $35 |
 
 
