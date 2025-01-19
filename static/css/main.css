@@ -3,7 +3,7 @@
 body {
   font-family: 'Play', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #283549;
+  color: #202A44;
   position: relative;
   background: #FFF;
   display: flex;
@@ -98,7 +98,7 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #C5B358; 
+  background: #C5B358;
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -147,7 +147,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #283549;
+  color: #202A44;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -302,7 +302,7 @@ footer {
 }
 
 footer a {
-  color: #283549;
+  color: #202A44;
 }
 
 footer .list-inline {
@@ -395,7 +395,7 @@ footer div.disclaimer {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #283549;
+  color: #202A44;
   text-decoration: none;
 }
 .post-preview .post-entry {
@@ -769,14 +769,14 @@ div.splitbox div.right {
   padding: 10px 5px;
   background: #FFF;
   border-radius: 0;
-  color: #283549;
+  color: #202A44;
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
     padding: 15px 25px;
   }
 }
-.disqus-comments button:hover, 
+.disqus-comments button:hover,
 .disqus-comments button:focus {
   color: #FFF;
   background: #C5B358;
