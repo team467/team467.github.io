@@ -7,6 +7,8 @@ On Saturday, December 7, our team hosted our **17th Mindstorm Mayhem** qualifier
 
 With an incredible turnout of nearly 36 teams, we were able to provide the students with a fun and challenging competition.
 
-With smiles all around, our team members created new connections making a truly memorable occasion. As always, we can’t wait for the next time we host Mindstorm Mayhem. See you there!
+In addition, two former FLL members reunited with MC King and took a picture to celebrate as seen below. With smiles all around, our team members created new connections making a truly memorable occasion. As always, we can’t wait for the next time we host Mindstorm Mayhem. See you there!
+
+![mc-king](mc-king.jpg)
 
 ![mindstorm-match](mindstorm-match.jpg)
