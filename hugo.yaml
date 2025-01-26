@@ -33,10 +33,10 @@ params:
   author:
     website: "https://www.shrewsburyrobotics.org"
     github: orgs/team467
-    twitter: https://twitter.com/frc467
     facebook: https://www.facebook.com/shrewsburyrobotics
     instagram: https://www.instagram.com/shrewsburyrobotics467/
     email: info@shrewsburyrobotics.org
+    flickr: foo
 
 menus:
   main:
