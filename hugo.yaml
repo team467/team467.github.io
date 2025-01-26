@@ -36,7 +36,7 @@ params:
     facebook: https://www.facebook.com/shrewsburyrobotics
     instagram: https://www.instagram.com/shrewsburyrobotics467/
     email: info@shrewsburyrobotics.org
-    flickr: foo
+    slack: https://shrewsburyrobotics.slack.com
 
 menus:
   main:
