@@ -12,6 +12,11 @@ outputs:
   section:
   - html
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files - primarily for <BR> in tables
+
 params:
   homeTitle: "Shrewsbury Robotics"
   selfHosted: true

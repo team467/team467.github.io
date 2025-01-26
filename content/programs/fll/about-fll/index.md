@@ -21,6 +21,7 @@ _FIRST_ LEGO League has three divisions that inspire youth to experiment and gro
 * [Fall Program]({{< relref "fll-fall-program" >}}):
   * Students compete in the annual **_FIRST_ LEGO League Challenge** competition.
   * For the 2024 season, Shrewsbury Robotics is proud to be supporting 16 teams.
+  * see a recap of our 2024 season in this [blog post]({{< relref 2024-12-15-fllrecap >}})
 * [Summer Program]({{< relref "fll-summer-program" >}}):
   * Fun informal summer vacation program based on the previous years challenge.
   * In 2024, we hosted over 100 students across 4 weeks of the summer program.
