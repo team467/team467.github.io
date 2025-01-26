@@ -7,7 +7,7 @@ You can visit our website at any of the following URLs:
 
 1. [team467.github.io](https://team467.github.io)
 2. [shrewsburyrobotics.org](https://shrewsburyrobotics.org)
-3. [team467.org](https://team467.org)
+3. [team467.org](http://team467.org)
 
 ## Contributing
 If any current members of the team are interested in contributing to the website, follow the [setup](SETUP.md) to get started.
