@@ -5,11 +5,11 @@ title: '2025: Reefscape'
 
 {{< columns >}}
 
-[![Week 1 Competition](2025-week1-sme.png)](https://frc-events.firstinspires.org/2025/MEFAL)
+[![Week 1 Competition](2025-week1-sme.png)](https://www.nefirst.org/frc-events/southern-maine)
 
 {{< column >}}
 
-[![Week 3 Competition](2025-week3-wne.png)](https://frc-events.firstinspires.org/2025/MAWNE)
+[![Week 3 Competition](2025-week3-wne.png)](https://www.nefirst.org/frc-events/western-ne)
 
 {{< endcolumns >}}
 
