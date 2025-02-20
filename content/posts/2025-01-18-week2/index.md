@@ -2,4 +2,13 @@
 title: 'Week Two Update'
 date: 2025-01-18T11:43:52-05:00
 ---
-Week 2 our sub-groups continue to make improvements. Our mechanical engineering team finished up their CAD on Monday and have been sketching the Algae remover drawing as well as other parts before sending it over to our machining crew, for cutting. We are hoping to get the holes in the belly pan by tonight. Our electrical team is finishing up the schematic and the wiring plan document to ensure our measurements/extensions are up to date. With that, our programming team has started their vision testing and has broken up into sub-teams to finish their projects including coding for LED. We have also started to administer our cross-functional subsystems, having one mechanical lead working with a programming lead. And lastly, we are working on finishing up edits for the website, the 467 videos, and the executive summaries. We would also like to congratulate our Deans List nominees: **Dillon** and **Aamir**.
+
+Week 2 is a wrap! Our mechanical subteam finished CADing the robot and is chipping away at making drawings for the manufacturing subteam, which will utilize our knee mill, lathe, and CNC router to machine various parts, the first being the bellypan of the robot. Our electrical team is finishing up the electronics schematic and the wiring plan document to ensure our measurements/extensions are up to date.
+
+![CAD](2025-01-18-week2-photo.jpg)
+
+Our programming subteam has been compiling the information the mechanical and electrical subteams gave to continue writing code for the competition robot, including implementing vision systems and LEDs.To ensure maximum efficiency, we have also administered cross-functional subsystems, having one mechanical subsystem lead working with a corresponding programming subsystem lead. Lastly, we are working on finishing edits for the website and executive summaries.
+
+We would also like to congratulate our Dean’s List nominees Dillon and Aamir for their outreach and leadership efforts on 467!
+
+
