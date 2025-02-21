@@ -1,6 +1,6 @@
 ---
 title: 'Week Five Update'
-date: 2025-02-20T21:34:07-05:00
+date: 2025-02-08T21:34:07-05:00
 ---
 
 It's been 5 weeks since kickoff, and in two weeks we will be at our first competition of the season in Falmouth, Maine! The robot is nearly complete, but some fine-tuning is needed. Both programming and electrical have been working to get the robot moving, although we’ve had occasional mechanical issues, such as with our elevator clutch.
