@@ -103,4 +103,8 @@ menus:
     pageRef: /events/spirit-of-shrewsbury
     parent: Events
     weight: 40
+  - name: Open House
+    pageRef: /events/open-house
+    parent: Events
+    weight: 50
 
