@@ -1,7 +1,7 @@
 ---
 title: 'Elementary School Presentations'
 date: 2024-10-24T20:00:53-04:00
-author: Pranav Gundu - 467 Student Team Member
+author: Pranav G - 467 Student Team Member
 ---
 
 Team 467 is committed to spreading STEM to the next generation of engineers. Every year, a group of students from Team 467 visits the elementary schools in the [Shrewsbury Public Schools District](https://schools.shrewsburyma.gov/) to teach them about the engineering design process—and our robot **_SHUFFLE_**.

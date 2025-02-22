@@ -1,7 +1,7 @@
 ---
 title: 'Mindstorm Mayhem 2024'
 date: 2024-12-07T18:38:31-05:00
-author: Jules Uttaro - 467 Student Team Member
+author: Jules U - 467 Student Team Member
 ---
 On Saturday, December 7, our team hosted our **17th Mindstorm Mayhem** qualifier. It was an exciting event, allowing young creators to compete on a local level while still being exposed to a competitive environment.
 

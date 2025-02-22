@@ -1,7 +1,7 @@
 ---
 title: '22nd Annual Pie Bake'
 date: 2024-11-24T20:00:53-04:00
-author: Pranav Gundu - 467 Student Team Member
+author: Pranav G - 467 Student Team Member
 ---
 
 The weekend before Thanksgiving, FRC Team 467: **Center of Mass** proudly hosted our **22nd Annual** Thanksgiving Pie Bake! This longstanding tradition has been a cherished part of our team’s culture, bringing together students, mentors, parents, and supporters to not only serve our local community but also give back in meaningful ways. Over the years, it has grown into a smooth operation and a heartwarming way to celebrate the season of giving.
