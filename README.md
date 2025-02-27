@@ -1,4 +1,4 @@
-# Shrewsbury Robotics - Team 467: Colonials' Website
+# Shrewsbury Robotics - Team 467: Center of Mass' Website
 
 Welcome to the official website of **Shrewsbury Robotics Team 467**! This website serves as a central hub for everything related to our team, from updates and events to resources for current and future members.
 
