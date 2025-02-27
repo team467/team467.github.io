@@ -65,6 +65,12 @@ The alliance that earns the most points wins the match!
 
 ---
 
+### Impact Award Video
+
+{{< youtube 9pLiT21FuVk >}}
+
+---
+
 ### Team Photo
 {{< figure src="2025-team-photo.jpg" >}}
 
