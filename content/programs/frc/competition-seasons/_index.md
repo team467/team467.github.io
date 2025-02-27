@@ -10,8 +10,7 @@ In 2025, Team 467 will compete with our robot **_NESSIE_** at the _**Southern Ma
 
 {{< column >}}
 
-[![Southern Maine](2025-reefscape/2025-week1-sme-small.png)](2025-reefscape)
-[![Western New England](2025-reefscape/2025-week3-wne-small.png)](2025-reefscape)
+[![2025 Robot](2025-reefscape/2025-robot-nessie-small.jpg)](2025-reefscape)
 
 {{< endcolumns >}}
 

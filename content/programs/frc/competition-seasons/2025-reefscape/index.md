@@ -9,7 +9,7 @@ title: '2025: Reefscape'
 
 ---
 
-{{< youtube tCdvU4BLBkI >}}
+{{< figure src="2025-robot-nessie.jpg" >}}
 
 {{< column >}}
 
@@ -50,6 +50,12 @@ The alliance that earns the most points wins the match!
 {{< youtube YWbxcjlY9JY >}}
 
 {{< endcolumns >}}
+
+---
+
+### Robot Reveal
+
+{{< youtube tCdvU4BLBkI >}}
 
 ---
 
