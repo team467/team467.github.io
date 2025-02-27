@@ -5,11 +5,22 @@ title: '2025: Reefscape'
 
 {{< columns >}}
 
-[![Week 1 Competition](2025-week1-sme.png)](https://www.nefirst.org/frc-events/southern-maine)
+### Robot: NESSIE
+
+---
+
+{{< youtube tCdvU4BLBkI >}}
 
 {{< column >}}
 
-[![Week 3 Competition](2025-week3-wne.png)](https://www.nefirst.org/frc-events/western-ne)
+### Competitions
+
+---
+
+#### Regular Season
+
+* [Southern Maine](https://www.thebluealliance.com/event/2025mefal)
+* [Western NE](https://www.thebluealliance.com/event/2025mawne)
 
 {{< endcolumns >}}
 
