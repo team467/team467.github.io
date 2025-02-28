@@ -1,5 +1,5 @@
 ---
-title: 'Week 7 Update'
+title: 'Week Seven Update'
 date: 2025-02-22T17:38:07-05:00
 ---
 One week out from Southern Maine and it's crunch time for 467. We've been working endlessly over the school break to make our robot competition ready.
