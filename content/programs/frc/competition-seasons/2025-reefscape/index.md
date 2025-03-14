@@ -20,7 +20,19 @@ title: '2025: Reefscape'
 #### Regular Season
 
 * [Southern Maine](https://www.thebluealliance.com/event/2025mefal)
+  - _Dean's List Semi-Finalist (Aamir S)_
 * [Western NE](https://www.thebluealliance.com/event/2025mawne)
+
+---
+
+{{< statbotics
+    record="9-7-0" year="2025"
+    auto="6.4" teleop="28.3" endgame="8.8" total="43.5"
+    ww-place="210" ww-outof="3713"
+    us-place="157" us-outof="2948"
+    ne-place="16"  ne-outof="191"
+    ma-place="7"  ma-outof="70"
+>}}
 
 {{< endcolumns >}}
 
@@ -68,6 +80,12 @@ The alliance that earns the most points wins the match!
 ### Impact Award Video
 
 {{< youtube 9pLiT21FuVk >}}
+
+---
+
+### Southern Maine Competition Highlight Reel
+
+{{< youtube AWwYBwkEgyM >}}
 
 ---
 
