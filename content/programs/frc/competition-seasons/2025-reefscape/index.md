@@ -20,18 +20,21 @@ title: '2025: Reefscape'
 #### Regular Season
 
 * [Southern Maine](https://www.thebluealliance.com/event/2025mefal)
-  - _Dean's List Semi-Finalist (Aamir S)_
+  * _Dean's List Semi-Finalist (Aamir S)_
 * [Western NE](https://www.thebluealliance.com/event/2025mawne)
+  * _District FIRST Impact Award_
+
+* [District Championship](https://www.thebluealliance.com/event/2025necmp)
 
 ---
 
 {{< statbotics
-    record="9-7-0" year="2025"
-    auto="6.4" teleop="28.3" endgame="8.8" total="43.5"
-    ww-place="210" ww-outof="3713"
-    us-place="157" us-outof="2948"
-    ne-place="16"  ne-outof="191"
-    ma-place="7"  ma-outof="70"
+    record="20-12-0" year="2025"
+    auto="10.8" teleop="30.8" endgame="9.9" total="51.5"
+    ww-place="159" ww-outof="3715"
+    us-place="126" us-outof="2949"
+    ne-place="17"  ne-outof="191"
+    ma-place="8"  ma-outof="70"
 >}}
 
 {{< endcolumns >}}
