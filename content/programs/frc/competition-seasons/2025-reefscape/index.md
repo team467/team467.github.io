@@ -86,13 +86,24 @@ The alliance that earns the most points wins the match!
 
 ---
 
+{{< columns >}}
+
 ### Southern Maine Competition Highlight Reel
 
 {{< youtube AWwYBwkEgyM >}}
 
+{{< column >}}
+
+### Winning the Impact Award at Western New England Competition
+
+{{< figure src="2025-wne-impact-award.jpg" >}}
+
+{{< endcolumns >}}
+
 ---
 
 ### Team Photo
+
 {{< figure src="2025-team-photo.jpg" >}}
 
 ---
