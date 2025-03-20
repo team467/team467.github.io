@@ -29,6 +29,7 @@ params:
   bigimg:
   - src: "images/wheelPodThroughTheYears.jpg"
   - src: "images/2025-Team-Photo.jpg"
+  - src: "images/2025-wne-impact-award.jpg"
 
   author:
     website: "https://www.shrewsburyrobotics.org"
