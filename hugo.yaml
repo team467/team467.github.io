@@ -33,11 +33,13 @@ params:
 
   author:
     website: "https://www.shrewsburyrobotics.org"
+    email: info@shrewsburyrobotics.org
+    slack: https://shrewsburyrobotics.slack.com
     github: orgs/team467
     facebook: https://www.facebook.com/shrewsburyrobotics
     instagram: https://www.instagram.com/shrewsburyrobotics467/
-    email: info@shrewsburyrobotics.org
-    slack: https://shrewsburyrobotics.slack.com
+    youtube: https://www.youtube.com/@ShrewsburyRoboticsMedia/videos
+    flickr: https://www.flickr.com/photos/shrewsburyrobotics/albums
 
 menus:
   main:
