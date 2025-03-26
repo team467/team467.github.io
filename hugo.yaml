@@ -87,6 +87,10 @@ menus:
     pageRef: /resources/merchandise
     parent: Resources
     weight: 40
+  - name: Links
+    pageRef: /resources/useful-links
+    parent: Resources
+    weight: 50
 
   - name: Events
     weight: 40
