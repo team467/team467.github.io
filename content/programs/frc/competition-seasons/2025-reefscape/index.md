@@ -23,18 +23,17 @@ title: '2025: Reefscape'
   * _Dean's List Semi-Finalist (Aamir S)_
 * [Western NE](https://www.thebluealliance.com/event/2025mawne)
   * _District FIRST Impact Award_
-
 * [District Championship](https://www.thebluealliance.com/event/2025necmp)
 
 ---
 
 {{< statbotics
-    record="20-12-0" year="2025"
-    auto="10.8" teleop="30.8" endgame="9.9" total="51.5"
-    ww-place="159" ww-outof="3715"
-    us-place="126" us-outof="2949"
-    ne-place="17"  ne-outof="191"
-    ma-place="8"  ma-outof="70"
+    record="28-20-0" year="2025"
+    auto="15.1" teleop="33.9" endgame="10.6" total="59.5"
+    ww-place="287" ww-outof="3690"
+    us-place="242" us-outof="2927"
+    ne-place="27"  ne-outof="190"
+    ma-place="12"  ma-outof="70"
 >}}
 
 {{< endcolumns >}}
@@ -94,11 +93,18 @@ The alliance that earns the most points wins the match!
 
 {{< column >}}
 
+#### Western New England Competition Highlight Reel
+
+{{< youtube pCsZt80nP0k >}}
+
+{{< endcolumns >}}
+
+---
+
 #### Winning Impact Award at Western New England
 
 {{< figure src="2025-wne-impact-award.jpg" >}}
 
-{{< endcolumns >}}
 
 ---
 
