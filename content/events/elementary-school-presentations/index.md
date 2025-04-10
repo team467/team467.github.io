@@ -22,7 +22,7 @@ Team 467 is committed to spreading STEM to the next generation of engineers. Eve
 
 <br>
 
-Our presentations consisted of a informational section related to the engineering and design process followed by a demo of our 2024 robot **_SHUFFLE_**, and even a quiz following the presentation with prizes! Overall, this is a great way to spread STEM awareness and help gain support for our team.
+Our presentations include an informational section on the engineering and design process, followed by a demonstration of our current robot—and even a fun quiz with prizes at the end! Overall, it's a great way to spread STEM awareness and build support for our team.
 
 <br>
 
