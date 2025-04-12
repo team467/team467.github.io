@@ -14,7 +14,7 @@ subtitle: Girls Innovating and Recognizing Leadership in STEM
 
 We will have a number of female guest speakers from a variety of STEM fields. They will be talking about women’s roles in the workplace, highlighting their own careers and answering questions. There will also be various hands-on challenges for the participants, which will get the gears turning in their heads.
 
-This event is being run by Shrewsbury _FIRST_ Robotics Team 467. Our goal is to emphasize women’s role in engineering to middle school girls. Click here to [sign up](https://docs.google.com/forms/d/e/1FAIpQLSco-W61F7QZJWANu9m_O13jFJvLGpK8CkpsWN75dUcdYh_Rmg/viewform).
+This event is being run by Shrewsbury _FIRST_ Robotics Team 467. Our goal is to emphasize women’s role in engineering to middle school girls. Click here to [sign up](https://docs.google.com/forms/d/e/1FAIpQLSdUQzEEbmeCk75XTK9FWXpgeftYsx6eitkqkb-ivy2wvQ23zA/viewform).
 
 We hope to see you there!
 
