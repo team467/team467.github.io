@@ -114,4 +114,9 @@ menus:
     pageRef: /events/open-house
     parent: Events
     weight: 50
+  - name: Elementary School Presentations
+    pageRef: /events/elementary-school-presentations
+    parent: Events
+    weight: 60
+
 
