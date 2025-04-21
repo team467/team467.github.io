@@ -24,16 +24,17 @@ title: '2025: Reefscape'
 * [Western NE](https://www.thebluealliance.com/event/2025mawne)
   * _District FIRST Impact Award_
 * [District Championship](https://www.thebluealliance.com/event/2025necmp)
+* [World Championship - Hopper](https://www.thebluealliance.com/event/2025hop)
 
 ---
 
 {{< statbotics
-    record="28-20-0" year="2025"
-    auto="15.1" teleop="33.9" endgame="10.6" total="59.5"
-    ww-place="287" ww-outof="3690"
-    us-place="242" us-outof="2927"
+    record="33-25-0" year="2025"
+    auto="15.9" teleop="35.9" endgame="10.2" total="62.0"
+    ww-place="304" ww-outof="3690"
+    us-place="255" us-outof="2927"
     ne-place="27"  ne-outof="190"
-    ma-place="12"  ma-outof="70"
+    ma-place="10"  ma-outof="70"
 >}}
 
 {{< endcolumns >}}
@@ -105,6 +106,20 @@ The alliance that earns the most points wins the match!
 
 {{< figure src="2025-wne-impact-award.jpg" >}}
 
+
+---
+
+### Our Best Matches from World Championship
+
+{{< columns >}}
+
+{{< youtube 9-eqZasZ0G4 >}}
+
+{{< column >}}
+
+{{< youtube 6P5FIxMDzq0 >}}
+
+{{< endcolumns >}}
 
 ---
 
