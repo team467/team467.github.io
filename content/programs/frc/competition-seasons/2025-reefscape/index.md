@@ -30,9 +30,9 @@ title: '2025: Reefscape'
 
 {{< statbotics
     record="33-25-0" year="2025"
-    auto="15.9" teleop="35.9" endgame="10.2" total="62.0"
-    ww-place="304" ww-outof="3690"
-    us-place="255" us-outof="2927"
+    auto="15.9" teleop="35.8" endgame="10.2" total="61.9"
+    ww-place="302" ww-outof="3690"
+    us-place="253" us-outof="2927"
     ne-place="27"  ne-outof="190"
     ma-place="10"  ma-outof="70"
 >}}
