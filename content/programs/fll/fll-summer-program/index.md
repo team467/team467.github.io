@@ -53,20 +53,25 @@ On Friday we provide the students with a pizza lunch, this is included in the pr
 
 All adult mentors working with the Shrewsbury High School Robotics team are CORI checked by Shrewsbury Public Schools.
 
-# Summer 2024 information
+# Summer 2025 information
 
-This year’s competition is based on the FLL competition from fall 2023: **MASTERPIECE**
+This year’s competition is based on the FLL competition from fall 2023: **SUBMERGED**
 
 #### Dates – Times: (All weeks run Monday to Friday)
 
-    July 8th-12th         8:30am to 3:30pm
-    July 15th-19th        8:30am to 3:30pm
-    July 22nd-26th        8:30am to 3:30pm
-    July 29th-August 2nd  8:30am to 3:30pm
+    July 7th-11th         8:30am to 3:30pm
+    July 14th-18th        8:30am to 3:30pm
+    July 21st-25th        8:30am to 3:30pm
+    July 28th-August 1st  8:30am to 3:30pm
 
-#### Price:
+#### Price
 
-Each week costs $305, this includes a Pizza lunch on Friday. You may sign-up for as many weeks as you want. Registration is not confirmed until we receive payment, payment is by credit or debit card during registration.
+Each week costs $320, this includes a Pizza lunch on Friday. You may sign-up for as many weeks as you want. Registration is not confirmed until we receive payment, payment is by credit or debit card during registration.
+
+#### Enrollment Link
+
+[Enrollment is through Shrewsbury Public Schools website](https://schools.shrewsburyma.gov/extendedlearning/summer-robotics)
+
 
 #### Location:
 
