@@ -7,36 +7,33 @@ title: Fall Program
 
 ![FLL Challenge Logo](fll-challenge-logo.png)
 
-**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2024 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
+**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2025 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
 
 ---
 
-## Welcome to the SUBMERGED Season
+## Welcome to the UNEARTHED™ Season
 
 {{< columns >}}
 
 ### Explore the Future
 
-In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_ LEGO League teams will use creative thinking and LEGO technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future.
+In the **UNEARTHED™** challenge, to be released August 5, 2025, _FIRST_ LEGO League teams will uncover the past to discover the future.
 
 {{< column >}}
 
-![SUBMERGED Patch](fll-submerged-patch-logo.png)
+![UNEARTHED Logo](fll-unearthed-logo.png)
 
 {{< endcolumns >}}
 
 ---
 
-{{< youtube c2f-Q5GGt2Q >}}
-
----
-
 ## Shrewsbury Robotics Program
-### Update for returning Shrewsbury Robotics students & parents
 
-We have made a number of changes to the program for the 2024 season. These changes include a new start date which now aligns with the  _FIRST_ release date for the program in August.
+During the 2024 season we changed the structure of this program as follows:-
 
-We also expect parents/guardians to be the primary team coaches. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
+* **A new start date** which now aligns with the FIRST release date for the program in August.
+
+* **Parents/guardians are expected to be the primary team coaches**. Student team members will be formed into teams which will primarily mentored and supervised by coaches comprised of their own guardians. This change allows Shrewsbury Robotics to help more teams and as such will make the program far more sustainable.
 
 ---
 
@@ -48,7 +45,7 @@ We also expect parents/guardians to be the primary team coaches. Student team me
   * Shrewsbury Robotics Facebook page.
 * **June** – Signup.
 * **July** – team formation.
-* **August** - New challenge/competition is released early August (2024 was 8/6).
+* **August** - New challenge/competition is released early August (2025 is 8/5).
 * **August** - Materials can be preordered and will be delivered starting beginning August, but instructions will not be provided until release date. Materials can only be purchased for fully paid up teams, consequently teams need to be formed before start of August to go through payment process and ordering.
 * **August** through **December**
   * Teams meet 2 to 3 times weekly.
@@ -96,12 +93,13 @@ Shrewsbury Robotics has many years experience running _FIRST_ LEGO League progra
 * Run mock **competitions** and **judging** sessions for our teams.
 * Arrange opportunities for teams to share their projects and get feedback. This is an important aspect of project work.
 
-We are very excited with this new program model and really look forward to being involved with the middle schoolers again.
+We loved how well this new program model worked last year and really look forward to seeing the middle schoolers and their coaches again.
 
 ---
 
 ### Sign Up Information
-There have been a few requests for information on how to sign up for LEGO Robotics 2024. Unfortunately, the program is currently full. Please look for the informational meeting and signup information for the 2025 competition in **June 2025**.
+
+Use this [link](https://docs.google.com/forms/d/e/1FAIpQLSdlPqsPkl7HPqlVSF_56BkvJgCTrQ2eXhoSY0D808cWXXkABQ/viewform) to sign up for the 2025 season.
 
 Please direct any questions to fll@shrewsburyrobotics.org.
 
