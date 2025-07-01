@@ -55,7 +55,7 @@ All adult mentors working with the Shrewsbury High School Robotics team are CORI
 
 # Summer 2025 information
 
-This year’s competition is based on the FLL competition from fall 2023: **SUBMERGED**
+This year’s competition is based on the FLL competition from fall 2024: **SUBMERGED**
 
 #### Dates – Times: (All weeks run Monday to Friday)
 
@@ -76,7 +76,7 @@ Each week costs $320, this includes a Pizza lunch on Friday. You may sign-up for
 #### Location:
 
      Shrewsbury High School
-     64 Holden St.
+     75 Cypress Avenue
      Shrewsbury, MA 01545
 
 #### Payment and cancellation policy:
