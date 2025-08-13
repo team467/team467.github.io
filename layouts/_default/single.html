@@ -61,7 +61,7 @@
 
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
-      
+
       {{ if .Site.Params.cusdisID }}
 
         <div id="cusdis_thread"
@@ -91,7 +91,7 @@
           </div>
           {{ else }}
           <div class="disqus-comments">
-            {{ partial "disqus.html" . }}
+            {{ partial "disqus-wrapper.html" . }}
           </div>
           {{ end }}
         {{ end }}
