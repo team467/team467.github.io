@@ -3,8 +3,6 @@ date: '2024-09-20T18:52:00-05:00'
 title: Fall Program
 ---
 
-## _FIRST_® LEGO® League Challenge
-
 ![FLL Challenge Logo](fll-challenge-logo.png)
 
 **_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2025 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
