@@ -102,10 +102,15 @@ The alliance that earns the most points wins the match!
 
 ---
 
-#### Winning Impact Award at Western New England
+### Winning Impact Award at Western New England
 
 {{< figure src="2025-wne-impact-award.jpg" >}}
 
+---
+
+### District Championship Highlight Reel
+
+{{< youtube 7lC0UWbbIUc >}}
 
 ---
 
