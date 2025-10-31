@@ -143,6 +143,6 @@ Some of our students put together this simple game based on the theme for this y
 
 ---
 
-{{< prevnext prevtext="2024: Crescendo" prevurl="../2024-crescendo" >}}
+{{< prevnext prevtext="2024: Crescendo" prevurl="../2024-crescendo" nexttext="2026: Rebuilt" nexturl="../2026-rebuilt" >}}
 
 
