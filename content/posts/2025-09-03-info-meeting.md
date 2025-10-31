@@ -1,5 +1,5 @@
 ---
-title: 'FRC Team 467 Information Meeting'
+title: 'FRC Team 467 Information Meeting Materials'
 date: 2025-09-03T21:09:31-04:00
 ---
 Thanks to all the students and parents who showed up tonight for the information meeting. Here are the links to the presentation and the application form that were shared during the meeting.
