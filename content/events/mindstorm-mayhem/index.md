@@ -22,15 +22,15 @@ This event is completely run by Team 467. Our team members gather on the night b
 
 {{< column >}}
 
-![Mindstorm Mayhem 2024](mm_2024.jpeg)
+![Mindstorm Mayhem 2025](mm_2024.jpeg)
 
 {{< endcolumns >}}
 
 ---
 
-This year, MindStorm Mayhem will be held on **December 7th, 2024**. The entry fee for teams is **$150**.
+This year, MindStorm Mayhem will be held on **December 6th, 2025**. The entry fee for teams is **$150**.
 
-**Payment is due on November 29th**
+**Payment is due on November 28th**
 
 Payment Information:
 
@@ -51,15 +51,15 @@ Payment Information:
 **Food!**
 In addition to breakfast items (pastries, bagels, etc), hot and cold drinks, and a selection of snacks, teams may preorder pizza that will be delivered to our event. The pizza selections are:
 
-    Large Cheese Pizza (8 slices) - $14.00
-    Large Pepperoni Pizza (8 slices) - $16.00
-    Large Gluten Free Pizza (8 slices) - $9.50
+    Large Cheese Pizza (8 slices) - $TBD
+    Large Pepperoni Pizza (8 slices) - $TBD
+    Large Gluten Free Pizza (8 slices) - $TBD
 
 We will also be offering a VERY LIMITED selection pizza-by-the-slice for $3.00 per slice, subject to availability.
 
-To order pizza, fill out the information on the link below. Please note, in order to ensure delivery, pizza orders MUST be in by Wednesday, December 4th.
+<!--To order pizza, fill out the information on the link below. Please note, in order to ensure delivery, pizza orders MUST be in by Wednesday, December 4th.
 
-PIZZA ORDER REQUESTS:  https://forms.gle/tDanE81fvahyaVHU6
+PIZZA ORDER REQUESTS:  TBD-->
 
 ---
 
@@ -83,17 +83,21 @@ Teams are guaranteed a minimum of 3 matches in order to achieve their highest sc
 
 ---
 
-## Welcome to the SUBMERGED Season
+## Welcome to the UNEARTHED Season
 
 {{< columns >}}
 
 ### Explore the Future
 
-In the [**SUBMERGED℠**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_ LEGO League teams will use creative thinking and LEGO technology to explore the layers of the ocean and bring their learnings and ideas to the surface as they “sea” into the future
+In the [**UNEARTHED&trade;**](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources) challenge, _FIRST_&reg; LEG&reg; League teams will uncover the past to discover the future.
+
+
+Every artifact we uncover holds a story. Each tool, each innovation, each work of art connects us to the people and ideas that came before us. Using STEM skills and teamwork, today we can dig deeper into discoveries than ever before.
+
 
 {{< column >}}
 
-![SUBMERGED Patch](fll-submerged-patch-logo.png)
+![UNEARTHED Patch](unearthedlogo.png)
 
 {{< endcolumns >}}
 
