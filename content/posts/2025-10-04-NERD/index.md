@@ -1,5 +1,5 @@
 ---
-title: 'Pre-Season: NERD 2025'
+title: 'NERD 2025'
 date: 2025-10-08T12:13:36-04:00
 ---
 
