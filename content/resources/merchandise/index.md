@@ -21,7 +21,7 @@ Items shown in **Bold** are either new, or have changed this year and may differ
 | G840              | Navy    | as above with long sleeves | [Gildan long sleeve T-Shirt](https://www.gildan.com/us/en/8400-adult-long-sleeve-t-shirt-en_us/?color=032) - Back will be printed with team number, name and sponsor information. Design will be finalized during build season. | $16 |
 | **ST271**         | Navy    | {{< figure width=400px src="hockey-front.png" >}} | [Sport-Tek Lace-up Hooded Sweatshirt](https://www.sanmar.com/p/6595_TrueNavy) - Comes with both white and gold laces in the team colors. Nothing printed on the back. Price includes your name embroidered on the arm. | $58 |
 | **ST254**         | Navy    | {{< figure width=400px src="hoodie-front.png" >}} | [Sport-Tek Hooded Sweatshirt](https://www.sanmar.com/p/5512_TrueNavy?text=ST254) - Nothing printed on the back. Price includes your name embroidered on the arm. | $53 |
-| 8424JA            | Navy    | {{< figure width=400px src="crewneck-front.png" >}} | [Premium Fleece Crew](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424) - Nothing printed on the back. Price includes your name embroidered on the arm. | $55 |
+| 8424JA            | Navy    | {{< figure width=400px src="crewneck-front.png" >}} | [Premium Fleece Crew](https://www.jamericablanks.com/cgi-bin/liveb2b/wam_tmpl/catalog_product.p?site=JAW&layout=Responsive&page=catalog_product&product=8424) - Nothing printed on the back. Price includes your name embroidered on the arm. | $56 |
 
 ----
 
