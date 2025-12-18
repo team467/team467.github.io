@@ -5,6 +5,17 @@ title: 'Team 467 Competition Seasons'
 
 {{< columns >}}
 
+### [2026: Rebuilt](2026-rebuilt)
+In 2026, Team 467 will compete at the _**Granite State**_ and **WPI** District Qualifiers.
+
+{{< column >}}
+
+
+{{< endcolumns >}}
+
+---
+{{< columns >}}
+
 ### [2025: Reefscape](2025-reefscape)
 In 2025, Team 467 competed with our robot **_NESSIE_** at the _**Southern Maine**_ and **Western New England** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Houston.
 
