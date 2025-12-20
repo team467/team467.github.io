@@ -3,11 +3,9 @@ title: 'Regional Qualifiers: 2025'
 date: 2025-12-09
 ---
 
-Since August, our FIRST LEGO League (FLL) teams have been on an incredible journey of late-night brainstorming, complex coding, and precision engineering! All those hours spent perfecting innovation projects and fine-tuning robots have led to **this** moment.  
-We are beyond ecstatic to announce that **12 of our 21 teams** have officially punched their tickets to the **State Championship**!  
-This is a monumental achievement that speaks to your grit, creativity, and teamwork. To every student who competed: we are bursting with pride at what you’ve accomplished.
-
-<h3 style="text-align:center;">Marlborough Qualifiers</h3>
+Since August, our FIRST LEGO League (FLL) teams have been on an incredible journey of late-night brainstorming, complex coding, and precision engineering! All those hours spent perfecting innovation projects and fine-tuning robots have led to this moment.  
+We are beyond ecstatic to announce that **12 of the 21 Shrewsbury Robotics teams** have officially punched their tickets to the **State Championship**!  
+Congratulations to all the teams that made it to the state competition. This is a monumental achievement this is a monumental achievement that speaks to your grit, creativity, and teamwork. To every student who competed: we are bursting with pride at what you’ve accomplished.
 
 {{< columns >}}
   {{< column >}}
@@ -32,8 +30,8 @@ This is a monumental achievement that speaks to your grit, creativity, and teamw
 
 {{< columns >}}
   {{< column >}}
-  ![Team Xtreme Xcavatord](team-14-xtreme-xcavators.jpg)  
-  Team Xtreme Xcavatord<br>1st Place Core Values
+  ![Team Xtreme Xcavators](team-14-xtreme-xcavators.jpg)  
+  Team Xtreme Xcavators<br>1st Place Core Values
 
   {{< column >}}
   ![Dino Diggers](team-16-dino-diggers.jpg)  

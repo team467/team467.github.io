@@ -1,6 +1,6 @@
 ---
 title: 'Mindstorm Mayhem: 2025'
-date: 2025-12-09
+date: 2025-12-12
 ---
 Thank you to everyone who helped make **Mindstorm Mayhem** last week such a fantastic event! We’re excited to share that it was a huge success. Not only did we pull off a smooth and well-run competition, but **15 teams** also brought home awards!
 
