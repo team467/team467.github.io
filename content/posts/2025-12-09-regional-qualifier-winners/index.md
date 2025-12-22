@@ -4,7 +4,7 @@ date: 2025-12-09
 author: Lashika K - 467 Student Team Member
 ---
 
-Since August, our FIRST LEGO League (FLL) teams have been on an incredible journey of late-night brainstorming, complex coding, and precision engineering! All those hours spent perfecting innovation projects and fine-tuning robots have led to this moment.
+Since August, our _FIRST_ LEGO League (FLL) teams have been on an incredible journey of late-night brainstorming, complex coding, and precision engineering! All those hours spent perfecting innovation projects and fine-tuning robots have led to this moment.
 
 We are beyond ecstatic to announce that **12 of the 21 Shrewsbury Robotics teams** have officially punched their tickets to the **State Championship**!
 
@@ -80,7 +80,7 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< columns >}}
 
-{{< figure src=team-6-neon-nerdettes.jpg title="Neon Nerdettes" caption="1st Place Championship" >}}
+{{< figure src=team-6-neon-nerdettes.jpg title="Neon Nerdettes" caption="1st Place Champions" >}}
 
 {{< column >}}
 
