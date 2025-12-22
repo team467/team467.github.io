@@ -1,84 +1,95 @@
 ---
 title: 'Mindstorm Mayhem: 2025'
 date: 2025-12-12
+author: Lashika K - 467 Student Team Member
 ---
-Thank you to everyone who helped make **Mindstorm Mayhem** last week such a fantastic event! We’re excited to share that it was a huge success. Not only did we pull off a smooth and well-run competition, but **15 teams** also brought home awards!
+Thank you to everyone who helped make **Mindstorm Mayhem** last week such a fantastic event! We’re excited to share that it was a huge success. Not only did we pull off a smooth and well-run competition, but **15 teams** also took home awards!
 
 This year was truly something special. Congratulations to all the teams who qualified and celebrated big wins!
 
-<h3 style="text-align:center;">Awards & Recognitions</h3>
+---
+
+{{< text-center "### Awards & Recognitions" >}}
 
 {{< columns >}}
-  {{< column >}}
-  ![CyberSquad](IMG_5865.JPG)  
-  **1st Place Champions**  
-  CyberSquad
 
-  ![Geared-Up Gladiatorz](IMG_5862.JPG)  
-  **2nd Place Champions**  
-  Geared-Up Gladiatorz
+{{< figure src=cyber-squad.jpg title="1st Place Champions" caption="CyberSquad" >}}
 
-  ![Falcon](IMG_5860.JPG)  
-  **3rd Place Champions**  
-  Falcon
+#
 
-  {{< column >}}
-  ![Webo Robo](IMG_5832.JPG)  
-  **1st Place Core Values**  
-  Webo Robo
+{{< figure src=geared-up-gladiatorz.jpg title="2nd Place Champions" caption="Geared-Up Gladiatorz" >}}
 
-  ![Ground Breakers](IMG_5830.JPG)  
-  **2nd Place Core Values**  
-  Ground Breakers
+{{< column >}}
 
-  ![Woodside Rainbow Lego Eaters](IMG_5827.JPG)  
-  **3rd Place Core Values**  
-  Woodside Rainbow Lego Eaters
-{{< endcolumns >}}
-
-{{< columns >}}
-  {{< column >}}
-  ![Trailblazing Pioneers](IMG_5848.JPG)  
-  **1st Place Innovation Project**  
-  Trailblazing Pioneers
-
-  ![Circuit Crushers](IMG_5858.JPG)  
-  **2nd Place Innovation Project**  
-  Circuit Crushers
-
-  ![Blue Stormgears](IMG_5844.JPG)  
-  **3rd Place Innovation Project**  
-  Blue Stormgears
-
-
-  {{< column >}}
-  ![History Hackers](IMG_5840.JPG)  
-  **1st Place Robot Design**  
-  History Hackers
-
-  ![Lucky Stars](IMG_5837.JPG)  
-  **2nd Place Robot Design**  
-  Lucky Stars
-
-  ![Technowiz](IMG_5834.JPG)  
-  **3rd Place Robot Design**  
-  Technowiz
+{{< figure src=falcon.jpg title="3rd Place Champions" caption="Falcon" >}}
 
 {{< endcolumns >}}
 
+---
+
 {{< columns >}}
-  {{< column >}}
-  ![Moonwalkers](IMG_5825.JPG)  
-  **Breakthrough Award**  
-  Moonwalkers
 
-  {{< column >}}
-  ![Powered Pioneers](IMG_5822.JPG)  
-  **Motivate Award**  
-  Powered Pioneers
+{{< figure src=webo-robo.jpg title="1st Place Core Values" caption="Webo Robo" >}}
 
-  ![Diggin' Dogs](IMAGE_URL_15)  
-  **Rising All Star**  
-  Diggin’ Dogs
+#
+
+{{< figure src=ground-breakers.jpg title="2nd Place Core Values" caption="Ground Breakers" >}}
+
+{{< column >}}
+
+{{< figure src=woodside-rainbow-lego-eaters.jpg title="3rd Place Core Values" caption="Woodside Rainbow Lego Eaters" >}}
+
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+{{< figure src=trailblazing-pioneers.jpg title="1st Place Innovation Project" caption="Trailblazing Pioneers" >}}
+
+#
+
+{{< figure src=circuit-crushers.jpg title="2nd Place Innovation Project" caption="Circuit Crushers" >}}
+
+{{< column >}}
+
+{{< figure src=blue-stormgears.jpg title="3rd Place Innovation Project" caption="Blue Stormgears" >}}
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+{{< figure src=history-hackers.jpg title="1st Place Robot Design" caption="History Hackers" >}}
+
+#
+
+{{< figure src=lucky-stars.jpg title="2nd Place Robot Design" caption="Lucky Stars" >}}
+
+{{< column >}}
+
+{{< figure src=techno-wiz.jpg title="3rd Place Robot Design" caption="Techno Wiz" >}}
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+{{< figure src=moon-walkers.jpg title="Breakthrough Award" caption="Moonwalkers" >}}
+
+{{< column >}}
+
+{{< figure src=powered-pioneers.jpg title="Motivate Award" caption="Powered Pioneers" >}}
+
+{{< endcolumns >}}
+
+_(No Picture)_
+
+#### Rising All Star
+
+Diggin' Dogs
+
+
 
