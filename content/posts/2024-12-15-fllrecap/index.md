@@ -17,18 +17,18 @@ Thank you to everyone who has helped make this year’s program a success.
 | FLL Team | SR Team | Team Name             | Awards at Qualifier                                                   | Awards at State Championship |
 |----------|---------|-----------------------|-----------------------------------------------------------------------|------------------------------|
 | #65225   | #1      | Waterbenders          |                                                                       |                              |
-| #65249   | #2      | Unsinkable            | - Robot Design Finalist <br> - Invitation to State Championship       |                              |
+| #65249   | #2      | Unsinkable            | - Robot Design Finalist & Invitation to State Championship       |                              |
 | #65250   | #3      | SeaSamurai            | - Invitation to State Championship                                    |                              |
 | #65251   | #4      | TechnOrcas            | - 2nd Place Innovation award                                          |                              |
-| #65252   | #5      | Submerged Circuits    | - Rising All Star award <br> - Invitation to State Championship       |                              |
+| #65252   | #5      | Submerged Circuits    | - Rising All Star award & Invitation to State Championship       |                              |
 | #65331   | #6      | Supersharks           | - Invitation to State Championship                                    | - Finalist Core Values Award |
 | #65332   | #7      | Techno Falcons        |                                                                       |                              |
 | #65333   | #8      | Submerged Robonaughts |                                                                       |                              |
 | #65334   | #9      | Tidal Technobots      |                                                                       |                              |
-| #65335   | #10     | Circuit Surfers       | - 1st Place Core Values award <br> - Invitation to State Championship |                              |
+| #65335   | #10     | Circuit Surfers       | - 1st Place Core Values award & Invitation to State Championship |                              |
 | #65743   | #11     | Oceaneers             |                                                                       |                              |
 | #65744   | #12     | Neptune Knights       | - Judges award                                                        |                              |
-| #65745   | #13     | Krakens               | - 2nd Place Innovation award <br> - Invitation to State Championship  |                              |
-| #65746   | #14     | Hydro Hackers         | - 2nd Place Innovation award <br> - Invitation to State Championship  | - Judges Award               |
+| #65745   | #13     | Krakens               | - 2nd Place Innovation award & Invitation to State Championship  |                              |
+| #65746   | #14     | Hydro Hackers         | - 2nd Place Innovation award & Invitation to State Championship  | - Judges Award               |
 | #65747   | #15     | Poseidon's Children   |                                                                       |                              |
-| #65748   | #16     | Poseidon's Army       | - Judges award for Project <br> - Invitation to State Championship    |                              |
+| #65748   | #16     | Poseidon's Army       | - Judges award for Project & Invitation to State Championship    |                              |

@@ -3,9 +3,12 @@ title: 'Mindstorm Mayhem: 2025'
 date: 2025-12-12
 author: Lashika K - 467 Student Team Member
 ---
+
 Thank you to everyone who helped make **Mindstorm Mayhem** last week such a fantastic event! We’re excited to share that it was a huge success. Not only did we pull off a smooth and well-run competition, but **15 teams** also took home awards!
 
 This year was truly something special. Congratulations to all the teams who qualified and celebrated big wins!
+
+<!--more-->
 
 ---
 
