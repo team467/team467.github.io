@@ -84,6 +84,6 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< column >}}
 
-{{< figure src=team-3-roborelics.jpg title="Robo Relics" caption="2nd Place Champions" >}}
+{{< figure src=team-3-roborelics.jpg title="Robo Relics" caption="2nd Place Champions & Coach Award" >}}
 
 {{< endcolumns >}}
