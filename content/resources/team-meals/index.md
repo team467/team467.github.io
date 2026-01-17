@@ -64,6 +64,6 @@ We will relay any information we receive about allergies and what is necessary t
 
 ---
 
-Questions about meals, please email <nancy@shrewsburyrobotics.org>.
+Questions about meals, please email <amber@shrewsburyrobotics.org>.
 
-If there are financial difficulties that you feel will prevent you from taking part, please email <tim@shrewsburyrobotics.org> This information will be kept in confidence.
+If there are financial difficulties that you feel will prevent you from taking part, please email <joe@shrewsburyrobotics.org> This information will be kept in confidence.
