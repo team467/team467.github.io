@@ -31,10 +31,12 @@ EPA breakdown:
     <h1>{{ .Get "us-place" }}</h1>
     <p>USA<br>out of {{ .Get "us-outof" }}</p>
 </div>
+{{- if (.Get "ne-place") }}
 <div class="block">
   <h1>{{ .Get "ne-place" }}</h1>
     <p>New England<br>out of {{ .Get "ne-outof" }}</p>
 </div>
+{{ end }}
 <div class="block">
     <h1>{{ .Get "ma-place" }}</h1>
     <p>Massachusetts<br>out of {{ .Get "ma-outof" }}</p>

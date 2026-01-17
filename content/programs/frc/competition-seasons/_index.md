@@ -245,3 +245,16 @@ In 2007, Team 467 competed with our robot at the **_Finger Lakes_** and the **_B
 [![2007 Robot](2007-rack-n-roll/2007-robot-small.png)](2007-rack-n-roll)
 
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2006: Aim High](2006-aim-high)
+In 2006, Team 467 competed with our robot **_Archimedes_** at the **_Finger Lakes_** and the **_Boston_** Regional Events.
+
+{{< column >}}
+
+[![2006 Robot](2006-aim-high/2006-robot-small.png)](2006-rack-n-roll)
+
+{{< endcolumns >}}

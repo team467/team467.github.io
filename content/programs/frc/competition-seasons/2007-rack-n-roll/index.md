@@ -71,4 +71,4 @@ contact with the playing field at the end of the match
 
 ---
 
-{{< prevnext nexttext="2008: FIRST Overdrive" nexturl="../2008-first-overdrive" >}}
+{{< prevnext prevtext="2006: Aim High" prevurl="../2006-aim-high" nexttext="2008: FIRST Overdrive" nexturl="../2008-first-overdrive" >}}
