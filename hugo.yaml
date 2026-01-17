@@ -79,18 +79,22 @@ menus:
     pageRef: /resources/team-meals
     parent: Resources
     weight: 20
+  - name: Handbook
+    pageRef: resources/handbook
+    parent: Resources
+    weight: 30
   - name: Sponsors
     pageRef: /resources/sponsors
     parent: Resources
-    weight: 30
+    weight: 40
   - name: Merchandise
     pageRef: /resources/merchandise
     parent: Resources
-    weight: 40
+    weight: 50
   - name: Links
     pageRef: /resources/useful-links
     parent: Resources
-    weight: 50
+    weight: 60
 
   - name: Events
     weight: 40
