@@ -1,11 +1,11 @@
 ---
-date: '2007-01-06T10:30:00-05:00'
+date: '2006-01-07T10:30:00-05:00'
 title: "2006: Aim High"
 ---
 
 {{< columns >}}
 
-### Robot
+### Robot: ARCHIMEDES
 
 ---
 
@@ -70,4 +70,4 @@ platform or ramp at the end of the match.
 
 ---
 
-{{< prevnext nexttext="2007: Rack 'n' Roll" nexturl="../2007-rack-n-roll" >}}
+{{< prevnext prevtext="2005: Triple Play" prevurl="../2005-triple-play" nexttext="2007: Rack 'n' Roll" nexturl="../2007-rack-n-roll" >}}

@@ -5,7 +5,7 @@ title: '2014: Aerial Assist'
 
 {{< columns >}}
 
-### Robot: Atlas
+### Robot: ATLAS
 
 ---
 

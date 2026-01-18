@@ -5,7 +5,7 @@ title: '2013: Ultimate Ascent'
 
 {{< columns >}}
 
-### Robot: Vortex
+### Robot: VORTEX
 
 ---
 

@@ -5,7 +5,7 @@ title: '2011: LOGO MOTION'
 
 {{< columns >}}
 
-### Robot: Wallace & Gromit
+### Robot: WALLACE & GROMIT
 
 ---
 

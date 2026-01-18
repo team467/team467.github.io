@@ -5,7 +5,7 @@ title: '2015: Recycle Rush'
 
 {{< columns >}}
 
-### Robot: Mantis
+### Robot: MANTIS
 
 ---
 

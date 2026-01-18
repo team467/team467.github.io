@@ -5,7 +5,7 @@ title: '2016: FIRST Stronghold'
 
 {{< columns >}}
 
-### Robot: Mongoose
+### Robot: MONGOOSE
 
 ---
 

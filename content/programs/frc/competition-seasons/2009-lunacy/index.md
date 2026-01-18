@@ -5,7 +5,7 @@ title: '2009: Lunacy'
 
 {{< columns >}}
 
-### Robot: Dyson
+### Robot: DYSON
 
 ---
 

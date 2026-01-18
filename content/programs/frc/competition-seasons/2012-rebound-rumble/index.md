@@ -5,7 +5,7 @@ title: '2012: Rebound Rumble'
 
 {{< columns >}}
 
-### Robot: Artemas
+### Robot: ARTEMAS
 
 ---
 

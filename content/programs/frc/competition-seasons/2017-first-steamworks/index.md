@@ -5,7 +5,7 @@ title: '2017: FIRST Steamworks'
 
 {{< columns >}}
 
-### Robot: Miracle
+### Robot: MIRACLE
 
 ---
 

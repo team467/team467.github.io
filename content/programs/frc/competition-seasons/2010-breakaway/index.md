@@ -5,7 +5,7 @@ title: '2010: Breakaway'
 
 {{< columns >}}
 
-### Robot: Kickamatron
+### Robot: KICKAMATRON
 
 ---
 
