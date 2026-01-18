@@ -94,7 +94,7 @@ In 2019, Team 467 competed with our robot at the **_Granite State_** and **_Grea
 
 {{< columns >}}
 
-### [2018: FIRST Power Up](2018-first-power-up)
+### [2018: _FIRST_ Power Up](2018-first-power-up)
 In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_Southern CT_** District Qualifiers, the **_New England District Championship_** and the **_World Championship_** in Detroit.
 
 {{< column >}}
@@ -107,7 +107,7 @@ In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_
 
 {{< columns >}}
 
-### [2017: FIRST Steamworks](2017-first-steamworks)
+### [2017: _FIRST_ Steamworks](2017-first-steamworks)
 In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_** and **_Rhode Island_** District Qualifiers
 
 {{< column >}}
@@ -120,7 +120,7 @@ In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_
 
 {{< columns >}}
 
-### [2016: FIRST Stronghold](2016-first-stronghold)
+### [2016: _FIRST_ Stronghold](2016-first-stronghold)
 In 2016, Team 467 competed with our robot **_MONGOOSE_** at the **_WPI_** and **_Boston_** District Qualifiers and the **_New England District Championship_**.
 
 {{< column >}}
@@ -224,7 +224,7 @@ In 2009, Team 467 competed with our robot **_Dyson_** at the **_BAE Granite Stat
 
 {{< columns >}}
 
-### [2008: FIRST Overdrive](2008-first-overdrive)
+### [2008: _FIRST_ Overdrive](2008-first-overdrive)
 In 2008, Team 467 competed with our robot **_Roxanne_** at the **_Connecticut_** and the **_Philadelphia_** Regional Events.
 
 {{< column >}}
@@ -269,5 +269,18 @@ In 2005, Team 467 competed with our robot at the **_Granite State_** and the **_
 {{< column >}}
 
 [![2005 Robot](2005-triple-play/2005-robot-small.png)](2005-triple-play)
+
+{{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2004: _FIRST_ Frenzy](2004-first-frenzy)
+In 2004, Team 467 competed with our robot at the **_Granite State_** and the **_Long Island_** Regional Events.
+
+{{< column >}}
+
+[![2004 Robot](2004-first-frenzy/2004-robot-small.png)](2004-first-frenzy)
 
 {{< endcolumns >}}

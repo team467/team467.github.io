@@ -60,4 +60,4 @@ the match.
 
 ---
 
-{{< prevnext nexttext="2006: Aim High" nexturl="../2006-aim-high" >}}
+{{< prevnext prevtext="2004: FIRST Frenzy" prevurl="../2004-first-frenzy" nexttext="2006: Aim High" nexturl="../2006-aim-high" >}}
