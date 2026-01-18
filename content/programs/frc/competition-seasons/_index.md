@@ -258,3 +258,16 @@ In 2006, Team 467 competed with our robot **_Archimedes_** at the **_Finger Lake
 [![2006 Robot](2006-aim-high/2006-robot-small.png)](2006-rack-n-roll)
 
 {{< endcolumns >}}
+
+---
+
+{{< columns >}}
+
+### [2005: Triple Play](2005-triple-play)
+In 2005, Team 467 competed with our robot at the **_Granite State_** and the **_Chesapeake_** Regional Events.
+
+{{< column >}}
+
+[![2005 Robot](2005-triple-play/2005-robot-small.png)](2005-triple-play)
+
+{{< endcolumns >}}
