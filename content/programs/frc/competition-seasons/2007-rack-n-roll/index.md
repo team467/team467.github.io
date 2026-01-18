@@ -1,6 +1,9 @@
 ---
 date: '2007-01-06T10:30:00-05:00'
-title: "2007: Rack 'n' Roll"
+---
+
+# 2007: Rack 'n' Roll
+
 ---
 
 {{< columns >}}
@@ -60,7 +63,7 @@ contact with the playing field at the end of the match
 
 {{< column >}}
 
-{{< youtube khTGSKvDyS4 >}} 
+{{< youtube khTGSKvDyS4 >}}
 
 {{< endcolumns >}}
 
@@ -71,4 +74,4 @@ contact with the playing field at the end of the match
 
 ---
 
-{{< prevnext prevtext="2006: Aim High" prevurl="../2006-aim-high" nexttext="2008: FIRST Overdrive" nexturl="../2008-first-overdrive" >}}
+{{< prevnext prevtext="2006: Aim High" prevurl="../2006-aim-high" nexttext="2008: _FIRST_ Overdrive" nexturl="../2008-first-overdrive" >}}

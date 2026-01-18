@@ -1,6 +1,9 @@
 ---
 date: '2024-01-06T12:00:00-05:00'
-title: '2024: Crescendo'
+---
+
+# 2024: Crescendo
+
 ---
 
 {{< columns >}}

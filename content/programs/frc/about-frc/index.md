@@ -1,6 +1,9 @@
 ---
 date: '2011-07-19T14:16:39-04:00'
-title: "FIRST Robotics Competition"
+---
+
+# _FIRST_ Robotics Competition
+
 ---
 
 {{< columns >}}

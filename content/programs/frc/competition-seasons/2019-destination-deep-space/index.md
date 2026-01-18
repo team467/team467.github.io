@@ -1,6 +1,9 @@
 ---
 date: '2019-01-05T10:30:00-05:00'
-title: '2019: Destination Deep Space'
+---
+
+# 2019: Destination Deep Space
+
 ---
 
 {{< columns >}}

@@ -1,6 +1,9 @@
 ---
 date: '2015-01-03T10:30:00-05:00'
-title: '2015: Recycle Rush'
+---
+
+# 2015: Recycle Rush
+
 ---
 
 {{< columns >}}
@@ -101,4 +104,4 @@ RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete 
 
 ---
 
-{{< prevnext prevtext="2014: Aerial Assist" prevurl="../2014-aerial-assist" nexttext="2016: FIRST Stronghold" nexturl="../2016-first-stronghold" >}}
+{{< prevnext prevtext="2014: Aerial Assist" prevurl="../2014-aerial-assist" nexttext="2016: _FIRST_ Stronghold" nexturl="../2016-first-stronghold" >}}

@@ -1,6 +1,9 @@
 ---
 date: '2005-01-08T10:30:00-05:00'
-title: "2005: Triple Play"
+---
+
+# 2005: Triple Play
+
 ---
 
 {{< columns >}}
@@ -60,4 +63,4 @@ the match.
 
 ---
 
-{{< prevnext prevtext="2004: FIRST Frenzy" prevurl="../2004-first-frenzy" nexttext="2006: Aim High" nexturl="../2006-aim-high" >}}
+{{< prevnext prevtext="2004: _FIRST_ Frenzy" prevurl="../2004-first-frenzy" nexttext="2006: Aim High" nexturl="../2006-aim-high" >}}

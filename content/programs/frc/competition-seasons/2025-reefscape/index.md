@@ -1,6 +1,9 @@
 ---
 date: '2024-09-01T12:00:00-05:00'
-title: '2025: Reefscape'
+---
+
+# 2025: Reefscape
+
 ---
 
 {{< columns >}}

@@ -1,6 +1,9 @@
 ---
 date: '2020-01-04T12:00:00-05:00'
-title: '2020: Infinite Recharge'
+---
+
+# 2020: Infinite Recharge
+
 ---
 
 The 2020 competition season was ended after the first week due to the COVID-19 pandemic.

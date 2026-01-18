@@ -1,6 +1,9 @@
 ---
 date: '2010-01-09T10:30:00-05:00'
-title: '2010: Breakaway'
+---
+
+# 2010: Breakaway
+
 ---
 
 {{< columns >}}
@@ -44,7 +47,7 @@ title: '2010: Breakaway'
 
 ### The Game
 
-Breakaway is a game played on the FIELD (illustrated in the figure below). Two ALLIANCES, one red and one blue, composed of three FIRST Robotics Competition (FRC) teams each, compete in each MATCH. The object of the game is to attain a higher score than your opponent by shooting BALLS into a GOAL, climbing on the ALLIANCE TOWER or PLATFORM, or by lifting an ALLIANCE ROBOT off the PLAYING SURFACE.
+Breakaway is a game played on the FIELD (illustrated in the figure below). Two ALLIANCES, one red and one blue, composed of three _FIRST_ Robotics Competition (FRC) teams each, compete in each MATCH. The object of the game is to attain a higher score than your opponent by shooting BALLS into a GOAL, climbing on the ALLIANCE TOWER or PLATFORM, or by lifting an ALLIANCE ROBOT off the PLAYING SURFACE.
 
 ![Breakaway field](2010-breakaway-field.png)
 

@@ -1,6 +1,9 @@
 ---
 date: '2023-01-07T12:00:00-05:00'
-title: '2023: Charged Up'
+---
+
+# 2023: Charged Up
+
 ---
 
 {{< columns >}}

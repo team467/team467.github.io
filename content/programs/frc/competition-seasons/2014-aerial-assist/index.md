@@ -1,6 +1,9 @@
 ---
 date: '2014-01-04T10:30:00-05:00'
-title: '2014: Aerial Assist'
+---
+
+# 2014: Aerial Assist
+
 ---
 
 {{< columns >}}

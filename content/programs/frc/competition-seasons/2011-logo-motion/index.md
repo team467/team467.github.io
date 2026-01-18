@@ -1,6 +1,9 @@
 ---
 date: '2011-01-08T10:30:00-05:00'
-title: '2011: LOGO MOTION'
+---
+
+# 2011: LOGO MOTION
+
 ---
 
 {{< columns >}}

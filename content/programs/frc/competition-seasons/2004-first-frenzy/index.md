@@ -1,6 +1,9 @@
 ---
 date: '2004-01-09T10:30:00-05:00'
-title: "2004: FIRST Frenzy"
+---
+
+# 2004: _FIRST_ Frenzy
+
 ---
 
 {{< columns >}}

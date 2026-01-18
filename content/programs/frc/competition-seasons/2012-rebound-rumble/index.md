@@ -1,6 +1,9 @@
 ---
 date: '2012-01-07T10:30:00-05:00'
-title: '2012: Rebound Rumble'
+---
+
+# 2012: Rebound Rumble
+
 ---
 
 {{< columns >}}

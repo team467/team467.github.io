@@ -1,6 +1,9 @@
 ---
 date: '2009-01-03T10:30:00-05:00'
-title: '2009: Lunacy'
+---
+
+# 2009: Lunacy
+
 ---
 
 {{< columns >}}
@@ -43,7 +46,7 @@ title: '2009: Lunacy'
 
 ### The Game
 
-_Lunacy_ is a game played on a field known as the CRATER. Two ALLIANCES, one red and one blue, composed of three FIRST Robotics Competition (FRC) teams each, compete in each MATCH. The object of the game is to attain a higher score than your opponent by placing the GAME PIECES in the TRAILERS hitched to the opposing ALLIANCE’S ROBOTS.
+_Lunacy_ is a game played on a field known as the CRATER. Two ALLIANCES, one red and one blue, composed of three _FIRST_ Robotics Competition (FRC) teams each, compete in each MATCH. The object of the game is to attain a higher score than your opponent by placing the GAME PIECES in the TRAILERS hitched to the opposing ALLIANCE’S ROBOTS.
 
 ---
 
@@ -53,10 +56,10 @@ _Lunacy_ is a game played on a field known as the CRATER. Two ALLIANCES, one red
 
 {{< column >}}
 
-{{< youtube nEh3Wzd1jDI >}} 
+{{< youtube nEh3Wzd1jDI >}}
 
 {{< endcolumns >}}
 
 ---
 
-{{< prevnext prevtext="2008: FIRST Overdrive" prevurl="../2008-first-overdrive" nexttext="2010: Breakaway" nexturl="../2010-breakaway" >}}
+{{< prevnext prevtext="2008: _FIRST_ Overdrive" prevurl="../2008-first-overdrive" nexttext="2010: Breakaway" nexturl="../2010-breakaway" >}}

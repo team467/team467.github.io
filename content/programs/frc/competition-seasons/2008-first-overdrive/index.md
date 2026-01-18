@@ -1,6 +1,9 @@
 ---
 date: '2008-01-05T10:30:00-05:00'
-title: '2008: FIRST Overdrive'
+---
+
+# 2008: _FIRST_ Overdrive
+
 ---
 
 {{< columns >}}
@@ -45,7 +48,7 @@ title: '2008: FIRST Overdrive'
 
 ### The Game
 
-FIRST Overdrive is a game played on the TRACK (illustrated in the figure below). Two
+_FIRST_ Overdrive is a game played on the TRACK (illustrated in the figure below). Two
 ALLIANCES, one red and one blue, composed of three teams each, compete in each MATCH. The
 object of the game is to attain a higher score than your opponent by making counter-clockwise laps
 with your robot around the TRACK while moving large TRACKBALLS over and/or under the

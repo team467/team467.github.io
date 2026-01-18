@@ -1,6 +1,9 @@
 ---
 date: '2022-01-08T12:00:00-05:00'
-title: '2022: Rapid React'
+---
+
+# 2022: Rapid React
+
 ---
 
 {{< columns >}}

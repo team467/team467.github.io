@@ -1,6 +1,9 @@
 ---
 date: '2013-01-05T10:30:00-05:00'
-title: '2013: Ultimate Ascent'
+---
+
+# 2013: Ultimate Ascent
+
 ---
 
 {{< columns >}}
