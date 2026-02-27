@@ -8,11 +8,13 @@ In other great news, our Impact Essay has been submitted, our presentation scrip
 Let’s finish the season strong—Go Team 467! 
 
 {{< columns >}}
+
 {{< column >}}
-![Robot](C:\Users\kapoo\Downloads\SHS Robotics Website\team467.github.io\content\posts\2026-02-22-mid-season-updated\IMG_2340.jpeg)
+{{< figure src="picture1.jpg" >}}
 {{< /column >}}
 
 {{< column >}}
-![Robot](C:\Users\kapoo\Downloads\SHS Robotics Website\team467.github.io\content\posts\2026-02-22-mid-season-updated\IMG_2341.jpeg)
+{{< figure src="picture.jpg" >}}
 {{< /column >}}
+
 {{< /columns >}}
