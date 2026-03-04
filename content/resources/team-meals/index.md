@@ -9,7 +9,7 @@ Team members eat together as a team during the longer work days of the build sea
 
 Due to the current size of the team, each meal will be made up of contributions from multiple students.
 
-For more information and to sign up to provide a meal for 2025 season please select a timeslot [here](https://www.signupgenius.com/go/409044DADAE2CA6F49-53574065-467build)
+For more information and to sign up to provide a meal for 2026 season please select a timeslot [here](https://www.signupgenius.com/go/409044DADAE2CA6F49-60823232-467build#/)
 
 ## Sample Meal
 
@@ -33,9 +33,9 @@ For more information and to sign up to provide a meal for 2025 season please sel
   - Chili
   - Baked potatoes with toppings
   - Pancake/Waffles with toppings
-- A vegetarian option is always available. Sometimes everything is vegetarian - this is OK. 
+- A vegetarian option is always available. Sometimes everything is vegetarian - this is OK.
 
-**Ethnic dishes and vegetarian meals are always welcome and encouraged**. Eating pasta or pizza every night gets very boring - feel free to challenge us - the students and mentors have never turned down good food. 
+**Ethnic dishes and vegetarian meals are always welcome and encouraged**. Eating pasta or pizza every night gets very boring - feel free to challenge us - the students and mentors have never turned down good food.
 
 We will relay any information we receive about allergies and what is necessary to keep team members safe. You may be asked to make several portions of a meal without onions, or several portions without milk or cheese.
 
