@@ -6,7 +6,7 @@ subtitle: Girls Innovating and Recognizing Leadership in STEM
 
 {{< columns >}}
 
-![GIRLS Day](2026-girls-day.jpeg)
+![GIRLS Day](2026-girls-day.jpg)
 
 {{< column >}}
 
