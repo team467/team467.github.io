@@ -5,7 +5,7 @@ title: Summer Program
 
 {{< columns >}}
 
-Science and Engineering play a big part in our everyday lives and in the world. We teach students about Science and Engineering by using LEGO Robotics, Rockets and middle school level engineering challenges. They also get to have fun in the process and learn valuable team working skills.
+Science and Engineering play a big part in our everyday lives and in the world. We teach students about Science and Engineering by using LEGO Robotics & Model Rockets. They also get to have fun in the process and learn valuable team working skills.
 
 {{< column >}}
 
@@ -53,16 +53,16 @@ On Friday we provide the students with a pizza lunch, this is included in the pr
 
 All adult mentors working with the Shrewsbury High School Robotics team are CORI checked by Shrewsbury Public Schools.
 
-# Summer 2025 information
+# Summer 2026 information
 
-This year’s competition is based on the FLL competition from fall 2024: **SUBMERGED**
+This year’s competition is based on the FLL competition from fall 2025: **UNEARTHED**
 
 #### Dates – Times: (All weeks run Monday to Friday)
 
-    July 7th-11th         8:30am to 3:30pm
-    July 14th-18th        8:30am to 3:30pm
-    July 21st-25th        8:30am to 3:30pm
-    July 28th-August 1st  8:30am to 3:30pm
+    July 6th-10th         8:30am to 3:30pm
+    July 13th-17th        8:30am to 3:30pm
+    July 20th-24th        8:30am to 3:30pm
+    July 27th-31st        8:30am to 3:30pm
 
 #### Price
 
@@ -70,7 +70,7 @@ Each week costs $320, this includes a Pizza lunch on Friday. You may sign-up for
 
 #### Enrollment Link
 
-[Enrollment is through Shrewsbury Public Schools website](https://schools.shrewsburyma.gov/extendedlearning/summer-robotics)
+[Enrollment is through Shrewsbury Public Schools](https://shrewsburyma.ce.eleyo.com/course/1661/summer-robotics-2026/summer-robotics)
 
 
 #### Location:
