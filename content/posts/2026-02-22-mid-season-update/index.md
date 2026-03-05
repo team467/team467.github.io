@@ -9,11 +9,11 @@ Let’s finish the season strong—Go Team 467!
 
 {{< columns >}}
 
-{{< figure src="electricle-team.jpg" >}}
+{{< figure src="electrical-team.jpg" >}}
 
 {{< column >}}
 
-{{< figure src="mechanicle-team-working.jpg" >}}
+{{< figure src="mechanical-team-working.jpg" >}}
 
 {{< endcolumns >}}
 
