@@ -28,7 +28,7 @@ params:
   mainSections: ["posts"]
   bigimg:
   - src: "images/wheelPodThroughTheYears.jpg"
-  - src: "images/2026-team-photo.jpg"
+  - src: "images/2026-team-photo.png"
   - src: "images/2025-wne-impact-award.jpg"
   - src: "images/2025-dcmp-spirit.jpg"
   author:
