@@ -9,3 +9,9 @@
 **/.DS_Store
 
 /.vscode
+
+# Don't allow checkin of movie files
+*.mov
+*.mp4
+*.avi
+*.mpg
