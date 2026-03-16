@@ -1,6 +1,6 @@
 ---
-title: Granite State Competition 
-date: 3-14-2026
+title: 'Granite State Competition' 
+date: 2026-3-16
 ---
 
 ---
