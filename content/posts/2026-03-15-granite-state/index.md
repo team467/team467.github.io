@@ -10,19 +10,21 @@ This weekened we competed at the Granite State Qualifier in Bedford, New Hampshi
 ---
 {{<columns>}}
 
-{{< figure src= "467-numbers-team-smile.png" >}}
+{{< figure src="dillon-robot-cool.png" >}}
 
 {{<column>}}
 
 {{< figure src="team-with-award.png" >}}
 
-{{<column>}}
-
-{{< figure src="dillon-robot-cool.png" >}}
-
-{{<column>}}
+{{< endcolumns>}}
+---
+{{<columns>}}
 
 {{< figure src="jon-nomination-no-cry.png" >}}
+
+{{<column>}}
+
+{{< figure src= "467-numbers-team-smile.png" >}}
 
 {{< endcolumns >}}
 --- 
