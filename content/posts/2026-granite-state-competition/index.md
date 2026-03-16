@@ -16,6 +16,10 @@ This weekened we competed at the Granite State Qualifier in Bedford, New Hampshi
 
 {{<column>}}
 
+{{< figure src="dillon-robot-cool.png" >}}
+
+{{<column>}}
+
 {{< figure src="jon-nomination-no-cry.png" >}}
 
 {{<column>}}
