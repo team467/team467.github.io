@@ -14,7 +14,7 @@ This weekened we competed at the Granite State Qualifier in Bedford, New Hampshi
 
 {{<column>}}
 
-{{< figure src="elliot-namita-cart.png" >}}
+{{< figure src="team-with-award.png" >}}
 
 {{<column>}}
 
