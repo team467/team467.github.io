@@ -27,6 +27,15 @@ date: '2026-01-10T12:00:00-05:00'
 
 ---
 
+{{< statbotics
+    record="5-9-0" year="2026"
+    auto="13.5" teleop="38.1" endgame="21.1" total="72.7"
+    ww-place="382" ww-outof="3763"
+    us-place="297" us-outof="2975"
+    ne-place="33"  ne-outof="200"
+    ma-place="11"  ma-outof="71"
+>}}
+
 {{< endcolumns >}}
 
 ### The Game
