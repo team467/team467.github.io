@@ -71,6 +71,12 @@ The alliance that earns the most points wins the match!
 
 ---
 
+### Winning Judges Award at Granite State District Qualifier
+
+{{< figure src="2026-gsd-judges-award.jpg" >}}
+
+---
+
 {{< prevnext prevtext="2025: Reefscape" prevurl="../2025-reefscape" >}}
 
 
