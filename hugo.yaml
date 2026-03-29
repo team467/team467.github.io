@@ -31,6 +31,7 @@ params:
   - src: "images/2026-team-photo.png"
   - src: "images/2025-wne-impact-award.jpg"
   - src: "images/2025-dcmp-spirit.jpg"
+  - src: "images/2026-judges-award-photo.png"
   author:
     website: "https://www.shrewsburyrobotics.org"
     email: info@shrewsburyrobotics.org
