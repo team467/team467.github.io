@@ -1,6 +1,7 @@
 --- 
 title: 'WPI Competition'
 date: 04-06-2026
+author: 
 ---
 
 
@@ -12,6 +13,8 @@ Lets just say ***BALL-E*** is a little less lonely as the only robot in the ***4
 
 ---
 
+{{< columns >}}
+
 {{< figure src="v2-robot.png" >}}
 
----
+{{<endcolumns>}}
