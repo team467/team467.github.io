@@ -18,7 +18,7 @@ markup:
       unsafe: true # Allow HTML in md files - primarily for <BR> in tables
     renderHooks:
       image:
-        enableDefault: true  # Allow locally referenced images to appear in blog post summaries
+        useEmbedded: fallback  # Allow locally referenced images to appear in blog post summaries
 
 params:
   homeTitle: "Shrewsbury Robotics"
@@ -43,6 +43,10 @@ params:
     instagram: https://www.instagram.com/shrewsburyrobotics467/
     youtube: https://www.youtube.com/@ShrewsburyRoboticsMedia/videos
     flickr: https://www.flickr.com/photos/shrewsburyrobotics/albums
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 menus:
   main:
