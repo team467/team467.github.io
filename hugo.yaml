@@ -22,6 +22,8 @@ markup:
 
 params:
   homeTitle: "Shrewsbury Robotics"
+  colorscheme: "light"
+  toc: false
   selfHosted: true
   favicon: false
   rss: true
