@@ -1,7 +1,6 @@
 ---
 title: 'Regional Qualifiers: 2025'
 date: 2025-12-09
-author: Lashika K - 467 Student Team Member
 ---
 
 Since August, our _FIRST_ LEGO League (FLL) teams have been on an incredible journey of late-night brainstorming, complex coding, and precision engineering! All those hours spent perfecting innovation projects and fine-tuning robots have led to this moment.

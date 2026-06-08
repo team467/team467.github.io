@@ -1,7 +1,6 @@
 ---
 title: Hydro Hackers win Innovation Award
 date: 2024-11-23T17:28:00-05:00
-author: Vidya Sambasivan - FLL Parent Coach
 ---
 Team 14 attended the Marlborough qualifiers and we qualified to go to the states. We also won an innovation project award.
 
