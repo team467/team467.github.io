@@ -45,7 +45,7 @@ date: '2018-01-06T10:30:00-05:00'
     ma-place="17"  ma-outof="78"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ _FIRST_ POWER UP, includes two alliances of video game characters and their huma
 
 {{< youtube HZbdwYiCY74 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

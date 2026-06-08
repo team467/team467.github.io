@@ -17,7 +17,7 @@ This year, we set out with ambitious goals, and thanks to the dedication of our 
 ![pies-2](pies-2.png)
 
 
-{{< endcolumns>}}
+{{< /columns >}}
 
 The big day started at **6:30 AM** as students, mentors, and parents met at the **Oak Middle School Cafeteria**, ready to roll up their sleeves and dive into the pie-making process. It wasn't long before the cafeteria was filled with peeling and chopping apples. The whole process was well-planned, right from the assembling of each pie to baking, such that at every station, the teams moved around the workflow in a smooth, proficient manner.
 
@@ -34,6 +34,6 @@ Of course, the event didn’t come together overnight. Planning for the Pie Bake
 ![Pie Shells](pie-shells.jpg)
 
 
-{{< endcolumns>}}
+{{< /columns >}}
 
 This event is more than just a fundraiser or community service initiative—it’s a celebration of teamwork, dedication, and the spirit of giving. It’s an opportunity for everyone involved to come together and make a tangible difference. Beyond the financial support this event generates for our robotics program, it strengthens our bond as a team and reinforces our mission to contribute positively to the world around us.

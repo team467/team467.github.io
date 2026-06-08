@@ -42,7 +42,7 @@ date: '2017-01-07T10:30:00-05:00'
     ma-place="43"  ma-outof="72"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -60,7 +60,7 @@ _FIRST_ STEAMWORKS, invites two adventurers’ clubs, in an era where steam powe
 
 {{< youtube EMiNmJW7enI >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

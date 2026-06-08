@@ -36,7 +36,7 @@ date: '2026-01-10T12:00:00-05:00'
     ma-place="20"  ma-outof="71"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ### The Game
 
@@ -70,7 +70,7 @@ The alliance that earns the most points wins the match!
 {{< youtube _fybREErgyM >}}
 
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

@@ -26,7 +26,7 @@ This year was truly something special. Congratulations to all the teams who qual
 
 {{< figure src=falcon.jpg title="3rd Place Champions" caption="Falcon" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -42,7 +42,7 @@ This year was truly something special. Congratulations to all the teams who qual
 
 {{< figure src=woodside-rainbow-lego-eaters.jpg title="3rd Place Core Values" caption="Woodside Rainbow Lego Eaters" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -58,7 +58,7 @@ This year was truly something special. Congratulations to all the teams who qual
 
 {{< figure src=blue-stormgears.jpg title="3rd Place Innovation Project" caption="Blue Stormgears" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -74,7 +74,7 @@ This year was truly something special. Congratulations to all the teams who qual
 
 {{< figure src=techno-wiz.jpg title="3rd Place Robot Design" caption="Techno Wiz" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -86,7 +86,7 @@ This year was truly something special. Congratulations to all the teams who qual
 
 {{< figure src=powered-pioneers.jpg title="Motivate Award" caption="Powered Pioneers" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 _(No Picture)_
 

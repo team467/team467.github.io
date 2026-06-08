@@ -43,7 +43,7 @@ date: '2019-01-05T10:30:00-05:00'
     ma-place="67"  ma-outof="73"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -61,7 +61,7 @@ In DESTINATION: DEEP SPACE, we join two competing ALLIANCES collecting samples o
 
 {{< youtube Mew6G_og-PI >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

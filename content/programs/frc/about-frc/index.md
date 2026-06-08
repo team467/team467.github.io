@@ -16,7 +16,7 @@ date: '2011-07-19T14:16:39-04:00'
 
 Each year, teams of high school students, coaches, and mentors work during a six-week period to build robots capable of competing in that year's game.
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

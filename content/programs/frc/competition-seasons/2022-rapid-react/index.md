@@ -43,7 +43,7 @@ date: '2022-01-08T12:00:00-05:00'
     ma-place="32"  ma-outof="69"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -61,7 +61,7 @@ In **_RAPID REACT_**, two competing alliances are invited to process cargo for t
 
 {{< youtube LgniEjI9cCM >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

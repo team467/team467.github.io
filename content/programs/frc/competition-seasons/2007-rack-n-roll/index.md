@@ -41,7 +41,7 @@ date: '2007-01-06T10:30:00-05:00'
     ma-place="28"  ma-outof="53"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -65,7 +65,7 @@ contact with the playing field at the end of the match
 
 {{< youtube khTGSKvDyS4 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

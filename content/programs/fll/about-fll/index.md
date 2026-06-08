@@ -13,7 +13,7 @@ _FIRST_ LEGO League has three divisions that inspire youth to experiment and gro
 
 ![FLL Students](fll-students.jpg)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

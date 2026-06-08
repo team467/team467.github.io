@@ -40,7 +40,7 @@ date: '2004-01-09T10:30:00-05:00'
     ma-place="9"  ma-outof="27"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -62,7 +62,7 @@ competition.
 
 {{< youtube JIGggWdMekk >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

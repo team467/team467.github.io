@@ -43,7 +43,7 @@ date: '2024-01-06T12:00:00-05:00'
     ma-place="17"  ma-outof="69"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ specific scoring thresholds and for cooperating with their opponents.
 
 {{< youtube 9keeDyFxzY4 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

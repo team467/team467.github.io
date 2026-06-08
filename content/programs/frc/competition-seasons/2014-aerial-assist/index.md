@@ -42,7 +42,7 @@ date: '2014-01-04T10:30:00-05:00'
     ma-place="19"  ma-outof="60"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -60,7 +60,7 @@ ALLIANCES playing AERIAL ASSIST score BALLS in GOALS, over a TRUSS, and are rewa
 
 {{< youtube oxp4dkMQ1Vo >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

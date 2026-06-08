@@ -41,7 +41,7 @@ The 2020 competition season was ended after the first week due to the COVID-19 p
     ma-place="43"  ma-outof="47"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -58,7 +58,7 @@ In **INFINITE RECHARGE**, two alliances work to protect _FIRST_ City from approa
 
 {{< youtube gmiYWTmFRVE >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

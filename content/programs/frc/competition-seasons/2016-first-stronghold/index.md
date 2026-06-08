@@ -45,7 +45,7 @@ date: '2016-01-09T10:30:00-05:00'
     ma-place="10"  ma-outof="68"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ _FIRST_ STRONGHOLD is played by two alliances of three teams each. Alliances com
 
 {{< youtube VqOKzoHJDjA >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

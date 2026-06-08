@@ -40,7 +40,7 @@ date: '2024-09-01T12:00:00-05:00'
     ma-place="10"  ma-outof="70"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ### The Game
 
@@ -67,7 +67,7 @@ The alliance that earns the most points wins the match!
 
 {{< youtube YWbxcjlY9JY >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -101,7 +101,7 @@ The alliance that earns the most points wins the match!
 
 {{< youtube pCsZt80nP0k >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -127,7 +127,7 @@ The alliance that earns the most points wins the match!
 
 {{< youtube 6P5FIxMDzq0 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

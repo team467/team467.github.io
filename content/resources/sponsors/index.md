@@ -16,7 +16,7 @@ title: Sponsors
 
 [![Shrewsbury High School](shrewsbury-public-schools.png)](https://schools.shrewsburyma.gov/high)
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 {{< text-center "## The McBrayer Family" >}}
 
@@ -35,7 +35,7 @@ title: Sponsors
 
 [![BAE](bae.svg)](https://www.baesystems.com/)
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 ---
 
@@ -49,7 +49,7 @@ title: Sponsors
 
 [![AMD](amd.svg)](https://www.amd.com/)
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 {{< text-center "## Jeremy Keith" >}}
 
@@ -65,7 +65,7 @@ title: Sponsors
 
 [![Avidia](avidia.svg)](https://www.avidiabank.com)
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 [![Shrewsbury Federal Credit Union](sfcu.png)](https://www.shrewsburycu.com/)
 
@@ -109,7 +109,7 @@ title: Sponsors
 {{< text-center "**John Tsombakos**" >}}
 {{< text-center "**Derek Bain**" >}}
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 ---
 

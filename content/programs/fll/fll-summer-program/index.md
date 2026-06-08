@@ -11,7 +11,7 @@ Science and Engineering play a big part in our everyday lives and in the world. 
 
 ![Rockets](rockets.jpg)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

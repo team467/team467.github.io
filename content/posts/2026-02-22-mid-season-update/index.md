@@ -15,5 +15,5 @@ Let’s finish the season strong—Go Team 467!
 
 {{< figure src="mechanical-team-working.jpg" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 

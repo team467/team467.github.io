@@ -42,7 +42,7 @@ date: '2013-01-05T10:30:00-05:00'
     ma-place="42"  ma-outof="57"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -61,7 +61,7 @@ Teams earn additional points by CLIMBING their ALLIANCE’S PYRAMID by the end o
 
 {{< youtube itHNW2OFr4Y >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -75,7 +75,7 @@ Teams earn additional points by CLIMBING their ALLIANCE’S PYRAMID by the end o
 
 {{< youtube 8yqztrrcAc8 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

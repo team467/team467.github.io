@@ -40,7 +40,7 @@ date: '2011-01-08T10:30:00-05:00'
     ma-place="39"  ma-outof="53"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -58,7 +58,7 @@ LOGO MOTION is played by two competing alliances on a flat 27’ x 54’ foot fi
 
 {{< youtube aH_9QHZpsfs >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

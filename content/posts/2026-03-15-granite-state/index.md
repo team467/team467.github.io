@@ -21,7 +21,7 @@ We earned a total of 29 district point at Granite State and hopefully continue t
 
 {{< figure src="team-with-award.png" >}}
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 ---
 
@@ -33,6 +33,6 @@ We earned a total of 29 district point at Granite State and hopefully continue t
 
 {{< figure src= "467-numbers-team-smile.png" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---

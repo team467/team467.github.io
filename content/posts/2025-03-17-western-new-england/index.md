@@ -29,7 +29,7 @@ The Impact Award automatically qualifies us to attend the [NE FIRST District Cha
 
 {{< figure src=2025-03-16-robot.jpg >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -45,7 +45,7 @@ The Impact Award automatically qualifies us to attend the [NE FIRST District Cha
 
 {{< figure src=2025-03-16-winning-impact.jpg >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

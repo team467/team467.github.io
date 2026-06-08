@@ -11,7 +11,7 @@ Our open house is a great way to connect, especially with the younger members of
 
 ![Sample Display](display.jpg)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -27,7 +27,7 @@ It wouldn't be an open house if we didn't also give a tour of our shop which hou
 
 Robots, fun STEM activities, and informative stations combine together to make a passport which kids fill out as they go around to each station. Once they complete their passport they return to the front to receive a special prize!
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

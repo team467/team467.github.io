@@ -42,7 +42,7 @@ date: '2008-01-05T10:30:00-05:00'
     ma-place="9"  ma-outof="53"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -67,7 +67,7 @@ below.
 
 {{< youtube D5oL7aLH0T4 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

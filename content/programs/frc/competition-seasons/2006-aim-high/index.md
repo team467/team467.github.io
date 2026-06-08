@@ -41,7 +41,7 @@ date: '2006-01-07T10:30:00-05:00'
     ma-place="21"  ma-outof="41"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -64,7 +64,7 @@ platform or ramp at the end of the match.
 
 {{< youtube 1Vuwjse90AA >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

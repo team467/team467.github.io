@@ -40,7 +40,7 @@ date: '2009-01-03T10:30:00-05:00'
     ma-place="15"  ma-outof="52"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -58,7 +58,7 @@ _Lunacy_ is a game played on a field known as the CRATER. Two ALLIANCES, one red
 
 {{< youtube nEh3Wzd1jDI >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

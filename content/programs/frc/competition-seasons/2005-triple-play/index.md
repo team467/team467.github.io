@@ -30,7 +30,7 @@ date: '2005-01-08T10:30:00-05:00'
 
 * [Battlecry](https://www.thebluealliance.com/event/2005wpi)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -54,7 +54,7 @@ the match.
 
 {{< youtube 6ePwDtrthWE >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

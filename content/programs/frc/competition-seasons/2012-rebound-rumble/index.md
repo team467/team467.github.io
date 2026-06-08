@@ -42,7 +42,7 @@ date: '2012-01-07T10:30:00-05:00'
     ma-place="6"  ma-outof="57"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ basketball is scored, the more points the Alliance receives.
 
 {{< youtube gYWscqruBRA >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

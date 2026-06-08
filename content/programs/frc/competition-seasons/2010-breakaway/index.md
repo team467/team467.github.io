@@ -41,7 +41,7 @@ date: '2010-01-09T10:30:00-05:00'
     ma-place="15"  ma-outof="52"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -61,7 +61,7 @@ Breakaway is a game played on the FIELD (illustrated in the figure below). Two A
 
 {{< youtube Bb1P43OSfOU >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

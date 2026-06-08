@@ -21,7 +21,7 @@ In the **UNEARTHED™** challenge, to be released August 5, 2025, _FIRST_ LEGO L
 
 ![UNEARTHED Logo](fll-unearthed-logo.png)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -71,7 +71,7 @@ Each team must have 2 official _FIRST_ Lead Coaches. There are also plenty of ot
 
 ![FLL Coach](fll-coach.jpg)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 To ensure the safety of our students, all adults working with students in this program should meet the following requirements:
 * Obtain a CORI check through Shrewsbury Public Schools.

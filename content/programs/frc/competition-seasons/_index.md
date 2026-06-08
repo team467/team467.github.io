@@ -12,7 +12,7 @@ In 2026, Team 467 will compete with our robot **_BALL-E_** at the _**Granite Sta
 
 [![2026 Robot](2026-rebuilt/2026-robot-ball-e-small.jpg)](2026-rebuilt)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 {{< columns >}}
@@ -24,7 +24,7 @@ In 2025, Team 467 competed with our robot **_NESSIE_** at the _**Southern Maine*
 
 [![2025 Robot](2025-reefscape/2025-robot-nessie-small.jpg)](2025-reefscape)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -37,7 +37,7 @@ In 2024, Team 467 competed with our robot **_SHUFFLE_** at the _**BSU**_ and **_
 
 [![2024 Robot](2024-crescendo/2024-robot-shuffle-small.jpg)](2024-crescendo)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -50,7 +50,7 @@ In 2023, Team 467 competed with our robot **_GRAB CRAB_** at the **_Granite Stat
 
 [![2023 Robot](2023-charged-up/2023-robot-grabcrab-small.jpg)](2023-charged-up)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ In 2022, Team 467 competed with our robot **_GEOFFREY_** at the **_Granite State
 
 [![2022 Robot](2022-rapid-react/2022-robot-geoffrey-small.jpg)](2022-rapid-react)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -76,7 +76,7 @@ In 2020, Team 467 competed with our robot at the **_Granite State_** District Qu
 
 [![2020 Robot](2020-infinite-recharge/2020-robot-small.jpg)](2020-infinite-recharge)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -89,7 +89,7 @@ In 2019, Team 467 competed with our robot at the **_Granite State_** and **_Grea
 
 [![2019 Robot](2019-destination-deep-space/2019-robot-small.jpg)](2019-destination-deep-space)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -102,7 +102,7 @@ In 2018, Team 467 competed with our robot **_ODYSSEY_** at the **_WPI_** and **_
 
 [![2018 Robot](2018-first-power-up/2018-robot-odyssey-small.jpg)](2018-first-power-up)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -115,7 +115,7 @@ In 2017, Team 467 competed with our robot **_MIRACLE_** at the **_Granite State_
 
 [![2017 Robot](2017-first-steamworks/2017-robot-miracle-small.jpg)](2017-first-steamworks)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -128,7 +128,7 @@ In 2016, Team 467 competed with our robot **_MONGOOSE_** at the **_WPI_** and **
 
 [![2016 Robot](2016-first-stronghold/2016-robot-mongoose-small.jpg)](2016-first-stronghold)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -141,7 +141,7 @@ In 2015, Team 467 competed with our robot **_MANTIS_** at the **_Granite State_*
 
 [![2015 Robot](2015-recycle-rush/2015-robot-mantis-small.jpg)](2015-recycle-rush)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -154,7 +154,7 @@ In 2014, Team 467 competed with our robot **_ATLAS_** at the **_WPI_** and **_Pi
 
 [![2014 Robot](2014-aerial-assist/2014-robot-atlas-small.jpg)](2014-aerial-assist)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -167,7 +167,7 @@ In 2013, Team 467 competed with our robot **_VORTEX_** at the **_WPI_** Regional
 
 [![2013 Robot](2013-ultimate-ascent/2013-robot-vortex-small.jpg)](2013-ultimate-ascent)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -180,7 +180,7 @@ In 2012, Team 467 competed with our robot **_ARTEMAS_** at the **_WPI_** and the
 
 [![2012 Robot](2012-rebound-rumble/2012-robot-artemas-small.jpg)](2012-rebound-rumble)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -193,7 +193,7 @@ In 2011, Team 467 competed with our robots **_WALLACE & GROMIT_** at the **_WPI_
 
 [![2011 Robot](2011-logo-motion/2011-robot-wallace+gromit-small.jpg)](2011-logo-motion)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -206,7 +206,7 @@ In 2010, Team 467 competed with our robot **_Kickamatron_** at the **_Chesapeake
 
 [![2010 Robot](2010-breakaway/2010-robot-kickamatron-small.jpg)](2010-breakaway)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -219,7 +219,7 @@ In 2009, Team 467 competed with our robot **_Dyson_** at the **_BAE Granite Stat
 
 [![2009 Robot](2009-lunacy/2009-robot-dyson-small.png)](2009-lunacy)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -232,7 +232,7 @@ In 2008, Team 467 competed with our robot **_Roxanne_** at the **_Connecticut_**
 
 [![2008 Robot](2008-first-overdrive/2008-robot-roxanne-small.png)](2008-first-overdrive)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -245,7 +245,7 @@ In 2007, Team 467 competed with our robot at the **_Finger Lakes_** and the **_B
 
 [![2007 Robot](2007-rack-n-roll/2007-robot-small.png)](2007-rack-n-roll)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -258,7 +258,7 @@ In 2006, Team 467 competed with our robot **_Archimedes_** at the **_Finger Lake
 
 [![2006 Robot](2006-aim-high/2006-robot-small.png)](2006-rack-n-roll)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -271,7 +271,7 @@ In 2005, Team 467 competed with our robot at the **_Granite State_** and the **_
 
 [![2005 Robot](2005-triple-play/2005-robot-small.png)](2005-triple-play)
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -284,4 +284,4 @@ In 2004, Team 467 competed with our robot at the **_Granite State_** and the **_
 
 [![2004 Robot](2004-first-frenzy/2004-robot-small.png)](2004-first-frenzy)
 
-{{< endcolumns >}}
+{{< /columns >}}

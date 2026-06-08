@@ -22,4 +22,4 @@ Thank you,
 
 GIRLS Day Committee on Team 467
 
-{{< endcolumns >}}
+{{< /columns >}}

@@ -46,7 +46,7 @@ date: '2015-01-03T10:30:00-05:00'
     ma-place="18"  ma-outof="64"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -64,7 +64,7 @@ RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete 
 
 {{< youtube W6UYFKNGHJ8 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 ### Chairman's Award Video and First Ever Win at Granite State Competition
@@ -77,7 +77,7 @@ RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete 
 
 {{< youtube Xm73GXPxfFU >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -95,7 +95,7 @@ RECYCLE RUSH is played by two (2) ALLIANCES of three (3) Teams each who compete 
 
 {{< youtube L13OsGEzS8s >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 ### 2015 Season Retrospective

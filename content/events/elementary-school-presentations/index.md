@@ -15,7 +15,7 @@ Team 467 is committed to spreading STEM to the next generation of engineers. Eve
 ![Coolidge](coolidge.jpg)
 
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 
 Our presentations include an informational section on the engineering and design process, followed by a demonstration of our current robot and a quiz with prizes at the end! Overall, it's a great way to spread STEM awareness and build support for our team.
@@ -28,7 +28,7 @@ Our presentations include an informational section on the engineering and design
 
 {{< video src="paton.mp4" autoplay="true" >}}
 
-{{< endcolumns>}}
+{{< /columns>}}
 
 ### Presentation Dates in 2024
     Oct 23rd      Spring Street School

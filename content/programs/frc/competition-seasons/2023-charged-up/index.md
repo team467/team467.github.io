@@ -45,7 +45,7 @@ date: '2023-01-07T12:00:00-05:00'
     ma-place="15"  ma-outof="66"
 >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -63,7 +63,7 @@ In **_CHARGED UP_**, two competing alliances are invited to process game pieces 
 
 {{< youtube 0zpflsYc4PA >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 

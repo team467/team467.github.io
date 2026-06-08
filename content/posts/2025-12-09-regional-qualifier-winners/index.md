@@ -22,7 +22,7 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< figure src=team-21-cold-agent.jpg title="Cold Agent" caption="Rising All Star" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -44,7 +44,7 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< figure src=team-16-dino-diggers.jpg title="Dino Diggers" caption="2nd Place Core Values" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -58,7 +58,7 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< figure src=team-18-furious-5.jpg title="Furious 5" caption="1st Place Champions" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -72,7 +72,7 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< figure src=team-13-groundbreakers.jpg title="Groundbreakers" caption="Judges Award Core Values" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
 
 ---
 
@@ -86,4 +86,4 @@ Congratulations to all the teams that made it to the state competition. This is 
 
 {{< figure src=team-3-roborelics.jpg title="Robo Relics" caption="2nd Place Champions & Coach Award" >}}
 
-{{< endcolumns >}}
+{{< /columns >}}

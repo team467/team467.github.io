@@ -15,4 +15,4 @@ We were thrilled to be chosen as the first pick for Alliance 6, led by Team 4909
 
 {{< figure src=2025-10-04-robot.jpg >}}
 
-{{< endcolumns >}}
+{{< /columns >}}
