@@ -29,6 +29,11 @@ date: '2024-09-01T12:00:00-05:00'
 * [District Championship](https://www.thebluealliance.com/event/2025necmp)
 * [World Championship - Hopper](https://www.thebluealliance.com/event/2025hop)
 
+#### Post Season
+
+* [Battlecry](https://www.thebluealliance.com/event/2025bc)
+* [NERD](https://www.thebluealliance.com/event/2025matb)
+
 ---
 
 {{< statbotics

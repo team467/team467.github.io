@@ -7,7 +7,7 @@ date: '2026-01-10T12:00:00-05:00'
 
 {{< columns >}}
 
-### Robot: BALL-E
+### Robots: BALL-E & EVE
 
 ---
 
@@ -24,16 +24,21 @@ date: '2026-01-10T12:00:00-05:00'
 * [Granite State](https://www.thebluealliance.com/event/2026nhbed)
   * _Judges' Award_
 * [WPI](https://www.thebluealliance.com/event/2026mawor)
+* [District Championship](https://www.thebluealliance.com/event/2026necmp)
+
+#### Post Season
+
+* [Battlecry](https://www.thebluealliance.com/event/2026bc)
 
 ---
 
 {{< statbotics
-    record="10-18-0" year="2026"
-    auto="19.8" teleop="41.4" endgame="19.6" total="80.8"
-    ww-place="3676" ww-outof="3726"
-    us-place="556" us-outof="2945"
-    ne-place="52"  ne-outof="200"
-    ma-place="20"  ma-outof="71"
+    record="12-30-0" year="2026"
+    auto="16.8" teleop="39.9" endgame="24.9" total="81.5"
+    ww-place="773" ww-outof="3724"
+    us-place="633" us-outof="2944"
+    ne-place="55"  ne-outof="200"
+    ma-place="21"  ma-outof="71"
 >}}
 
 {{< /columns >}}

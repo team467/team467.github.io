@@ -6,7 +6,7 @@ title: 'Team 467 Competition Seasons'
 {{< columns >}}
 
 ### [2026: Rebuilt](2026-rebuilt)
-In 2026, Team 467 will compete with our robot **_BALL-E_** at the _**Granite State**_ and **WPI** District Qualifiers.
+In 2026, Team 467 competed with our robot **_BALL-E_** at the _**Granite State**_ and **WPI** District Qualifiers and our 2nd robot **_EVE_** at the **_New England District Championship_**.
 
 {{< column >}}
 
