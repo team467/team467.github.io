@@ -11,7 +11,7 @@ date: '2026-01-10T12:00:00-05:00'
 
 ---
 
-{{< figure src="2026-robot-ball-e.jpg" >}}
+{{< figure src="2026-robot-ball-e-eve.jpg" >}}
 
 {{< column >}}
 

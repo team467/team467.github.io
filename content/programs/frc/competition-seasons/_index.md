@@ -10,7 +10,7 @@ In 2026, Team 467 competed with our robot **_BALL-E_** at the _**Granite State**
 
 {{< column >}}
 
-[![2026 Robot](2026-rebuilt/2026-robot-ball-e-small.jpg)](2026-rebuilt)
+[![2026 Robot](2026-rebuilt/2026-robot-ball-e-eve-small.jpg)](2026-rebuilt)
 
 {{< /columns >}}
 
