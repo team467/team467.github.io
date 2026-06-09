@@ -1,25 +1,28 @@
 ---
-date: '2024-09-20T18:52:00-05:00'
-title: Fall Program
+date: '2026-06-09T18:52:00-05:00'
 ---
+
+# Fall Program
 
 ![FLL Challenge Logo](fll-challenge-logo.png)
 
-**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge** program in fall of 2025 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
+**_Shrewsbury Robotics_** is pleased to be offering the  **_FIRST_ LEGO League Challenge - Founders** program in fall of 2026 (August-December) for students attending **_Sherwood Middle_** and **_Oak Middle_** Schools in Shrewsbury.
 
 ---
 
-## Welcome to the UNEARTHED™ Season
+## Welcome to the BIOGLOW™ Season
 
 {{< columns >}}
 
-### Explore the Future
+Releasing on August 4, 2026, experience the vibrancy of the world’s ecosystems in the **BIOGLOW™** Challenge.
 
-In the **UNEARTHED™** challenge, to be released August 5, 2025, _FIRST_ LEGO League teams will uncover the past to discover the future.
+The final season of _FIRST_ LEGO League will offer two editions, Founders and Future.
+
+Shrewsbury Robotics will be offering the Founders Edition for grades 4-8. This will be based on the LEGO® Education SPIKE™ technology.
 
 {{< column >}}
 
-![UNEARTHED Logo](fll-unearthed-logo.png)
+![BIOGLOW Logo](fll-bioglow-logo.webp)
 
 {{< /columns >}}
 
@@ -43,7 +46,7 @@ During the 2024 season we changed the structure of this program as follows:-
   * Shrewsbury Robotics Facebook page.
 * **June** – Signup.
 * **July** – team formation.
-* **August** - New challenge/competition is released early August (2025 is 8/5).
+* **August** - New challenge/competition is released early August (2026 is 8/4).
 * **August** - Materials can be preordered and will be delivered starting beginning August, but instructions will not be provided until release date. Materials can only be purchased for fully paid up teams, consequently teams need to be formed before start of August to go through payment process and ordering.
 * **August** through **December**
   * Teams meet 2 to 3 times weekly.
@@ -97,7 +100,7 @@ We loved how well this new program model worked last year and really look forwar
 
 ### Sign Up Information
 
-Use this [link](https://docs.google.com/forms/d/e/1FAIpQLSdlPqsPkl7HPqlVSF_56BkvJgCTrQ2eXhoSY0D808cWXXkABQ/viewform) to sign up for the 2025 season.
+Use this [link](https://docs.google.com/forms/d/e/1FAIpQLSdlPqsPkl7HPqlVSF_56BkvJgCTrQ2eXhoSY0D808cWXXkABQ/viewform) to sign up for the 2026 season (link will not be open until 6/15/26).
 
 Please direct any questions to fll@shrewsburyrobotics.org.
 
