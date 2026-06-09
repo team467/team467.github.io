@@ -1,5 +1,5 @@
 ---
-date: '2026-06-09T18:52:00-05:00'
+date: '2026-06-08T18:52:00-05:00'
 ---
 
 # Fall Program
@@ -106,7 +106,6 @@ Please direct any questions to fll@shrewsburyrobotics.org.
 
 ---
 
-### Recent news about the Shrewsbury Robotics 2024 Teams
+### Recent news about the Shrewsbury Robotics 2025 Teams
 
-- [Hydro Hackers win Innovation Award]({{< relref 2024-11-23-fll-team14-award >}})
-- [Mock Competitions]({{< relref 2024-11-17-fll-mock-competition >}})
+- [Regional Qualifier Winners]({{< relref 2025-12-09-regional-qualifier-winners >}})
