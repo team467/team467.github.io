@@ -108,4 +108,5 @@ Please direct any questions to fll@shrewsburyrobotics.org.
 
 ### Recent news about the Shrewsbury Robotics 2025 Teams
 
+- [Georgia Tech Invitational]({{< relref 2026-06-12-georgia-tech-invitational >}})
 - [Regional Qualifier Winners]({{< relref 2025-12-09-regional-qualifier-winners >}})
