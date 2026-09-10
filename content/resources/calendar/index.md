@@ -11,4 +11,5 @@ Please click on the links below to install these calendars on your device.
 
 - [Shrewsbury Robotics Events](webcal://user.fm/calendar/v1-de395ffa06fae50daaffdb5e4d4b9f50/Events.ics) - Events of interest to a wider audience
 - [First Robotics Competition (FRC) Schedule](webcal://user.fm/calendar/v1-6af9f7d7a0a41ef5dd31e8e680eba309/FRC.ics) - FRC Team 467 meeting schedule
+- [First Tech Challenge (FTC) Schedule](webcal://user.fm/calendar/v1-2d517729b0a5b9a04a3a485028d475ba/FTC.ics) - FTC Team meeting schedule
 
