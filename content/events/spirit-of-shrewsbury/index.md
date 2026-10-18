@@ -15,5 +15,5 @@ On the Sunday of the festival, our students and robots march in the parade along
 
 Join us for a great weekend as we share the fun and enthusiasm we have for Shrewsbury Robotics, and help build a passion for science, technology and engineering in the next generation of students.
 
-![2024 Robot](2024-09-28-robot-demo.jpg)
+![2026 Robot](2026-10-03-robot-demo.jpg)
 
