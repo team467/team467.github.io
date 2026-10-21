@@ -31,7 +31,7 @@ Robots, fun STEM activities, and informative stations combine together to make a
 
 ---
 
-This years open house will be held on November 2nd 2025.
+This years open house will be held on November 8th 2026.
 
 This video is from last year and will provide some insights into this years event:
 
