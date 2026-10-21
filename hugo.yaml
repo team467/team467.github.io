@@ -81,6 +81,11 @@ menus:
     pageRef: /programs/ftc/about-ftc
     parent: FIRST Tech Challenge
     weight: 10
+  - name: Fall Program
+    identifier: ftc-fall-program
+    pageRef: /programs/ftc/ftc-fall-program
+    parent: FIRST Tech Challenge
+    weight: 20
 
   - name: Resources
     weight: 30
@@ -115,7 +120,7 @@ menus:
     pageRef: /events/annual-pie-bake
     parent: Events
     weight: 10
-  - name: G.I.R.L.S Day
+  - name: Women in STEM Expo
     pageRef: /events/girls-day
     parent: Events
     weight: 20

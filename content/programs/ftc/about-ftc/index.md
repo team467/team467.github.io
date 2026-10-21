@@ -15,12 +15,11 @@ Teams develop their ideas, test their robots, and improve their designs as they 
 
 ---
 
-**Shrewsbury Robotics — Potential Energy**
+### FTC at Shrewsbury Robotics
 
-Our FIRST Tech Challenge team, **37630: Potential Energy**, brings together 9th-grade students at Shrewsbury High School to build their engineering, programming, and teamwork skills.
+Shrewsbury Robotics offers _FIRST_ Tech Challenge for 9th-grade students at Shrewsbury High School, giving students an opportunity to build their engineering, programming, and teamwork skills.
 
-* **Our team:** Team **37630**, **Potential Energy**, made up of 9th-grade Shrewsbury High School students.
-* **Meetings:** Four times a week at **Shrewsbury High School**.
+Visit our [Fall Program]({{< relref "/programs/ftc/ftc-fall-program" >}}) page for details about our current team and season.
 
 ### _FIRST_ Tech Challenge
 
