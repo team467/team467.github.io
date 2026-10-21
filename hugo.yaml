@@ -15,10 +15,9 @@ outputs:
 markup:
   goldmark:
     renderer:
-      unsafe: true # Allow HTML in md files - primarily for <BR> in tables
-    renderHooks:
+      unsafe: true 
       image:
-        useEmbedded: fallback  # Allow locally referenced images to appear in blog post summaries
+        useEmbedded: fallback  
 
 params:
   homeTitle: "Shrewsbury Robotics"
@@ -76,6 +75,18 @@ menus:
     parent: FIRST Robotics Competition
     weight: 20
 
+  - name: FIRST Tech Challenge
+    weight: 25
+  - name: About FIRST Tech Challenge
+    pageRef: /programs/ftc/about-ftc
+    parent: FIRST Tech Challenge
+    weight: 10
+  - name: Fall Program
+    identifier: ftc-fall-program
+    pageRef: /programs/ftc/ftc-fall-program
+    parent: FIRST Tech Challenge
+    weight: 20
+
   - name: Resources
     weight: 30
   - name: Calendar
@@ -109,7 +120,7 @@ menus:
     pageRef: /events/annual-pie-bake
     parent: Events
     weight: 10
-  - name: G.I.R.L.S Day
+  - name: Women in STEM Expo
     pageRef: /events/girls-day
     parent: Events
     weight: 20
