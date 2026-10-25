@@ -15,9 +15,10 @@ outputs:
 markup:
   goldmark:
     renderer:
-      unsafe: true 
+      unsafe: true # Allow HTML in md files - primarily for <BR> in tables
+    renderHooks:
       image:
-        useEmbedded: fallback  
+        useEmbedded: fallback  # Allow locally referenced images to appear in blog post summaries
 
 params:
   homeTitle: "Shrewsbury Robotics"
@@ -64,19 +65,8 @@ menus:
     weight: 30
     parent: LEGO Programs
 
-  - name: FIRST Robotics Competition
-    weight: 20
-  - name: About FIRST Robotics Competition
-    pageRef: /programs/frc/about-frc
-    parent: FIRST Robotics Competition
-    weight: 10
-  - name: "Competition Seasons"
-    pageRef: /programs/frc/competition-seasons
-    parent: FIRST Robotics Competition
-    weight: 20
-
   - name: FIRST Tech Challenge
-    weight: 25
+    weight: 20
   - name: About FIRST Tech Challenge
     pageRef: /programs/ftc/about-ftc
     parent: FIRST Tech Challenge
@@ -87,8 +77,19 @@ menus:
     parent: FIRST Tech Challenge
     weight: 20
 
-  - name: Resources
+  - name: FIRST Robotics Competition
     weight: 30
+  - name: About FIRST Robotics Competition
+    pageRef: /programs/frc/about-frc
+    parent: FIRST Robotics Competition
+    weight: 10
+  - name: "Competition Seasons"
+    pageRef: /programs/frc/competition-seasons
+    parent: FIRST Robotics Competition
+    weight: 20
+
+  - name: Resources
+    weight: 40
   - name: Calendar
     pageRef: /resources/calendar
     parent: Resources
@@ -115,7 +116,7 @@ menus:
     weight: 60
 
   - name: Events
-    weight: 40
+    weight: 50
   - name: Annual Apple Pie Bake
     pageRef: /events/annual-pie-bake
     parent: Events
