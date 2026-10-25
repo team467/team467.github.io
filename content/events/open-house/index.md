@@ -1,11 +1,15 @@
 ---
-title: 'Open House'
 date: 2025-02-21T16:03:58-05:00
 ---
+# Open House
 
 {{< columns >}}
 
-Our open house is a great way to connect, especially with the younger members of our Shrewsbury community, while promoting our team and showcasing our robot! Visitors are able to engage in various STEM activities, and witness the robot in action. We do this to raise awareness within our community about STEM and offer opportunities for our community to get involved with our other related initiatives like our fall FLL program and our STEM summer camp. In addition to our fun games and robot demonstrations, we put up displays of each of the main subteams from our high school robotics team: Programming, Electrical, Mechanical, and Outreach.
+Our open house is a great way to connect, especially with the younger members of our Shrewsbury community, while promoting our team and showcasing our robot!
+
+Visitors are able to engage in various STEM activities, and witness the robot in action. We do this to raise awareness within our community about STEM and offer opportunities for our community to get involved with our other related initiatives like our fall FLL program and our STEM summer camp.
+
+In addition to our fun games and robot demonstrations, we put up displays of each of the main subteams from our high school robotics team: Programming, Electrical, Mechanical, and Outreach.
 
 {{< column >}}
 
@@ -31,9 +35,6 @@ Robots, fun STEM activities, and informative stations combine together to make a
 
 ---
 
-This years open house will be held on November 8th 2026.
+![This years open house will be held on November 8th 2026.](poster-2026.png)
 
-This video is from last year and will provide some insights into this years event:
-
-{{< youtube 6EFhd4FnOro >}}
 
