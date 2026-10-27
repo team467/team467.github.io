@@ -65,8 +65,20 @@ menus:
     weight: 30
     parent: LEGO Programs
 
-  - name: FIRST Robotics Competition
+  - name: FIRST Tech Challenge
     weight: 20
+  - name: About FIRST Tech Challenge
+    pageRef: /programs/ftc/about-ftc
+    parent: FIRST Tech Challenge
+    weight: 10
+  - name: Fall Program
+    identifier: ftc-fall-program
+    pageRef: /programs/ftc/ftc-fall-program
+    parent: FIRST Tech Challenge
+    weight: 20
+
+  - name: FIRST Robotics Competition
+    weight: 30
   - name: About FIRST Robotics Competition
     pageRef: /programs/frc/about-frc
     parent: FIRST Robotics Competition
@@ -77,7 +89,7 @@ menus:
     weight: 20
 
   - name: Resources
-    weight: 30
+    weight: 40
   - name: Calendar
     pageRef: /resources/calendar
     parent: Resources
@@ -104,12 +116,12 @@ menus:
     weight: 60
 
   - name: Events
-    weight: 40
+    weight: 50
   - name: Annual Apple Pie Bake
     pageRef: /events/annual-pie-bake
     parent: Events
     weight: 10
-  - name: G.I.R.L.S Day
+  - name: Women in STEM Expo
     pageRef: /events/girls-day
     parent: Events
     weight: 20
