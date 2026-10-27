@@ -6,7 +6,7 @@ subtitle: Girls Innovating and Recognizing Leadership in STEM
 
 {{< columns >}}
 
-![Women in STEM Expo flyer](2026-women-in-stem-expo.jpeg)
+![Women in STEM Expo flyer](poster-2026.png)
 
 {{< column >}}
 

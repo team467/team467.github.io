@@ -35,12 +35,8 @@ Robots, fun STEM activities, and informative stations combine together to make a
 
 ---
 
-This years open house will be held on November 8th 2026.
+This years open house will be held on November 8th 2026 alongside our [Women in Stem Expo]({{< relref "women-in-stem-expo" >}})
 
-![Open House 2026 flyer](open-house-2026.svg)
-
-![Women in STEM Expo 2026 flyer](open-house-2026-page-2.jpeg)
-
-This video is from last year and will provide some insights into this years event:
+![Open House 2026 flyer](poster-2026.png)
 
 

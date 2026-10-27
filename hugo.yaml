@@ -121,8 +121,8 @@ menus:
     pageRef: /events/annual-pie-bake
     parent: Events
     weight: 10
-  - name: Women in STEM Expo
-    pageRef: /events/girls-day
+  - name: Elementary School Presentations
+    pageRef: /events/elementary-school-presentations
     parent: Events
     weight: 20
   - name: Mindstorm Mayhem
@@ -137,8 +137,8 @@ menus:
     pageRef: /events/open-house
     parent: Events
     weight: 50
-  - name: Elementary School Presentations
-    pageRef: /events/elementary-school-presentations
+  - name: Women in STEM Expo
+    pageRef: /events/women-in-stem-expo
     parent: Events
     weight: 60
 
