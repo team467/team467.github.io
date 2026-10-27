@@ -1,8 +1,7 @@
 ---
 date: '2025-02-19T14:04:05-05:00'
-title: Women in STEM Expo
-subtitle: Girls Innovating and Recognizing Leadership in STEM
 ---
+# Women in STEM Expo
 
 {{< columns >}}
 
