@@ -1,5 +1,5 @@
 ---
-title: "NERD"
+title: "NERD 2026"
 date: 2026-10-10
 ---
 
@@ -7,8 +7,5 @@ Team 467 wrapped up an exciting run at the 2026 NERD competition! It was an incr
 
 Even though our playoff run came to an end after some intense matchups, the day was a huge success by giving our drive team valuable field time, testing our setups under pressure, and building tons of momentum for the upcoming season!
 
-{{< columns >}}
-
 {{< figure src=2026-10-10-team.png >}}
 
-{{< column >}}
