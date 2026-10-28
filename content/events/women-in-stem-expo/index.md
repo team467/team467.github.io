@@ -22,3 +22,8 @@ Thank you,
 Women in STEM Expo Committee on Team 467
 
 {{< /columns >}}
+
+
+---
+
+##### For some additional inspiration from brilliant women in STEM, check out these [Ted Talks](https://www.ted.com/playlists/253/11_ted_talks_by_brilliant_wome)
