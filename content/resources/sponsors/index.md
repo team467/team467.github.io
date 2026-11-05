@@ -1,13 +1,12 @@
 ---
 date: '2014-12-03T20:39:34-05:00'
-title: Sponsors
 ---
 
 {{< text-center "# THANK YOU TO OUR TEAM SPONSORS" >}}
 
 ---
 
-{{< text-center "## SHREWSBURY ROBOTICS *PLATINUM* SPONSORS" >}}
+{{< text-center "## *PLATINUM* SPONSORS" >}}
 {{< columns >}}
 
 [![Vangytool](Vangytool.png)](http://www.vangytool.com/)
@@ -22,7 +21,7 @@ title: Sponsors
 
 ---
 
-{{< text-center "## SHREWSBURY ROBOTICS *GOLD* SPONSORS" >}}
+{{< text-center "## *GOLD* SPONSORS" >}}
 
 {{< columns >}}
 
@@ -41,7 +40,7 @@ title: Sponsors
 
 ---
 
-{{< text-center "## SHREWSBURY ROBOTICS *SILVER* SPONSORS" >}}
+{{< text-center "## *SILVER* SPONSORS" >}}
 
 {{< columns >}}
 
@@ -53,11 +52,11 @@ title: Sponsors
 
 ---
 
-{{< text-center "## SHREWSBURY ROBOTICS *BRONZE* SPONSORS" >}}
+{{< text-center "## *BRONZE* SPONSORS" >}}
 
 {{< columns >}}
 
-[![Polymaker](polymaker.png)](https://polymaker.com/)
+[![RMFG](rmfg.png)](https://rmfg.com/)
 
 {{< column >}}
 
