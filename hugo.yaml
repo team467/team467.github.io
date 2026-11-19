@@ -29,11 +29,9 @@ params:
   rss: true
   mainSections: ["posts"]
   bigimg:
-  - src: "images/wheelPodThroughTheYears.jpg"
-  - src: "images/2026-team-photo.png"
-  - src: "images/2025-wne-impact-award.jpg"
   - src: "images/2025-dcmp-spirit.jpg"
   - src: "images/2026-judges-award-photo.png"
+  - src: "images/2027-team-photo.jpg"
   author:
     website: "https://www.shrewsburyrobotics.org"
     email: info@shrewsburyrobotics.org
